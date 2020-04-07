@@ -3,5 +3,6 @@ repack*
 test*
 out_*
 *_output.txt
+*_output_PS2.txt
 *.iso
 *.xdelta
