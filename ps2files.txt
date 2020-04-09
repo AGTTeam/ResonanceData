@@ -1,4 +1,3 @@
-!FILE:PS2
 file000.gim=Shibusen/Character/m09_03.gim
 file001.gmo=Unit/Kid/pu43_kid.gmo
 file002.fpk=Pack/Fpk/pu09_etc.fpk
