@@ -1196,17 +1196,17 @@
 !FILE:ms004.smd
 !FILE:ms005.smd
 ここね、魔女ブレアのすみかは…=It's here, the witch Blair's home...
-おう、カボチャの家か…クールだな、うまそー=Oh, it's a pumpkin house, huh...Cool, looks tasty.
+おう、カボチャの家か…クールだな、うまそー=Oh, it's a pumpkin house, huh...|Cool, looks tasty.
 私、作戦書いてきたんだ=I wrote a strategy for us.
-うわ、なんだよ。そのメモは…|今日の献立じゃねえんだぞ！=Ugh, what? That paper...That's not gonna be on the schedule today!
+うわ、なんだよ。そのメモは…|今日の献立じゃねえんだぞ！=Ugh, what? That paper...|That's not gonna be on the schedule today!
 何よ、魔女は今までの敵とはワケが違うんだ|から！=Why? A witch is totally different from the enemies we fought before!
-うるせェー！|俺は一人で行くぜ！　気合だろ！=Just shut up! I'll just go alone! I'm puuumped!
-ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait! Idiot! If you yell that loud, my plan will...
-なーに、ボクたち、ブレアに何か御用？=What is it, you two have some business with Blair?
+うるせェー！|俺は一人で行くぜ！　気合だろ！=Just shut up! I'll just go alone!|I'm puuumped!
+ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait! Idiot! If you yell that loud,|my plan will...
+なーに、ボクたち、ブレアに何か御用？=Whaaat is it, you two?|You have some business with Blair?
 おわぁ！　いつの間に！=Uoh! W-When did she?
-あ、あんたが魔女ブレアね！|あんたの魂、いただくよ！=Y-You are the witch, Blair! Your soul, I'll take it!
+あ、あんたが魔女ブレアね！|あんたの魂、いただくよ！=Y-You are the witch, Blair!|I'll take your soul!
 魔女…？=Witch...?
-悪りぃが姉ちゃん、|あんたの魂、食わせてもらうぜ=Sorry, big sis. I'll take and eat your soul.
+悪りぃが姉ちゃん、|あんたの魂、食わせてもらうぜ=Sorry, big sis.|I'll take and eat your soul.
 あら、可愛いボクね。じゃ、アタシが勝ったら|アタシのモノになってもらおうかしら♪=Oh my, what a cutie. Hey, if I win, will you become my scythe♪?
 このあたりか？　魔女がいるってのは=Around here? Where the witch's supposed to be.
 うん、気づかれないようにしないと=Yes, we should stay unnoticed.
