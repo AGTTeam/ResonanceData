@@ -15,8 +15,8 @@
 いいえ=NO
 キャンセル=CANCEL
 ファイル=File
-曲名=Song name
-音名=Sound name
+#曲名=Song name
+#音名=Sound name
 究極共鳴=Ultimate resonance
 −<20>Ｄｅｍｏ<20>Ｐｌａｙ<20>−=- Demo Play -
 死武専=DWMA
@@ -385,7 +385,7 @@
 デフォルト=Default
 ボイスセッティングを終了します|よろしいですか？=Exiting Voice Settings,|is that okay?
 ■　注意　■||現在プレイ中のキャラクター以外の|カスタムボイスが変更されました。|現在プレイ中のキャラクター以外の変更は、|アドベンチャーモードには反映されません。||（○ボタンを押してください）=■　Warning　■||You've changed the custom voice of|all characters who aren't currently in play.|This change isn't reflected|in Adventure Mode.||(Press the ○ button)
-ＳＥファイル=SE File
+#ＳＥファイル=SE File
 フィールドを選択してください=Please select a field.
 相手がフィールドを選択中…=Opponent is selecting field…
 ？？？=???
