@@ -14,10 +14,10 @@
 はい=YES
 いいえ=NO
 キャンセル=CANCEL
-ファイル=File
+#ファイル=File
 #曲名=Song name
 #音名=Sound name
-究極共鳴=Ultimate resonance
+#究極共鳴=Ultimate resonance
 −<20>Ｄｅｍｏ<20>Ｐｌａｙ<20>−=- Demo Play -
 死武専=DWMA
 １Ｐ<20>=1P
@@ -95,7 +95,7 @@
 衣装替え死神様=Alternate Lord Death
 衣装替えエクスカリバー=Alternate Excalibur
 衣装替えエルカ=Alternate Eruka
-ジャンプ着地煙=Jump landing smoke
+#ジャンプ着地煙=Jump landing smoke
 #戦闘タイプ=Battle Type
 #パックファイルSH=Pack file SH
 #パックファイル2P=Pack file 2P
