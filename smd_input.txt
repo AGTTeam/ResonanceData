@@ -1,8 +1,8 @@
 !FILE:COMMON
 よーし、行くよ！　ソウル=Alright, let's go Soul!
 ああ、楽勝だな=Yeah, it'll be a piece of cake.
-こんなの簡単だよな=Oh, that easy, huh?
-うん、サービス問題ね♪=Yup, it's service problem♪
+こんなの簡単だよな=That easy, huh?
+うん、サービス問題ね♪=Yup, it's a service problem♪
 なんかヤな感じ…=It somehow gives me the creeps...
 ぶっとばしてやるか！=I'll beat you up!
 めんどくせェ～=Ugh～ troublesome.
