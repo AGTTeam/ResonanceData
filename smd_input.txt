@@ -238,7 +238,7 @@
 そこはどうでもいいだろ…|あ～何だろ。なんか嫌な予感がするよ=Who care's about that... *Sigh* I have a bad feeling about this.
 大丈夫だよ、お姉ちゃんならでっかいカボチャ|だって食べられるって=Don't worry, sis. I know you can eat it even if it's a giant pumpkin!
 邪悪な魔女ならば討伐する必要がある。|行ってみるとしよう=If it's a wicked witch, she must be subdued. Let's go and have a look.
-『デス・シティー』の噂を聞いた！=
+『デス・シティー』の噂を聞いた！=You've heard the rumor of 『Death City』!
 !FILE:ev004.smd
 お、マカにソウルじゃん！=
 あ、ブラック☆スターに椿ちゃん=
@@ -297,7 +297,7 @@
 なるほど。|それじゃ、行ってきます。|リズ、パティ、急ぐぞ=All right. Well, we'll be going.|Liz, Patty, come on.
 あいあーい=Okay, okay.
 ほいほーい=Okey-dokey!
-『シンデル魔城』の噂を聞いた！=
+『シンデル魔城』の噂を聞いた！=You've heard the rumor of 『Demon Cinder Castle』!
 !FILE:ev005.smd
 あーあ、なんだよ、ミフネって野郎もタダの|子供好きだったしよ、魂集まらねェーー！=Uugh, so what? Was Mifune just a guy who protects kids? We couldn't take her soul!
 うん、まぁしょうがないよ。|魔女って言っても、あんなちっちゃくて良い子|のアンジェラちゃんじゃね=Yeah, seems like it.|Even if she's a witch, Angela is just a tiny kid.
@@ -313,40 +313,40 @@
 やだよ！|最強のデスサイズになる俺が受けるもんじゃ|ねえ！=No way!|I'll be the strongest death scythe, no way I'm takin' that!
 ま、決まりみたいなもんでさ。|ほら、君たちって集めた魂無くなっちゃった|じゃない。だからちょっとねー=Well, it's settled.|Look, you lost all the souls you've gathered. So please.
 あう…すいません…=Uhh...Sorry.
-で、その補習の内容なんだけど、この前まで|死武専の教師だったシド先生の話…|ゾンビ化して生徒を襲ってるらしいんだよね=
-みけんに女神像が刺さって死んだって聞いたな=
-で、でも結構いい先生だったよ…|なんでゾンビに？=
-生前は確かにいい先生だったんだけど、ゾンビ|になって、死の恐怖から解放されたもんで、|生徒も同じゾンビにしようと襲ってるとか…=
-いい迷惑だな、死ぬのが怖くてもゾンビにゃ|なりたかねぇよ=
-まー、そーゆーことなんで、シド先生を止めて|きてほしいのよ。あと、ゾンビ化をほどこした|何者かが裏で何かたくらんでると思うんだ=
-分かったぜ、まとめてぶっとばしてくりゃ|いいんだな=
-そそそ。|ちなみに、この補習に失敗したら退学だから、|ガンバっちにー=
-た……た……退学！？=
-ちくしょー、退学なんてなってたまるかよ！|いくぞ、マカ！　ボーッとしてんなよ！=
-は…はああああ=
-ダンナぁ、戻ったぜ=
-おっつかれさーん=
-ずるいじゃねーかよ、魔女があんなチビッ子|なんて聞いてねーよ！=
-いや、キミたちが聞かずに飛び出して行った|んでしょ～=
-ゴメンなさい…=
-まあ、でも用心棒のミフネってやつは軽ーく|ぶっとばしてきてやったぜ=
-まあそれはたいしたもんだけどねぇ、|でも結局魂ゼロでしょ～。カポネ達の魂、|ちょろまかしてくりゃ良かったのに=
-スターの俺様が、そんなセコい真似できっかよ=
-うん、まあ、と言うことでさぁ、キミたちには|補習を受けてもらうことになったからね=
-ええっ！　補習！？=
-あ、そう。|どーいうの？=
-君はもうちょっと驚きなさいよ…=
-なっはっは、ちょろいちょろい！=
-その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=
-ゾンビかよ、趣味悪りぃ=
-シド先生はどうして…？=
-ゾンビになって、死の恐怖から解放されたのか|生徒を同じゾンビにしようと襲ってるとか…|はた迷惑な話だよねぇ=
-そんで、多分シド先生をゾンビにして|生き返らせた何者かが、裏で糸をひいてると|思うんで、それもつきとめてほしいのね=
-ＯＫ、任せろよダンナ。|要はそいつらをシメてくりゃいいんだろ？=
-シド先生は三つ星職人だったから、強いよ。|あと、これ失敗したら退学だからね=
-たたたたた退学ですか！？=
-心配すんな椿、三つ星だろうが八ツ橋だろうが|かんけーねぇって！=
-ほんじゃまあ、応援なんかしちゃったりするん|で、ガンバっちに～=
+で、その補習の内容なんだけど、この前まで|死武専の教師だったシド先生の話…|ゾンビ化して生徒を襲ってるらしいんだよね=So, about the lesson. It seems that Sid, who was a teacher at DWMA turned into a zombie and is attacking students.
+みけんに女神像が刺さって死んだって聞いたな=He's obsessed with the absolute freedom death can bring, I've heard.
+で、でも結構いい先生だったよ…|なんでゾンビに？=B-but, he was such a good teacher...|Why did he turn into a zombie?
+生前は確かにいい先生だったんだけど、ゾンビ|になって、死の恐怖から解放されたもんで、|生徒も同じゾンビにしようと襲ってるとか…=He was, when he lived. But since he is now liberated from death as a zombie, he wants to turn students into zombies too.
+いい迷惑だな、死ぬのが怖くてもゾンビにゃ|なりたかねぇよ=Seems annoying, even if I'm afraid of dying, it's not like I want to be a zombie either.
+まー、そーゆーことなんで、シド先生を止めて|きてほしいのよ。あと、ゾンビ化をほどこした|何者かが裏で何かたくらんでると思うんだ=So yeah, that's it. I want you to stop Sid. Also, I think whoever made him a zombie is planning something.
+分かったぜ、まとめてぶっとばしてくりゃ|いいんだな=Got it, so it's okay to just beat him up completely.
+そそそ。|ちなみに、この補習に失敗したら退学だから、|ガンバっちにー=Yes.|By the way, if you fail this remedial lesson you'll all be expelled, so good luck!
+た……た……退学！？=E-E-Expelled!?
+ちくしょー、退学なんてなってたまるかよ！|いくぞ、マカ！　ボーッとしてんなよ！=Damn it, there's no way I'll drop out!|Let's go, Maka! Don't zone out now!
+は…はああああ=Ha...Haaaaaa
+ダンナぁ、戻ったぜ=Lord Death, we're back!
+おっつかれさーん=Good job!
+ずるいじゃねーかよ、魔女があんなチビッ子|なんて聞いてねーよ！=That was unfair!|No one told me the witch is just a lil' kid.
+いや、キミたちが聞かずに飛び出して行った|んでしょ～=You just jumped out without listening first, right～
+ゴメンなさい…=Sorry...
+まあ、でも用心棒のミフネってやつは軽ーく|ぶっとばしてきてやったぜ=Well, we did beat that Mifune guy up a bit, still.
+まあそれはたいしたもんだけどねぇ、|でも結局魂ゼロでしょ～。カポネ達の魂、|ちょろまかしてくりゃ良かったのに=That's great and all, but you still have zero souls～ It would have been great to get at least Capone's...
+スターの俺様が、そんなセコい真似できっかよ=Well that doesn't fit my greatness.
+うん、まあ、と言うことでさぁ、キミたちには|補習を受けてもらうことになったからね=Indeed, so I want you to take a remedial lesson.
+ええっ！　補習！？=Eek! Remedial lesson!?
+あ、そう。|どーいうの？=Oh.|What do you mean?
+君はもうちょっと驚きなさいよ…=Please be more surprised...
+なっはっは、ちょろいちょろい！=Nyahaha, good good!
+その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=So, about the lesson. It seems that Sid, who was a teacher at DWMA, came back to life as a zombie and is attacking students.
+ゾンビかよ、趣味悪りぃ=Zombie huh, digusting.
+シド先生はどうして…？=Why did Sid...?
+ゾンビになって、死の恐怖から解放されたのか|生徒を同じゾンビにしようと襲ってるとか…|はた迷惑な話だよねぇ=As a zombie, he's free from the fear of dying. He wants to turn the students into zombies, too...It's a troublesome problem.
+そんで、多分シド先生をゾンビにして|生き返らせた何者かが、裏で糸をひいてると|思うんで、それもつきとめてほしいのね=The one who turned Sid into a zombie is probably pulling the strings behind all this, I also want you to find out who that is.
+ＯＫ、任せろよダンナ。|要はそいつらをシメてくりゃいいんだろ？=OK, leave it to us!|So in short, just beat them up right?
+シド先生は三つ星職人だったから、強いよ。|あと、これ失敗したら退学だからね=Sid was a three-star meister, he's strong.|Also, if you fail this, you'll be expelled.
+たたたたた退学ですか！？=E-E-E-E-Expelled!?
+心配すんな椿、三つ星だろうが八ツ橋だろうが|かんけーねぇって！=Don't worry, Tsubaki.|It doesn't matter if he's a three-star or whatever!
+ほんじゃまあ、応援なんかしちゃったりするん|で、ガンバっちに～=That's true. Well, I'm cheering for you two.|Good luck～
 父上、戻りました=
 ういーす、おかえり=
 カポネ一味は用心棒ミフネにより全滅。|ミフネと戦って、魔女アンジェラにも面会|しましたが、魂の収穫はゼロ個です=
@@ -370,19 +370,19 @@
 私達生徒じゃないんだし、ほっといても|いいんじゃないか？=
 まあ、それもそうなのだが…　|俺は不可解なことはきっちり解明したいんだ。|悪いが、少し首をつっこむぞ=
 やっぱりか…|あ～～ゾンビってのが、すごくヤなんだけど…=
-『フックセメタリー』の噂を聞いた！=
+『フックセメタリー』の噂を聞いた！=You've heard the rumor of 『Hook Cemetery』!
 !FILE:ev006.smd
-死神様！　シド先生を捕まえてきました=
-ういーっす、まずはご苦労さーん=
-黒幕はシュタイン博士ってやつだって、白状も|させたぜ！=
-むぐぐ……=
-なるほど、シュタイン君か。|ありえる話だねぇ=
-知ってるんですか？=
-彼は死武専の卒業生でね、優秀な職人だよ。|だけどちょっと悪いクセがあってね…|生き物の解剖や実験が趣味だったりするんだ=
-それでシド先生も……=
-うん、全く困ったもんだね。|彼はたぶん自分の研究所にこもってると思う|から、どうにか捕まえてきてよ=
-捕まえてきたら、補習はクリア、退学はナシ|だからな！=
-もちろん。|死なない程度に、ガンバっておいで～=
+死神様！　シド先生を捕まえてきました=Lord Death! We've captured Sid.
+ういーっす、まずはご苦労さーん=Heyooo, first of all, good job!
+黒幕はシュタイン博士ってやつだって、白状も|させたぜ！=The one behind it all was Professor Stein, he even confessed!
+むぐぐ……=Ugh...
+なるほど、シュタイン君か。|ありえる話だねぇ=I see, Stein.|That's not impossible.
+知ってるんですか？=Do you know him?
+彼は死武専の卒業生でね、優秀な職人だよ。|だけどちょっと悪いクセがあってね…|生き物の解剖や実験が趣味だったりするんだ=He was a DWMA student, an excellent meister.|Though he did have a bad habit...|He dissected and experimented on creatures.
+それでシド先生も……=So, Sid is also...
+うん、全く困ったもんだね。|彼はたぶん自分の研究所にこもってると思う|から、どうにか捕まえてきてよ=Yes, it's a real problem.|He's probably in his laboratory, please capture him somehow.
+捕まえてきたら、補習はクリア、退学はナシ|だからな！=If you capture him, the remedial lesson is cleared and no expelling!
+もちろん。|死なない程度に、ガンバっておいで～=Of course, don't die and good luck～
 死神のダンナぁ！|シドの野郎を捕まえてきてやったぜ！=
 お帰り～～|なかなかの手際じゃないの=
 裏で糸を引いているのはシュタイン博士と|言う人だそうです。|シド先生が潔く教えてくれました=
@@ -417,7 +417,7 @@
 ほいほーい=
 ちとちと、君たち…=
 ………はぁ。…ま、いっか。|「彼」ならうまくやってくれるかな=
-『ツギハギ研究所』の噂を聞いた！=
+『ツギハギ研究所』の噂を聞いた！=You've heard the rumor of 『Patchwork Lab』!
 !FILE:ev007.smd
 今日はシド先生とシュタイン先生の授業ね=
 この前半殺しにされかけた２人か…=
@@ -477,7 +477,7 @@
 そのようだな。|楽しい授業が受けられそうじゃないか=
 ゾンビのシド先生、いい人っぽかったもんね=
 ん～ゾンビにツギハギに…　学校っていうより|オバケ屋敷って感じだよな…=
-『針の村』の噂を聞いた！=
+『針の村』の噂を聞いた！=You've heard the rumor of 『Needle Village』!
 !FILE:ev008.smd
 おい、マカ！|見たか？　掲示板=
 え？　何かあったっけ=
@@ -505,7 +505,7 @@
 イタリアか、パスタ食べまくりだな=
 イカめし食うぞー！　えへへへへ=
 イカめしじゃなくてイタメシね…|イカめしは多分イタリアにはないから…=
-『教会』の噂を聞いた！=
+『教会』の噂を聞いた！=You've heard the rumor of 『Church』!
 !FILE:ev009.smd
 おや、マカにソウル。|二人でココに来るとは珍しい=
 俺が図書室に来ちゃ悪いかよ=
@@ -593,7 +593,7 @@
 エクスカリバー、俺がもらうぜ！|ひゃっほーぅ！=
 お、おい！|まあブラック☆スターにエクスカリバーが|抜けるとは思えんが…万が一、億が一もある=
 すぐに出発する！|伝説の聖剣…　この目で確かめに行くぞ！=
-『悠久の洞窟』の噂を聞いた！=
+『悠久の洞窟』の噂を聞いた！=You've heard the rumor of 『The Eternal Cave』!
 !FILE:ev010.smd
 ソウル、この課題どうだろ=
 ロンドンか、でもターゲット不確定って|書いてあるぞ？=
@@ -619,7 +619,7 @@
 わかったよ、父上。|俺がきっちりかっちり、はっきりさせてくる。|リズ、パティ、準備しておけよ=
 いえっさー=
 ほーいほい=
-『タワーブリッジ』の噂を聞いた！=
+『タワーブリッジ』の噂を聞いた！=You've heard the rumor of 『Tower Bridge』!
 !FILE:ev011.smd
 バルト海…　ですか…？=
 つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=
@@ -658,7 +658,7 @@
 うぇ～死神対黒龍か…そういうのは映画館で|やってくれよな。|私はあまり関わりあいたくないよ…=
 うむ、いざ行かん、霧のバルト海へ！=
 お～！=
-『幽霊船ニーズヘッグ』の噂を聞いた！=
+『幽霊船ニーズヘッグ』の噂を聞いた！=You've heard the rumor of 『Ghost Ship Nidhogg』!
 !FILE:ev012.smd
 早くしないと始まっちゃうよ=
 お前の仕度が遅いの=
@@ -920,7 +920,7 @@
 何！？　死神のダンナはココを動けないのか！|ただのひきこもりだと思ってたぜ=
 とにかくです。|シド君の機転を無駄に出来ません=
 地下へつながる入り口に案内しましょう。|みなさんついて来て下さい！=
-『死武専地下』の噂を聞いた！=
+『死武専地下』の噂を聞いた！=You've heard the rumor of 『DWMA Underground』!
 !FILE:ev013.smd
 くっ…=Ugh!
 くそっ！=Damn!
@@ -1157,13 +1157,13 @@
 ほら、キッド=Come on, Kid!
 うむ！=Yeah!
 !FILE:ms000.smd
-位置テスト１=
-位置テスト２=
-位置テスト３=
-位置テスト４=
-「鬼神」を二度と生み出させいない為、|死神によって創設された…|武器、そして職人の養成期間である。=
-まぁぶっちゃけ、平和を護る正義の組織なん|だけどさぁ、なんで専門学校なんだろーねー？=
-…ま、いっか！それじゃあまあ適当に|張り切って、行ってみよー！=
+位置テスト１=Position Test 1
+位置テスト２=Position Test 2
+位置テスト３=Position Test 3
+位置テスト４=Position Test 4
+「鬼神」を二度と生み出させいない為、|死神によって創設された…|武器、そして職人の養成期間である。=To prevent the Kishin from being born once more,|Lord Death started training weapons and meisters.
+まぁぶっちゃけ、平和を護る正義の組織なん|だけどさぁ、なんで専門学校なんだろーねー？=It's an organization that protects peace, but why it's called a vocational school, that I don't know.
+…ま、いっか！それじゃあまあ適当に|張り切って、行ってみよー！=...Well, whatever!|How about enlisting today?
 !FILE:ms001.smd
 死武専・学生課=DWMA - Student Division
 ほらっ、ソウル！　これこれ=Hey, Soul! Here, this one.
