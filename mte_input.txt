@@ -40,10 +40,10 @@
 三つ星職人の死武専教師シド・バレット。|「みけんに女神事件」で死亡したはずの|彼だったが、何者かの手によって蘇り、|死武専生を襲っている。|このまま放っておくわけにはいかない。=Sid Barrett, three-star meister of the DWMA.#unfinished, need confirmation
 回避力試験=Evasion Test
 難易度★★=Difficulty ★★
-守りが堅いのは結構なことだが、そればかり|では魔武器の体がもたん。|そこで、攻防一体の「回避技」の練習だ。|相手の攻撃を見切って、[c]回避技を１０回[/c]|キメてみせろ。=A strong defense is great, but even a magic weapon's body won't hold out forever. See through your opponent and [c]dodge 10 attacks[/c].
+守りが堅いのは結構なことだが、そればかり|では魔武器の体がもたん。|そこで、攻防一体の「回避技」の練習だ。|相手の攻撃を見切って、[c]回避技を１０回[/c]|キメてみせろ。=A strong defense is great, but even a magic weapon's body won't hold out forever. See through your opponent and [c]land 10 Counters[/c].
 もっとブレアのお願い=Another Blair Request
 難易度★★=Difficulty ★★
-あ～ん、ブレア退屈ゥ。|普通に戦ってるだけなのも飽きちゃった。|何か変わったやつ、見せて欲しいのぉ。|そうだ、[c]タッグ攻撃[/c]で息のあったところを|見せてよ！　オ・ネ・ガ・イ♪=Nya～, Blair is bored of fighting normally. Show me something wild. Show me a well-timed [c]Tag Attack[/c]. Pretty please♪?
+あ～ん、ブレア退屈ゥ。|普通に戦ってるだけなのも飽きちゃった。|何か変わったやつ、見せて欲しいのぉ。|そうだ、[c]タッグ攻撃[/c]で息のあったところを|見せてよ！　オ・ネ・ガ・イ♪=Nya～, Blair is bored of fighting normally. Show me something wild. Show me some well-timed [c]Throws[/c]. Pretty please♪?
 “知将雷王”オックス君登場=Ox, Royal Thunder Commander
 難易度★★=Difficulty ★★
 君、最近思い上がっていませんか？|ここで一度、その自信を打ち砕いておく|必要がありそうですね。|僕がただのガリ勉ではないということを、|必ずや思い知るでしょう。=You've started letting things go to your head. I think we'll have to break that confidence. You're going to realize I'm not just a hard worker.
