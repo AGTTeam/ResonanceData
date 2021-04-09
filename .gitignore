@@ -6,3 +6,4 @@ out_*
 *_output_PS2.txt
 *.iso
 *.xdelta
+.DS_Store
