@@ -7,7 +7,7 @@
 「影人形」を知っているか？|人の姿を真似るだけの、ごく初歩の魔道具の|一種だ。これと戦ってもらう。姿・形こそ|そっくりだが、何も恐れることは無い。|問題なのは「魂」だからだ。=Are you familiar with the Shadow Dolls? They're a crude form of magic tool. You can beat on them all you want. They look and act just like people, but there's no soul inside.
 魂の共鳴=Soul Resonance
 難易度★=Difficulty ★
-武器職人ならば、魔武器との「魂の共鳴」は|必須だ。共鳴ゲージを溜めて最大にし、|[c]究極共鳴技を成功させろ[/c]。|１２０秒以内にできないと、失敗となる。=Soul Resonance is an essential technique between meisters and their weapons. Fill the Resonance Gauge and [c]successfully perform an Ultimate Resonance Art[/c] within 120 seconds to pass.#must decide on translation for 究極共鳴技
+武器職人ならば、魔武器との「魂の共鳴」は|必須だ。共鳴ゲージを溜めて最大にし、|[c]究極共鳴技を成功させろ[/c]。|１２０秒以内にできないと、失敗となる。=Soul Resonance is an essential technique between meisters and their weapons. Fill the Resonance Gauge and [c]successfully perform an Ultimate Soul Art[/c] within 120 seconds to pass.#must decide on translation for 究極共鳴技
 攻撃を見切れ=Attack Awareness
 難易度★=Difficulty ★
 戦闘においては、相手の攻撃をかわし、|防御で耐えなくてはならない場面もある。|[c]６０秒間、敵の攻撃に耐えろ[/c]。|体力が尽きた場合は失敗となる。=There are situations in battle in which you must rely on defense. [c]Withstand the enemy's attacks for 60 seconds[/c]. Running out of health will result in failure.#term - 体力
@@ -52,7 +52,7 @@
 どうやらシド先生をゾンビにしたのは、|シュタイン博士の仕業であるようだ。|死武専卒業生最強職人と言われ、その実力は|普通の三つ星職人以上。|覚悟を決めて挑んで欲しい。=Apparently, turning Sid into a zombie was the work of Dr. Stein. I hear he's the strongest meister to graduate from the DWMA, so be ready for a fight.
 呼吸を合わせろ=Sync Up Your Breathing
 難易度★★★=Difficulty ★★★
-魂を共鳴させる訓練だ。|ただし究極共鳴技を撃てというのではない。|限られた時間内（２０秒以内）に[c]共鳴ゲージ|をレベル３[/c]にするだけでいい。|ん？　短いって？　ま、訓練だからな。=We're going to train your soul resonance but not the Ultimate Resonance Arts. All you have to do is [c]fill the Resonance Gauge to level 3[/c] within 20 seconds. Time is ticking!
+魂を共鳴させる訓練だ。|ただし究極共鳴技を撃てというのではない。|限られた時間内（２０秒以内）に[c]共鳴ゲージ|をレベル３[/c]にするだけでいい。|ん？　短いって？　ま、訓練だからな。=We're going to train your soul resonance but not the Ultimate Soul Arts. All you have to do is [c]fill the Resonance Gauge to level 3[/c] within 20 seconds. Time is ticking!
 シド先生のサバイバル１=Sid Survival 1
 難易度★★★=Difficulty ★★★
 シド先生と、サバイバル環境での戦闘訓練を|行う。[c]３本先取[/c]でシド先生に勝て。|ただし制限時間は３０秒と短くした。|判定勝ち狙いも有効だ。=Time for some survival combat training with Sid. Beat Sid in [c]3 rounds[/c]. Victory by timeout is acceptable, so keep an eye on the clock.
@@ -79,7 +79,7 @@
 いや、どうも。来てもらった所、いきなり|ですが授業を始めます。そんな難しいもの|ではありません。[c]２０秒以内[/c]に、私を倒して|ください。え、無理？　仕方ないですね～。|じゃ、体力は少なめにしておきますよ。=Pop quiz! Don't worry. It won't be anything too difficult. You just have to beat me [c]within 20 seconds[/c]. I won't use my full strength.
 シュタイン先生の試験=Professor Stein's Exam
 難易度★★★=Difficulty ★★★
-なかなかやる気があるようですね。|じゃ、そろそろテストでもやりましょうか。|私を倒すってだけじゃ面白くないですから、|[c]トドメは究極共鳴技で[/c]さしてもらう、と|しましょう。=You seem awfully motivated, so let's get straight to the exam. Just beating me won't cut it this time. An [c]Ultimate Resonance Art must be the final hit[/c].
+なかなかやる気があるようですね。|じゃ、そろそろテストでもやりましょうか。|私を倒すってだけじゃ面白くないですから、|[c]トドメは究極共鳴技で[/c]さしてもらう、と|しましょう。=You seem awfully motivated, so let's get straight to the exam. Just beating me won't cut it this time. An [c]Ultimate Soul Art must be the final hit[/c].
 内なる狂気=Inner Madness
 難易度★★★=Difficulty ★★★
 自分自身の狂気というものを感じたことは|あるか？　人は誰でも少なかれ狂気を内に|秘めているものだ。しかしそれに身を委ねて|はいけない。自分の心と戦うのだ。=Have you ever felt your own madness? Everyone has a little madness inside, but you mustn't give in to it. Fight the urge!
@@ -89,9 +89,9 @@
 ３つの影=Triple Shadow Round-Up
 難易度★★★★=Difficulty ★★★★
 練習台の影人形が見つからないと思ったら、|どうやらココに逃げこんだようだ。|他の生徒のぶんもまとめて、回収してきて|くれないか？=The shadow dolls escaped from the training stage and came here. Round up all three for me, would you?
-共鳴技の祭典=Resonance Art Festival
+共鳴技の祭典=Soul Art Festival
 難易度★★★★=Difficulty ★★★★
-[c]「共鳴技」（○＋方向キー→）[/c]は使いこなし|ているか？　苦手なら練習していくといい。|[c]３回、共鳴技を使えば[/c]課題クリアだ。|相手はムチャクチャ強いから、倒そうなどと|は考えないほうがいいぞ。=Have you mastered your [c]Resonance Arts (○ + →)[/c]? Practice makes perfect. Don't worry about winning, just [c]perform 3 Resonance arts[/c] to clear the task.
+[c]「共鳴技」（○＋方向キー→）[/c]は使いこなし|ているか？　苦手なら練習していくといい。|[c]３回、共鳴技を使えば[/c]課題クリアだ。|相手はムチャクチャ強いから、倒そうなどと|は考えないほうがいいぞ。=Have you mastered your [c]Soul Arts (○ + →)[/c]? Practice makes perfect. Don't worry about winning, just [c]perform 3 Soul Arts[/c] to clear the task.
 シド先生、怒る=Angry Mr. Sid
 難易度★★★★=Difficulty ★★★★
 俺はささいなことで怒らない。そんな男|だった…　しかし俺もたまには怒るぞ。|ソウル、ブラック☆スター、パティ。|以上の３名はダメダメだった筆記試験の|おしおきを受けてもらうぞ。=I never sweat the little things. That's the kind of man I was. But I can still get angry. Soul, Black☆Star, and Patty all failed the exam and will be punished.
