@@ -1,0 +1,649 @@
+﻿Image order is loosely based on the PSP images (work_IMG folder), however there are a lot of repeats.
+
+Battle common image:
+リトライ
+キャラクターセレクト
+対戦を終了する
+
+Battle Lose:
+リトライ
+ギブアップ
+
+Mnu_mes.png:
+ボイスセッティング
+セーブをして終了
+キャンセル
+
+btfont_csel.png:
+選択　決定　キャンセル
+設定の変更 	戻る
+乱入対戦　変更
+
+Btfont_mm.png
+選択　決定　キャンセル
+ファイルの削除　　戻る
+
+Gal_btf.png:
+選択　決定　キャンセル
+ページの切り替え　戻る
+前へ　次へ
+
+Btfont_vcs.png:
+選択　決定　キャンセル
+技の選択　試験　戻る
+ボイスの設定
+キャラクターの変更
+
+change_l.png, change_l_ps2.png:
+カラー変更
+
+change_r.png, change_r_ps2.png:
+衣装変更
+
+cname.png:
+マカ＆ソウル=Maka & Soul
+ブラック☆スター＆椿=Black☆Star & Tsubaki
+キッド＆リズ＆パティ=Kid & Liz & Patty
+クロナ＆ラグナロク=Crona & Ragnarok
+シド＆ナイグス=Sid & Naigus #Mira
+オックス＆ハーバー=Ox & Harvar
+シュテイン=Stein
+ブレア=Blair
+メデューサ=Medusa
+フリー=Free
+ミフネ=Mifune
+死神様=Lord Death
+エクスカリバー=Excalibur
+RANDOM
+
+Rannyu.png:
+乱入対戦 ON/OFF
+
+Stage.png:
+教会=Church
+死武専=DWMA
+針の村=Needle Village
+幽霊船ニーズヘッグ=Ghost Ship "Nidhogg"
+デス・シティー=Death City
+フックセメタリー=Hook Cemetery
+ツギハギ研究所=Patchwork Lab
+シンデル魔城=Cinder Castle 
+タワーブリッジ=Tower Bridge
+死武専地下=DWMA Underground
+悠久の洞窟=Eternal Cave
+死武専・夜=DWMA (Night)
+封印の社=Seal Shrine
+RANDOM
+unknown
+
+Staff Roll
+00.png:
+原作=Original Work
+大久保篤=Atsushi Ohkubo
+株式会社スクウェア・エニックス=Square Enix Co., Ltd.
+「月刊少年ガンガン」連載=Published in Monthly Shonen Gangan
+		
+01. png:
+◇キャスト◇=Cast
+マカ=アルバーン       小見川 千明=Maka Albarn	Chiaki Omigawa
+ソウル=イーター       内山 昂輝=Soul Eater		Kouki Uchiyama
+ブラック☆スター      小林由美子=Black☆Star	Yumiko Kobayashi
+中務格      名塚 佳織=Tsubaki Nakatsukasa	Kaori Nazuka
+デス·ザ·キッド    宮野 真守=Death the Kid		Mamoru Miyano
+リズ·トンプソン   渡辺　明乃=Liz Thompson		Akeno Watanabe
+パティトンプソン  高平　成美=Patty Thompson	Narumi Takahira
+死神様      小山　力也=Lord Death/Narration	Rikiya Koyama
+ナレーション
+
+フランケン・シュタイン      内田 夕夜=Franken Stein	Yuya Uchida
+デスサイズ      大川 透=Death Scythe	Tooru Ookawa          
+シド·バレット   木村 雅史=Sid Barrett	Masafumi Kimura 
+
+02. png:
+ミーラ・ナイグス      野田 順子=Mira Naigus		Junko Noda
+オックス・フォード      吉野 裕行=Ox Ford		Hiroyuki Yoshino
+ハーバー・ド・エクレール 羽多野 渉=Harvar D. Éclair		Wataru Hatano
+
+クロナ        坂本 真綾=Crona		Maaya Sakamoto
+ラグナロク     姫野 惠二=Ragnarok	Keiji Himeno
+メデューサ     桑島 法子=Medusa		Houko Kuwashima
+フリー        西 凜太朗=Free 		Rintarou Nishi
+エルカ・フロッグ        福圓 美里=Eruka Frog	Misato Fukuen
+ミズネ         牧口 真幸=Mizune	Mayuki Makiguchi
+オタマ・ジャクソン         小池 いずみ=Otama Jackson	Izumi Koike
+
+ブレア         加藤 英美里=Blair	Katou Emiri
+ミフネ         津田 健次郎=Mifune	Kenjiro Tsuda
+アンジェラ・レオン         齋藤 彩夏=Angela Leon		Ayaka Saito
+
+03. png:
+エクスカリバー         子安 武人=Excalibur		Takehito Koyasu
+
+阿修羅         古川登志夫=Asura			Toshio Furukawa
+
+◇音響◇=Sound
+有限会社フォニシア=Studio Fonishia
+
+◇アニメ　メインスタッフ◇=Anime Main Staff
+【監督】=Director
+五十嵐卓哉=Takuya Igarashi
+【シリーズ構成】=Series Composition
+
+04.png:
+大和屋暁=Akatsuki Yamatoya
+
+【キャラクターデザイン】=Character Design 
+伊藤 嘉之=Yoshiyuki Ito 
+
+【コンセプトデザイン】=Concept Design
+荒牧 伸志=Shinji Aramaki
+
+【メインプロップデザイン】=Main Prop Design
+星野 猛=Takeshi Hoshino
+
+【美術監督】=Art Director
+中村 典史(GREEN)=Norifumi Nakamura (GREEN)
+
+05.png:	
+【色彩設計】=Color Design
+中山 しほ子=Shihoko Nakayama
+
+【撮影監督】=Cinematographer
+宮原 洋平=Youhei Miyahara
+
+【アニメーション制作】=Animation Production
+株式会社ポンズ=Studio Bones
+
+◇イラスト作画スタッフ◇=Illustration Staff	
+【作画監督】=Art Director
+伊藤 嘉之=Yoshiyuki Ito
+
+【原画】=Key Animation
+	
+06.png:
+小栗 寛子=Mariko Fujita
+
+【動検】=Quality Check
+岩長 幸一=Koichi Iwanaga
+
+【動画】=Animation
+- ボンズ作画部 -=Bones Art Department
+浜崎 友子=#missing
+玉置 敬子=Keiko Tamaki
+朴 英=#missing
+酒井原美樹=Miki Sakaibara
+野々下いおり=Iori Nonoshita
+横屋 健太=Kenta Yokoya
+
+07.png:
+【色指定・検査】=Colorist & Inspection
+中山しほ子=Shihoko Nakayama
+
+【仕上】=Finishing Touches 
+-WISH-
+伊藤 良樹=Yoshiki Ito
+伊藤 敦子=Atsuko Ito
+長谷川美枝-Mie Hasegawa
+笹愛美=Manami Sasa
+大本 真希=Maki Omoto
+山瀬 仁美=Hitomi Yamase
+奥井恵美子=Emiko Okui
+久島早映子=Kushima Saeko
+山下沙弥香=Yamashita Sayaka
+橋本真由美=Hashimoto Mayumi
+
+08.png:
+谷本 美幸=Tanimoto Miyuki
+樽崎 光弘=Mitsuhiro Narasaki
+
+◇ゲーム開発◇=Game Development
+【制作】=Production
+株式会社べック=BEC Co., Ltd.
+
+【ディレクター】=Director
+横田 延良=Nobuyoshi Yokota
+
+【ゲームデザイン】=Game Design
+帯杓 義則=Yoshinori Obishaku
+福西真一郎=Shinichirou Fukunishi
+境野 俊久=Toshihisa Sakaino
+
+09.png
+【チーフブログラム】=Programming Lead
+勝谷 有也=Yuya Katsutani 
+
+【プログラム】=Programming
+高橋 一樹=#missing
+水谷 嘉之=#missing
+中務 博之=Hiroyuki Nakatsuka
+
+【チーフグラフィック】=Graphics Lead 
+永島 智和=Tomokazu Nagashima
+
+【グラフィック】=Graphics
+斎藤 健範=Takenori Saito
+鈴木 健善=Takeyoshi Suzuki
+
+10.png:
+内川　瞳=Hitomi Uchikawa
+林 健太郎=Kentarou Hata
+澤田 淳子=Junko Sawada
+吉川 忠男=Tadao Yoshikawa
+日野原周平=Shuhei Hinohara
+舟谷 貴史=#missing
+獄 美奈子=#missing, kanji may be incorrect
+馬場 一希=Kazuki Baba
+
+【サウンド】=Sound
+- 制作 -=Production
+山田 耕治=Koji Yamada
+
+- 音楽 -=Music
+豊田　竜行=Tatsuyuki Toyota
+
+11.png:
+中風　大輔=Daisuke Nakakaze
+中風ルミ子=Rumiko Nakakaze
+
+- 音声編集 -=Sound Editing
+大場　直人=Naoto Oba
+末村　俊哉=Toshiya Suemura
+米川　千秋=Chiaki Yonekawa
+
+【デバッグ/品質管理】=Debugging / Quality Control
+國田　一勧=Ikkan Kunita
+安藤　賢昇=missing
+ベック品質管理室=BEC Quality Control Department
+
+【"プレイステーション２"版制作】=PlayStation 2 Version Staff
+
+12.png:
+- 株式会社キャトルコール-=Cattle Call Inc.
+山本　良博=Yoshihiro Yamamoto
+桑原　弘稔=Hirotoshi Kuwabara
+權　仁得=Induk Kwon
+
+【制作協力】=Production Cooperation
+高梨　諴=Makoto Takanashi
+磯貝　健夫=Takeo Isogai
+大野　聡=Satoshi Ono
+
+【フォント協力】=Font Handling
+株式会社フォントワークスジャパン=Fontworks Inc.
+株式会社白舟書体「侍」=Hakusyu Fonts "Samurai"
+
+◇スペシャルサンクス◇=Special Thanks
+
+13.png:
+株式会社バンダイ=Bandai Co., Ltd.
+株式会社スクウェア・エニックス=Square Enix Co., Ltd.
+株式会社大日本印刷=Dai Nippon Printing Co., Ltd.
+株式会社シナテック=Synertech Co., Ltd
+株式会社クレア=Crea Co., Ltd.
+株式会社ホワイトアップ=Whiteup Co., Ltd. 
+株式会社フェニシス=Phoenisys Co., Ltd.
+有限会社ロジックゲート=#missing
+ポールトゥウィン株式会社=Pole To Win Co., Ltd.
+
+◇キービジュアル◇=Key Visuals
+株式会社ボンズ=Studio Bones
+
+【原画】=Key Animation 
+伊藤　嘉之=Yoshiyuki Ito
+
+14.png:
+【仕上】=Finishing Touches  
+中山しほ子=Shihoko Nakayama
+
+【特効】=Special Effects
+イノイエシン=Shin Inoie
+
+◇サブタイトルデザイ◇=Subtitle Design
+- 株式会社ホワイトアップ-=Whiteup Co., Ltd.
+中澤　和也=Kazuya Nakazawa
+
+◇株式会社バンダイナムコゲームス◇=Bandai Namco Entertainment Inc.
+
+【プロモーション】=Promotion
+渡辺　浩孝=Hirotaka Watanabe
+黒澤　豪=Gou Kurosawa
+
+15.png:
+高崎　由並=Yumi Takasaki
+安子　太樹=Taiki Yasuko
+
+【営業】=Sales
+西澤　冬樹	熊田　直樹=Fuyuki Nishizawa		Naoki Kumada 
+高橋　大助	茂木　陽一郎=Daisuke Takahashi		Yoichiro Mogi 
+森岡　彩	藤井　辰明=Aya Morioka		Tatsuaki Fujii
+土屋　健司	浅井　麻紀=Kenji Tsuchiya 	Maki Asai
+広木　朋子	伊藤　大央=Tomoko Hiroki		Daio Itou  
+小野寺　浩	山崎　翔也=Hiroshi Onodera	Shoya Yamazaki
+戸井　田健	松田　宙=Kenichi Toida		Hiroshi Matsuda 
+西端　悟	野口　睛美=Satoru Nishibata	Harumi Noguchi
+有賀　由実	佐伯　博史=Yumi Ariga		Hiroshi Saeki 
+八木　正忠	山崎　秀之=Masatada Yagi	Hideyuki Yamazaki
+田村麻希子	星合　真樹=Makiko Tamura	Maki Hoshiai 
+
+16.png:
+野澤　芽与	狭間　和歌子=Megumi Nozawa	Wakako Hazama
+
+【デバッグ/品質管理】=Debugging / Quality Control
+坂元　亮=Ryo Sakamoto
+倉持　泰之=Yasuyuki Kuramochi
+
+【スペシャルサンクス】=Special Thanks
+田中　庸介=Yosuke Tanaka
+植田　貴彦=Takahiko Ueda
+和田 進=Susumu Wada
+
+【エグゼクティブプロデューサー】=Executive Producer
+鵜之澤　伸=Shin Unosawa
+
+17.png:
+【ゼネラルプロデューサー】=General Manager
+東海林　隆=Takashi Shoji
+灘　俊宏=Toshihiro Nada
+長田 隆一=Ryuichi Osada
+
+【チーフプロデューサー】= Chief Producer
+稲垣浩文=Hirofumi Inagaki
+東山　朝日=Asahi Higashiyama
+
+【プロデューサー】=Producer
+金是秀=Minsu Kim
+
+◇協力・監修◇=Cooperation Supervision
+株式会社スクウェア・エニックス=Square Enix Co., Ltd.
+
+- 月刊少年ガンガン編集部 -=Monthly Shonen Gangan Editorial Department
+湯村 宣昭=Nobuki Yunomura
+鹿塩 武志=Takeshi Kashio
+
+- 株式会社ボンズ -=Studio Bones
+南　雅彦=Masahiko Minami
+大藪 芳広=Yoshihiro Oyabu
+前田 友紀=Yuki Maeda
+柴田 亜矢=Aya Shibata
+津村 米紀=Yoneki Tsumura
+加藤 和美=Kazumi Katoh
+
+- 株式会社メディアファクトリー -=Media Factory, Inc.
+山本雄二郎=Yujiro Yamamoto
+加藤 正純=Masazumi Kato
+佐藤　信子=Nobuko Sato
+
+99.png:
+Produced by
+株式会社バンダイナムコゲームス=BANDAI NAMCO Entertainment Inc.
+		
+GALL_SELECT01.png:
+その１
+
+GALL_SELECT02.png:
+その２
+
+GL_ST.png:
+第1話=Episode 1
+(- 24 etc)
+
+GL_SUB.png (anime episode titles)
+魂の共鳴 〜ソウル=イーター、デスサイズになる?〜~=Resonance of the Soul – Will Soul Eater Become a Death Scythe?
+俺こそスターだ! 〜最もビッグな男、ここに現る?〜=I Am the Star! The Big Man Is Showing Up Here?
+完璧なる少年 〜デス･ザ･キッドの華麗なるミッション?〜=The Perfect Boy – Death the Kid's Magnificent Mission?
+魔女狩り発動! 〜ドキドキ♥墓場の補習授業?〜=Engage the Witch Hunter! A Remedial Lesson in the Graveyard?
+魂のかたち 〜最強職人シュタイン登場?〜=Shape of the Soul – Enter the Ultimate Meister Stein?
+噂の新入生! 〜想い出いっぱい、キッドの死武専初登校?〜=The New Student – Kid's First Day at the Academy, Will It Be an Entrance to Remember
+黒血の恐怖 〜クロナの中に武器がいる?〜=Black-blooded Terror – There's a Weapon inside Crona?
+魔女メデューサ 〜大いなる凶き魂を持つ者?〜=The Witch Medusa – Bearer of the Great Terrible Soul?
+聖剣伝説 〜キッドとブラック☆スターの大冒険?〜=Legend of the Holy Sword – Kid and Black☆Star's Great Adventure?
+妖刀マサムネ 〜破れ魂憑依、雨に詠う心?〜=The Enchanted Sword Masamune – Break the Soul Possession: A Heart Sings in the Rain?
+椿の花 〜悲しみを越えた先にあるもの?〜=Tsubaki, the Camellia Blossom – What Lies Beyond the Grief?
+恐怖に負けない勇気 〜マカ=アルバーンの一大決心?〜=Courage That Beats Out Fear – Maka Albarn's Great Resolution?
+魔眼の男 〜ソウルとマカ、ズレゆく魂の波長?〜=The Man with the Magic Eye – Soul and Maka's Diverging Soul Wavelength?
+超筆記試験 〜ドキドキ、ワクワク、ソワソワ、ウソーン?〜=The Super Written Exam – Heart-Pounding, Reeling, and Restless. You're Kidding!?
+魂を食う黒き龍 〜臆病リズと愉快な仲間たち?〜=The Soul Eating Black Dragon – Scaredy-cat Liz and Her Merry Friends?
+激闘! 幽霊船 〜ボクの頭の中の地獄?〜=Fierce Battle Aboard the Ghost Ship – The Hell inside My Head?
+聖剣伝説2 〜飲む、打つ、買う、いっとく?〜=Legend of the Holy Sword 2 – Wanna Go Drinking, Gambling, and Playing?
+前夜祭の悪夢 〜そして幕は上がった?〜=The Eve Party Nightmare – And so the Curtain Rises?
+開始、地下攻防戦 〜突破せよ、メデューサのベクトルアロー?〜=The Underground Battle Commences – Break Through Medusa's Vector Arrow?
+黒血の共鳴戦! 〜恐怖に刃向かう小さな魂の大奮闘?〜=The Black Blood Resonance Battle! – A Small Soul's Grand Struggle against Fear?
+届け、私の魂 〜乾いた心、たまらない孤独の中で…?〜=May My Soul Reach You – A Dry Heart inside Unbearable Isolation?
+封印の社 〜不死身の男が仕掛けたからくり?〜=The Seal Shrine – The Immortal Man's Tricks?
+デッド オア アライブ! 〜復活と幻覚の狭間で?〜=Dead or Alive – In the Rift between Revival and Dazzlement?
+神々の闘い 〜デス･シティー崩壊の危機に?〜=The Battle of the Gods – Death City on the Verge of Collapse?
+
+
+Adh_ex.png:
+対戦する相手を選んでください
+ゲームモードを選んででください
+お待ちください…
+
+Fsel_tex.png:
+課題クリア率
+プレイ時間 - : %
+
+Adhtxt_ref.png:
+ワイヤレスLANスイッチをONにしてください
+
+opt_keycon_1.gmo
+Config_0.png:
+なし
+
+config_2.png:
+ソウルチャージ
+
+config_3.png:
+職人攻撃・格闘攻撃
+
+config_4.png:
+魔武器攻撃・術攻撃
+
+config_5.png:
+固有技
+
+opt_keycon_2.gmo, also opt_keyconfig.png
+Config_0.png:
+なし
+
+config_2.png:
+ジャンプ
+
+config_3.png:
+ソウルチャージ
+
+config_4.png:
+魔武器攻撃・術攻撃
+
+config_5.png:
+固有技
+
+bt_no.png:
+選択	決定	戻る
+
+bt_sound.png:
+選択　　ボリュームの調整　　初期設定に戻す  戻る
+
+fsel_name.png: see cname
+
+mm_opfc.png
+=キーコンフィグ=
+アクション操作の設定をします
+=サウンド=
+各種音量の設定をします
+=セーブロード=
+セーブデータの管理をします
+=ソウルシアター=
+入手した画像を関覧できます
+
+mm_smfc.png:
+=アーケード=
+COMのキャラクターと順番に戦います
+=フリーバトル=
+バトルルールを自由に変更して戦います
+=チームバトル=
+3対3のチームを組んで戦います
+
+Mm_smfc00.png:
+全キャラクターと勝ち抜きで戦います。
+
+mm_vsfc.png:
+=ボイスセッティング=
+入手したカスタムボイスを設定します
+
+mm_vsfc00.png:
+=アドホックロビー=
+アドホックロビーへ接続します
+
+opt_kc_player.png:
+L2 R2 で変更
+
+Mm_fonta.png (1): #unused?
+CPUのキャラクターと戦うモードです。
+アドホックモードで対戦するモードです。
+戦ってストーリーを進めるモードです。
+キャラクターのボイスを設定します。
+各種音量やボタンの設定ができます。
+
+Mm_fonta.png (2):
+COMのキャラクターたちとバトル!
+アドホックモードで2プレイヤー対戦!
+課題をクリアしていくストーリーモード！
+キャラクターのボイスを設定します
+各種音量やボタンの設定ができます
+
+Waza_name.png:
+究極共鳴技
+
+Waza.png:
+共鳴技
+究極共鳴技
+波長技?
+究極技
+
+Pu01 > pu53_etc_fpk #unused?
+
+Access.png:
+セーブデータ　アクセス中
+
+Adv_btf.png:
+移動　選択　決定
+メニュー
+戻る
+キャンセル　ページ変更
+
+Pora_b.png, c_mark.png
+Red circle - 済
+
+Ad_op_moji.png:
+健全なる魂は、健全なる精神と健全なる肉体に宿る=A sound soul dwells within a sound mind and a sound body.
+
+Chlg_ta.png:
+挑戦する
+
+Title.png:
+課題選択
+
+fl_f00.gmo
+N_moji_01.png:
+死武専=DWMA
+
+N_moji_02.png:
+デス・シティー=Death City
+
+N_moji_03.png:
+シンデル魔城=Cinder Castle 
+
+N_moji_04.png:
+フックセメタリー=Hook Cemetery
+
+N_moji_05.png:
+ツギハギ研究所=Patchwork Lab
+
+N_moji_06.png:
+針の村=Needle Village
+
+N_moji_07.png:
+教会=Church
+
+N_moji_08.png:
+悠久の洞窟=Eternal Cave
+
+N_moji_09.png:
+タワーブリッジ=Tower Bridge
+
+N_moji_10.png:
+幽霊船ニーズヘッグ=Ghost Ship "Nidhogg"
+
+N_moji_11.png:
+死武専地下=DWMA Underground
+
+Bdg.png:
+課題クリア率
+ボイス取得率
+MENU %
+
+Subt.png (1):
+“知将雷王”　オックス君登場
+
+Subt.png (2):
+準備運動
+影人形バトル
+魂の共鳴
+攻撃を見切れ
+魔女ブレアを狩れ
+職人で戦え
+武器で戦え
+潛入者は蛙？
+魔城の用心棒　ミフネ
+組み手の授業
+ブレアのお願い
+耐久力試驗
+シド先生を倒せ
+迴避力試驗
+もっとブレアのお願い
+“知将雷王”　オックス君登場
+シュタイン博士の秘密
+呼吸を合わせろ
+シド先生のサバイバル1
+シド先生のサバイバル2
+新入生　デス‧ザ‧キッド
+師匠は用心棒？
+死神様と遊んじゃおう
+逆襲のオックス君
+課外授業はヤバいぜ
+シュタイン先生の授業
+シュタイン先生の試驗
+内なる狂気
+聖剣エクスカリバー
+3つの影
+共鳴技の祭典
+シド先生怒る
+デンジャラス‧オタマ
+魔眼の男
+猫と魔女と用心棒
+オックス君ファイナル？
+いつもの仲間割れ
+所有者求む
+バルト海の黒龍
+幻影魔道具1
+幻影魔道具２
+幻影魔道具３
+幻影魔道具４
+最終試験
+防衛ライン
+地下に潜む邪(前編)
+地下に潜む邪(中編)
+地下に潜む邪(後編)
+蘇る鬼神
+超勝ち抜きバトル祭
+真エクスカリバー伝説(完)
+
+Tex02.png:
+経過時間
+残り体力
+課題番号
+OK ms
+
+
+
