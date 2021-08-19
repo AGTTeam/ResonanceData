@@ -383,11 +383,11 @@ GALL_SELECT01.png:
 GALL_SELECT02.png:
 その２
 
-GL_ST.png:
+GL_ST.png:#done
 第1話=Episode 1
 (- 24 etc)
 
-GL_SUB.png (anime episode titles)
+GL_SUB.png (anime episode titles)#done
 魂の共鳴 〜ソウル=イーター、デスサイズになる?〜~=Resonance of the Soul – Will Soul Eater Become a Death Scythe?
 俺こそスターだ! 〜最もビッグな男、ここに現る?〜=I Am the Star! The Big Man Is Showing Up Here?
 完璧なる少年 〜デス･ザ･キッドの華麗なるミッション?〜=The Perfect Boy – Death the Kid's Magnificent Mission?
