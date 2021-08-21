@@ -59,7 +59,7 @@ RANDOM
 Rannyu.png:
 乱入対戦 ON/OFF
 
-Stage.png:
+Stage.png:#Done
 教会=Church
 死武専=DWMA
 針の村=Needle Village
@@ -72,7 +72,7 @@ Stage.png:
 死武専地下=DWMA Underground
 悠久の洞窟=Eternal Cave
 死武専・夜=DWMA (Night)
-封印の社=Seal Shrine
+封印の社=Seal Shrine#unused
 RANDOM
 unknown
 
@@ -377,10 +377,10 @@ Staff Roll
 Produced by
 株式会社バンダイナムコゲームス=BANDAI NAMCO Entertainment Inc.
 		
-GALL_SELECT01.png:
+GALL_SELECT01.png:#done
 その１
 
-GALL_SELECT02.png:
+GALL_SELECT02.png:#done
 その２
 
 GL_ST.png:#done
@@ -532,7 +532,7 @@ Adv_btf.png:
 戻る
 キャンセル　ページ変更
 
-Pora_b.png, c_mark.png
+Pora_b.png, c_mark.png#done
 Red circle - 済
 
 Ad_op_moji.png:
@@ -545,37 +545,37 @@ Title.png:
 課題選択
 
 fl_f00.gmo
-N_moji_01.png:
+N_moji_01.png:#Done
 死武専=DWMA
 
-N_moji_02.png:
+N_moji_02.png:#Done
 デス・シティー=Death City
 
-N_moji_03.png:
+N_moji_03.png:#Done
 シンデル魔城=Cinder Castle 
 
-N_moji_04.png:
+N_moji_04.png:#Done
 フックセメタリー=Hook Cemetery
 
-N_moji_05.png:
+N_moji_05.png:#Done
 ツギハギ研究所=Patchwork Lab
 
-N_moji_06.png:
+N_moji_06.png:#Done
 針の村=Needle Village
 
-N_moji_07.png:
+N_moji_07.png:#Done
 教会=Church
 
-N_moji_08.png:
+N_moji_08.png:#Done
 悠久の洞窟=Eternal Cave
 
-N_moji_09.png:
+N_moji_09.png:#Done
 タワーブリッジ=Tower Bridge
 
-N_moji_10.png:
+N_moji_10.png:#Done
 幽霊船ニーズヘッグ=Ghost Ship "Nidhogg"
 
-N_moji_11.png:
+N_moji_11.png:#Done
 死武専地下=DWMA Underground
 
 Bdg.png:
