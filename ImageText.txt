@@ -40,7 +40,7 @@ change_l.png, change_l_ps2.png:
 change_r.png, change_r_ps2.png:
 衣装変更
 
-cname.png:
+cname.png:#done
 マカ＆ソウル=Maka & Soul
 ブラック☆スター＆椿=Black☆Star & Tsubaki
 キッド＆リズ＆パティ=Kid & Liz & Patty
@@ -77,13 +77,13 @@ RANDOM
 unknown
 
 Staff Roll
-00.png:
+00.png:#done
 原作=Original Work
 大久保篤=Atsushi Ohkubo
 株式会社スクウェア・エニックス=Square Enix Co., Ltd.
 「月刊少年ガンガン」連載=Published in Monthly Shonen Gangan
 		
-01. png:
+01. png:#see WIP_IMG
 ◇キャスト◇=Cast
 マカ=アルバーン       小見川 千明=Maka Albarn	Chiaki Omigawa
 ソウル=イーター       内山 昂輝=Soul Eater		Kouki Uchiyama
@@ -373,7 +373,7 @@ Staff Roll
 加藤 正純=Masazumi Kato
 佐藤　信子=Nobuko Sato
 
-99.png:
+99.png:#done
 Produced by
 株式会社バンダイナムコゲームス=BANDAI NAMCO Entertainment Inc.
 		
@@ -464,7 +464,7 @@ bt_no.png:
 bt_sound.png:
 選択　　ボリュームの調整　　初期設定に戻す  戻る
 
-fsel_name.png: see cname
+fsel_name.png: see cname#done
 
 mm_opfc.png
 =キーコンフィグ=
