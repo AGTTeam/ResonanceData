@@ -1,4 +1,4 @@
-﻿Image order is loosely based on the PSP images (work_IMG folder), however there are a lot of repeats.
+Image order is loosely based on the PSP images (work_IMG folder), however there are a lot of repeats.
 
 Battle common image:
 リトライ
@@ -524,7 +524,7 @@ Waza.png:
 Pu01 > pu53_etc_fpk #unused?
 
 Access.png:
-セーブデータ　アクセス中
+セーブデータ　アクセス中=Autosave in progress...
 
 Adv_btf.png:
 移動　選択　決定
