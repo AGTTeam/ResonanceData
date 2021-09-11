@@ -1,44 +1,44 @@
 Image order is loosely based on the PSP images (work_IMG folder), however there are a lot of repeats.
 
 Battle common image:
-リトライ
-キャラクターセレクト
-対戦を終了する
+リトライ=Retry
+キャラクターセレクト=Change Characters
+対戦を終了する=Leave Battle
 
 Battle Lose:
-リトライ
-ギブアップ
+リトライ=Retry
+ギブアップ=Give up
 
 Mnu_mes.png:
-ボイスセッティング
-セーブをして終了
-キャンセル
+ボイスセッティング=Voice Settings
+セーブをして終了=Save and Exit
+キャンセル=Back
 
 btfont_csel.png:
-選択　決定　キャンセル
-設定の変更 	戻る
-乱入対戦　変更
+選択　決定　キャンセル=Pick  Set  Cancel
+設定の変更 	戻る=Options  Back
+乱入対戦　変更=#context  
 
 Btfont_mm.png
-選択　決定　キャンセル
-ファイルの削除　　戻る
+選択　決定　キャンセル=Pick  Set  Cancel
+ファイルの削除　　戻る=Erase Data  Back
 
 Gal_btf.png:
-選択　決定　キャンセル
-ページの切り替え　戻る
-前へ　次へ
+選択　決定　キャンセル=Pick  Set  Cancel
+ページの切り替え　戻る=Change Page  Exit
+前へ　次へ=Next  Back
 
 Btfont_vcs.png:
-選択　決定　キャンセル
-技の選択　試験　戻る
-ボイスの設定
-キャラクターの変更
+選択　決定　キャンセル=Pick  Set  Cancel
+技の選択　試験　戻る=Change Moves  Listen  Back 
+ボイスの設定=Change Voice
+キャラクターの変更=Change Character
 
 change_l.png, change_l_ps2.png:
-カラー変更
+カラー変更=Change Color
 
 change_r.png, change_r_ps2.png:
-衣装変更
+衣装変更=Change Outfit
 
 cname.png:#done
 マカ＆ソウル=Maka & Soul
@@ -415,88 +415,88 @@ GL_SUB.png (anime episode titles)#done
 
 
 Adh_ex.png:
-対戦する相手を選んでください
-ゲームモードを選んででください
-お待ちください…
+対戦する相手を選んでください=Select and opponent
+ゲームモードを選んででください=Choose Game Mode
+お待ちください…=Please wait...
 
 Fsel_tex.png:
-課題クリア率
-プレイ時間 - : %
+課題クリア率=Cleared Tasks
+プレイ時間 - : %=Play Time
 
 Adhtxt_ref.png:
-ワイヤレスLANスイッチをONにしてください
+ワイヤレスLANスイッチをONにしてください=Please turn the wireless LAN switch on
 
 opt_keycon_1.gmo
 Config_0.png:
-なし
+なし=None
 
 config_2.png:
-ソウルチャージ
+ソウルチャージ=Soul Charge
 
 config_3.png:
-職人攻撃・格闘攻撃
+職人攻撃・格闘攻撃=Meister/Physical Attack
 
 config_4.png:
-魔武器攻撃・術攻撃
+魔武器攻撃・術攻撃=Weapon/Magic Attack
 
 config_5.png:
-固有技
+固有技=Unique Skill
 
 opt_keycon_2.gmo, also opt_keyconfig.png
 Config_0.png:
-なし
+なし=None
 
 config_2.png:
-ジャンプ
+ジャンプ=Jump
 
 config_3.png:
-ソウルチャージ
+ソウルチャージ=Soul Charge
 
 config_4.png:
-魔武器攻撃・術攻撃
+魔武器攻撃・術攻撃=Weapon/Magic Attack
 
 config_5.png:
-固有技
+固有技=Unique Skill
 
 bt_no.png:
-選択	決定	戻る
+選択	決定	戻る=Pick  Set  Back
 
 bt_sound.png:
-選択　　ボリュームの調整　　初期設定に戻す  戻る
+選択　　ボリュームの調整　　初期設定に戻す  戻る=Pick  Adjust Volume  Restore Default Settings  Back
 
 fsel_name.png: see cname#done
 
 mm_opfc.png
 =キーコンフィグ=
-アクション操作の設定をします
+アクション操作の設定をします=Configure the controls
 =サウンド=
-各種音量の設定をします
+各種音量の設定をします=Adjust the volume settings
 =セーブロード=
-セーブデータの管理をします
+セーブデータの管理をします=Manage saved data
 =ソウルシアター=
-入手した画像を関覧できます
+入手した画像を関覧できます=View the images you've collected so far
 
 mm_smfc.png:
 =アーケード=
-COMのキャラクターと順番に戦います
+COMのキャラクターと順番に戦います=Battles with COM characters in a row
 =フリーバトル=
-バトルルールを自由に変更して戦います
+バトルルールを自由に変更して戦います=Change the battle rules as you'd like
 =チームバトル=
-3対3のチームを組んで戦います
+3対3のチームを組んで戦います=Battle in teams of 3 om 3
 
 Mm_smfc00.png:
-全キャラクターと勝ち抜きで戦います。
+全キャラクターと勝ち抜きで戦います。=Fight in a knockout competition
 
 mm_vsfc.png:
 =ボイスセッティング=
-入手したカスタムボイスを設定します
+入手したカスタムボイスを設定します=Change the custom voice settings  
 
 mm_vsfc00.png:
 =アドホックロビー=
-アドホックロビーへ接続します
+アドホックロビーへ接続します=Connect to the ad hoc lobby.
 
 opt_kc_player.png:
-L2 R2 で変更
+L2 R2 で変更=change
 
 Mm_fonta.png (1): #unused?
 CPUのキャラクターと戦うモードです。
@@ -506,20 +506,20 @@ CPUのキャラクターと戦うモードです。
 各種音量やボタンの設定ができます。
 
 Mm_fonta.png (2):
-COMのキャラクターたちとバトル!
-アドホックモードで2プレイヤー対戦!
-課題をクリアしていくストーリーモード！
-キャラクターのボイスを設定します
-各種音量やボタンの設定ができます
+COMのキャラクターたちとバトル!=Battle with COM characters!
+アドホックモードで2プレイヤー対戦!=Go head-to-head in LAN mode!
+課題をクリアしていくストーリーモード！=Clear tasks to advance the story!
+キャラクターのボイスを設定します=Change the characters voices!
+各種音量やボタンの設定ができます=Adjust volume and controls
 
 Waza_name.png:
-究極共鳴技
+究極共鳴技=Ultimate Resonance
 
 Waza.png:
-共鳴技
-究極共鳴技
-波長技?
-究極技
+共鳴技=Resonance
+究極共鳴技=Ultimate Resonance
+波長技=Soul Wavelength
+究極技=Ultimate
 
 Pu01 > pu53_etc_fpk #unused?
 
@@ -527,10 +527,10 @@ Access.png:
 セーブデータ　アクセス中=Autosave in progress...
 
 Adv_btf.png:
-移動　選択　決定
-メニュー
-戻る
-キャンセル　ページ変更
+移動　選択　決定=Move Pick  Set 
+メニュー=Menu
+戻る=Back
+キャンセル　ページ変更=Cancel  Change Page
 
 Pora_b.png, c_mark.png#done
 Red circle - 済
@@ -539,10 +539,10 @@ Ad_op_moji.png:
 健全なる魂は、健全なる精神と健全なる肉体に宿る=A sound soul dwells within a sound mind and a sound body.
 
 Chlg_ta.png:
-挑戦する
+挑戦する=Accept
 
 Title.png:
-課題選択
+課題選択=Tasks
 
 fl_f00.gmo
 N_moji_01.png:#Done
@@ -579,70 +579,70 @@ N_moji_11.png:#Done
 死武専地下=DWMA Underground
 
 Bdg.png:
-課題クリア率
-ボイス取得率
+課題クリア率=Tasks
+ボイス取得率=Voices
 MENU %
 
 Subt.png (1):
-“知将雷王”　オックス君登場
+“知将雷王”　オックス君登場=Ox, Royal Thunder Commander
 
-Subt.png (2):
-準備運動
-影人形バトル
-魂の共鳴
-攻撃を見切れ
-魔女ブレアを狩れ
-職人で戦え
-武器で戦え
-潛入者は蛙？
-魔城の用心棒　ミフネ
-組み手の授業
-ブレアのお願い
-耐久力試驗
-シド先生を倒せ
-迴避力試驗
-もっとブレアのお願い
-“知将雷王”　オックス君登場
-シュタイン博士の秘密
-呼吸を合わせろ
-シド先生のサバイバル1
-シド先生のサバイバル2
-新入生　デス‧ザ‧キッド
-師匠は用心棒？
-死神様と遊んじゃおう
-逆襲のオックス君
-課外授業はヤバいぜ
-シュタイン先生の授業
-シュタイン先生の試驗
-内なる狂気
-聖剣エクスカリバー
-3つの影
-共鳴技の祭典
-シド先生怒る
-デンジャラス‧オタマ
-魔眼の男
-猫と魔女と用心棒
-オックス君ファイナル？
-いつもの仲間割れ
-所有者求む
-バルト海の黒龍
-幻影魔道具1
-幻影魔道具２
-幻影魔道具３
-幻影魔道具４
-最終試験
-防衛ライン
-地下に潜む邪(前編)
-地下に潜む邪(中編)
-地下に潜む邪(後編)
-蘇る鬼神
-超勝ち抜きバトル祭
-真エクスカリバー伝説(完)
+Subt.png (2):#should match mte_input
+準備運動=Warm-Up
+影人形バトル=Shadow Doll Battle
+魂の共鳴=Soul Resonance
+攻撃を見切れ=Attack Awareness
+魔女ブレアを狩れ=The Blair Witch Hunt
+職人で戦え=Fight like a Meister
+武器で戦え=Battle with Weapons
+潛入者は蛙？=A Froggy Infiltration
+魔城の用心棒　ミフネ=Mifune, the Demon Castle Bodyguard
+組み手の授業=Sparring Class
+ブレアのお願い=Blair's Request
+耐久力試驗=Endurance Test
+シド先生を倒せ=Defeat Mr. Sid
+迴避力試驗=Evasion Test
+もっとブレアのお願い=Another Blair Request
+“知将雷王”　オックス君登場=Ox, Royal Thunder Commander
+シュタイン博士の秘密=Professor Stein's Secret
+呼吸を合わせろ=Sync Up Your Breathing
+シド先生のサバイバル1=Sid Survival 1
+シド先生のサバイバル2=Sid Survival 2
+新入生　デス‧ザ‧キッド=The New Student, Death the Kid
+師匠は用心棒？=The Master is a Bodyguard?
+死神様と遊んじゃおう=Let's play with Lord Death
+逆襲のオックス君=Ox's Counterattack
+課外授業はヤバいぜ=An Insane Extracurricular Lesson
+シュタイン先生の授業=Professor Stein's Class
+シュタイン先生の試驗=Professor Stein's Exam
+内なる狂気=Inner Madness
+聖剣エクスカリバー=Excalibur, the Holy Sword
+3つの影=Triple Shadow Round-Up
+共鳴技の祭典=Soul Art Festival
+シド先生怒る=Angry Mr. Sid
+デンジャラス‧オタマ=Bad Jackson
+魔眼の男=The Man with the Magic Eye
+猫と魔女と用心棒=Cats and Witches and Bodyguards, oh my!
+オックス君ファイナル？=Ox's Final Form?
+いつもの仲間割れ=A Typical Falling Out
+所有者求む=Seeking Owner
+バルト海の黒龍=Black Dragon in the Baltic Sea
+幻影魔道具1=Illusory Magic Tool 1
+幻影魔道具２=Illusory Magic Tool 2
+幻影魔道具３=Illusory Magic Tool 3
+幻影魔道具４=Illusory Magic Tool 4
+最終試験=Final Exam
+防衛ライン=Defense Line
+地下に潜む邪(前編)=The Evil Lurking Underground 1
+地下に潜む邪(中編)=The Evil Lurking Underground 2
+地下に潜む邪(後編)=The Evil Lurking Underground 3
+蘇る鬼神=The Awakened Kishin
+超勝ち抜きバトル祭=The Super Battle Royale Fest
+真エクスカリバー伝説(完)=The True Legend of Excalibur
 
 Tex02.png:
-経過時間
-残り体力
-課題番号
+経過時間=TIME
+残り体力=LIFE
+課題番号=Task
 OK ms
 
 
