@@ -540,7 +540,7 @@
 この課題難易度のカスタムボイスは全て取得済みです=All Voices of this task difficulty have been acquired.
 カスタムボイスを取得できなかった・・・=Custom Voice was not obtained...
 ソウルイーター　バトルレゾナンスのセーブデータです。=Soul Eater Battle Resonance save data.
-Q8?ロードに失敗しました。\nMEMORY CARD差込口1の|メモリーカード(PS2)が正しく|差し込まれているか確認して下さい。\nこのままゲームを進めますか？=Failed to Load from the MEMORY CARD in Slot 1.\nPlease check that the Memory Card (PS2) is inserted correctly.\nContinue?
+Q8?ロードに失敗しました。\nMEMORY CARD差込口1の|メモリーカード(PS2)が正しく|差し込まれているか確認して下さい。\nこのままゲームを進めますか？=Q8?Failed to Load from the MEMORY CARD in Slot 1.\nPlease check that the Memory Card (PS2) is inserted correctly.\nContinue?
 セーブに失敗しました。\nMEMORY CARD差込口1の|メモリーカード(PS2)が正しく|差し込まれているか確認して下さい。\nこのままゲームを進めますか？=Failed to Save on the MEMORY CARD in Slot 1.\nPlease check that the Memory Card (PS2) is inserted correctly.\nContinue?
 フォーマットに失敗しました。\nMEMORY CARD差込口1の|メモリーカード(PS2)が正しく|差し込まれているか確認して下さい。\nこのままゲームを進めますか？=Failed to Format the MEMORY CARD in Slot 1.\nPlease check that the Memory Card (PS2) is inserted correctly.\nContinue?
 MEMORY CARD差込口1に|メモリーカード(PS2)が見つかりません。\nセーブするには38KB以上の空き容量が必要です。\nこのままゲームを進めますか？=No memory card (PS2) in MEMORY CARD slot 1.\nYou need to have at least 38KB of free space to save.\nContinue?
