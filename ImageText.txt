@@ -1,15 +1,20 @@
 Image order is loosely based on the PSP images (work_IMG folder), however there are a lot of repeats.
 
-Battle common image:
+sel_font_sb.png:#done
 リトライ=Retry
-キャラクターセレクト=Change Characters
-対戦を終了する=Leave Battle
+キャラクターセレクト=Character Select
+メインメニューへ=Main Menu
 
-Battle Lose:
+sel_font_sc.png: #done  also self.png- unsed?
+リトライ=Retry
+キャラクターセレクト=Character Select
+対戦を終了する=Leave Match
+
+sel_font_sd.png:#done
 リトライ=Retry
 ギブアップ=Give up
 
-Mnu_mes.png:
+Mnu_mes.png:#done
 ボイスセッティング=Voice Settings
 セーブをして終了=Save and Exit
 キャンセル=Back
@@ -34,11 +39,11 @@ Btfont_vcs.png:
 ボイスの設定=Change Voice
 キャラクターの変更=Change Character
 
-change_l.png, change_l_ps2.png:
+change_l.png, change_l_ps2.png:#done
 カラー変更=Change Color
 
-change_r.png, change_r_ps2.png:
-衣装変更=Change Outfit
+change_r.png, change_r_ps2.png:#done
+衣装変更=Change Costume
 
 cname.png:#done
 マカ＆ソウル=Maka & Soul
@@ -56,8 +61,8 @@ cname.png:#done
 エクスカリバー=Excalibur
 RANDOM
 
-Rannyu.png:
-乱入対戦 ON/OFF
+Rannyu.png:#Done
+乱入対戦 ON/OFF=Intrusion ON/OFF
 
 Stage.png:#Done
 教会=Church
@@ -415,7 +420,7 @@ GL_SUB.png (anime episode titles)#done
 
 
 Adh_ex.png:
-対戦する相手を選んでください=Select and opponent
+対戦する相手を選んでください=Select an opponent
 ゲームモードを選んででください=Choose Game Mode
 お待ちください…=Please wait...
 
