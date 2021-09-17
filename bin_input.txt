@@ -169,8 +169,8 @@
 ソウルシアターモードを|終了します|よろしいですか？=Exit Soul Theater Mode?
 です※=※
 決定=OK
-　　　　　○決定=　　× OK
-×戻る　　○決定=○ BACK　　× OK
+　　　　　○決定=  　× Enter
+×戻る　　○決定=× Enter   ○ Back　
 勝率<20>%3.1f％=Win %3.1f%
 勝／%d戦=Wins / %d Matches
 　<20>勝率<20>%3.1f％=  Win %3.1f%
@@ -420,13 +420,13 @@
 隠しキャラＤ=Hidden Chara D
 １【男の浮気に理屈が】=1【Why do men cheat!?】
 ２【友達になって】=2【Will you be my friend?】
-３【問題なのは魂だろ】=3【The issue is the soul】
+３【問題なのは魂だろ】=3【It's the soul】
 ４【力はよこせ！】=4【Give me power!】
 ５【人と接する恐怖か】=5【Fear of interacting】
 ６【ゴハンの時間だゾ】=6【It's dinner time】
 ７【角刈り～！】=7【Crew cut!】
 ８【マッカマカにして】=8【I'll Makka-Maka you】
-９【俺の出番少なくね】=9【I didn't get to do much】
+９【俺の出番少なくね】=9【I didn't do much】
 １０【こら、先に言うな】=10【Don't say it first!】 
 １【くらえ！　コナン】=1【Conan the Great!】
 ２【負けたら腹筋千回】=2【1000 sit-ups!】

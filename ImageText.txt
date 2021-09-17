@@ -8,7 +8,7 @@ sel_font_sb.png:#done
 sel_font_sc.png: #done  also self.png- unsed?
 リトライ=Retry
 キャラクターセレクト=Character Select
-対戦を終了する=Leave Match
+対戦を終了する=Leave Match#qc
 
 sel_font_sd.png:#done
 リトライ=Retry
@@ -21,8 +21,8 @@ Mnu_mes.png:#done
 
 btfont_csel.png:
 選択　決定　キャンセル=Pick  Set  Cancel
-設定の変更 	戻る=Options  Back
-乱入対戦　変更=#context  
+設定の変更 	戻る=Configure  Back
+乱入対戦　変更=Intrusion Options#qc  
 
 Btfont_mm.png
 選択　決定　キャンセル=Pick  Set  Cancel
@@ -33,11 +33,23 @@ Gal_btf.png:
 ページの切り替え　戻る=Change Page  Exit
 前へ　次へ=Next  Back
 
-Btfont_vcs.png:
+Btfont_vcs.png: 
 選択　決定　キャンセル=Pick  Set  Cancel
 技の選択　試験　戻る=Change Moves  Listen  Back 
 ボイスの設定=Change Voice
 キャラクターの変更=Change Character
+
+Adv_btf.png:
+移動　選択　決定=Move Pick  Set 
+メニュー=Menu
+戻る=Back
+キャンセル　ページ変更=Cancel  Change Page
+
+bt_no.png:
+選択	決定	戻る=Pick  Set  Back
+
+bt_sound.png:
+選択　　ボリュームの調整　　初期設定に戻す  戻る=Pick  Adjust Volume  Restore Default Settings  Back
 
 change_l.png, change_l_ps2.png:#done
 カラー変更=Change Color
@@ -419,16 +431,16 @@ GL_SUB.png (anime episode titles)#done
 神々の闘い 〜デス･シティー崩壊の危機に?〜=The Battle of the Gods – Death City on the Verge of Collapse?
 
 
-Adh_ex.png:
+Adh_ex.png:#done
 対戦する相手を選んでください=Select an opponent
 ゲームモードを選んででください=Choose Game Mode
 お待ちください…=Please wait...
 
-Fsel_tex.png:
-課題クリア率=Cleared Tasks
+Fsel_tex.png:#done
+課題クリア率=Tasks
 プレイ時間 - : %=Play Time
 
-Adhtxt_ref.png:
+Adhtxt_ref.png:#done
 ワイヤレスLANスイッチをONにしてください=Please turn the wireless LAN switch on
 
 opt_keycon_1.gmo
@@ -462,12 +474,6 @@ config_4.png:
 
 config_5.png:
 固有技=Unique Skill
-
-bt_no.png:
-選択	決定	戻る=Pick  Set  Back
-
-bt_sound.png:
-選択　　ボリュームの調整　　初期設定に戻す  戻る=Pick  Adjust Volume  Restore Default Settings  Back
 
 fsel_name.png: see cname#done
 
@@ -530,12 +536,6 @@ Pu01 > pu53_etc_fpk #unused?
 
 Access.png:
 セーブデータ　アクセス中=Autosave in progress...
-
-Adv_btf.png:
-移動　選択　決定=Move Pick  Set 
-メニュー=Menu
-戻る=Back
-キャンセル　ページ変更=Cancel  Change Page
 
 Pora_b.png, c_mark.png#done
 Red circle - 済

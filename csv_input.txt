@@ -1,11 +1,11 @@
 #These are (mostly) lines from the anime, used in the voice menu. Translations should match bin_input. Don't use commas
-職人ゲージ上昇＋＋=Boost Meister Gauge++#This and boost weapon gauge amplify the amount of gauge increase you get for skills, essentially filling them faster. Not sure how to best translate this within the limited space. Nb, this is the max character count
+職人ゲージ上昇＋＋=Meister Gauge++#This and weapon gauge amplify the amount of gauge increase you get for skills, essentially filling them faster.
 男の浮気に理屈が=Why do men cheat!?
 ６文字狩り=Figure 6 Hunter
 ゲージ節約＋=Gauge Consumption-
 友達になって=Will you be my friend?
 対話効果＋=Dialogue Bonus+
-問題なのは魂だろ=The issue is the soul
+問題なのは魂だろ=It's the soul
 チャージ＋=Charge+
 力はよこせ！=Give me power!
 共鳴技強化＋＋=Resonance Attacks++
@@ -16,8 +16,8 @@
 角刈り〜！=Crew cut!
 気絶耐性＋=Stun Resistance+
 マッカマカにして=I'll Makka-Maka you
-武器ゲージ上昇＋＋=Boost Weapon Gauge++
-俺の出番少なくね=I didn't get to do much
+武器ゲージ上昇＋＋=Weapon Gauge++
+俺の出番少なくね=I didn't do much
 対話効果＋＋=Dialogue Bonus++
 こら、先に言うな=Don't say it first!
 共鳴技強化＋=Resonance Attacks+
@@ -29,7 +29,7 @@
 気配は消せっての=Mask your presence
 移動速度＋=Movement Speed+
 進んでゆきたい！=Let's grow together!
-職人ゲージ上昇＋=Boost Meister Gauge+
+職人ゲージ上昇＋=Meister Gauge+
 必殺技の威力=Stronger Moves
 影☆星=Shadow☆Star
 気絶耐性＋＋=Stun Resistance++
