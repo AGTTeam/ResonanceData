@@ -82,7 +82,7 @@
 ナイフのように=Knife-like
 キムは素敵な人だ=Kim is beautiful
 雷王震=Lightning King Quake
-帰ったら早速勉強=Let's get home and study
+帰ったら早速勉強=Studying is life
 移動速度＋＋=Movement Speed++
 雷槍のスピードを=Lightning Spear Speed
 ゲージ節約＋＋=Gauge Consumption--
@@ -103,13 +103,13 @@
 マカ見てるか！？=Watch this Maka!
 術ゲージ上昇＋＋=Magic Gauge++
 袖まくっちゃう=Roll up my sleeves
-あの悪魔の実験！=Those devilish experiments!
+あの悪魔の実験！=Devilish experiments
 魔女狩り=Witch Hunter
 解体していいかな=Can I pull you apart?
 そのつもりですよ=I intend to
 俺に言われても=Even if you tell me...
 究極技強化＋=Ultimate Art+
-キャバクラは勘弁=I'll pass on your club
+キャバクラは勘弁=Not your club
 パンパンプキン=Pum-Pumpkin
 スマッシングパンプキン=Smashing Pumpkin
 術ゲージ上昇＋=Magic Gauge

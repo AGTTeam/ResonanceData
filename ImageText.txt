@@ -19,36 +19,38 @@ Mnu_mes.png:#done
 セーブをして終了=Save and Exit
 キャンセル=Back
 
-btfont_csel.png:
+btfont_csel.png:#done
 選択　決定　キャンセル=Pick  Set  Cancel
 設定の変更 	戻る=Configure  Back
 乱入対戦　変更=Intrusion Options#qc  
 
-Btfont_mm.png
+Btfont_mm.png#done
 選択　決定　キャンセル=Pick  Set  Cancel
 ファイルの削除　　戻る=Erase Data  Back
 
-Gal_btf.png:
+Gal_btf.png:#done
 選択　決定　キャンセル=Pick  Set  Cancel
 ページの切り替え　戻る=Change Page  Exit
 前へ　次へ=Next  Back
 
-Btfont_vcs.png: 
+For reasons I don't quite understand, the PS2 Soul Theater gallery images seem to be in the work_IMG folder. Be careful not to delete them!
+
+Btfont_vcs.png:#done
 選択　決定　キャンセル=Pick  Set  Cancel
 技の選択　試験　戻る=Change Moves  Listen  Back 
 ボイスの設定=Change Voice
 キャラクターの変更=Change Character
 
-Adv_btf.png:
+Adv_btf.png:#done
 移動　選択　決定=Move Pick  Set 
 メニュー=Menu
 戻る=Back
 キャンセル　ページ変更=Cancel  Change Page
 
-bt_no.png:
+bt_no.png:#done
 選択	決定	戻る=Pick  Set  Back
 
-bt_sound.png:
+bt_sound.png:#done
 選択　　ボリュームの調整　　初期設定に戻す  戻る=Pick  Adjust Volume  Restore Default Settings  Back
 
 change_l.png, change_l_ps2.png:#done
@@ -443,41 +445,25 @@ Fsel_tex.png:#done
 Adhtxt_ref.png:#done
 ワイヤレスLANスイッチをONにしてください=Please turn the wireless LAN switch on
 
-opt_keycon_1.gmo
+opt_keycon_2.gmo, also opt_keyconfig.png#done
 Config_0.png:
 なし=None
 
-config_2.png:
-ソウルチャージ=Soul Charge
-
-config_3.png:
-職人攻撃・格闘攻撃=Meister/Physical Attack
-
-config_4.png:
-魔武器攻撃・術攻撃=Weapon/Magic Attack
-
-config_5.png:
-固有技=Unique Skill
-
-opt_keycon_2.gmo, also opt_keyconfig.png
-Config_0.png:
-なし=None
-
-config_2.png:
+config_2.png:#done
 ジャンプ=Jump
 
-config_3.png:
+config_3.png:#done
 ソウルチャージ=Soul Charge
 
-config_4.png:
+config_4.png:#done
 魔武器攻撃・術攻撃=Weapon/Magic Attack
 
-config_5.png:
+config_5.png:#done
 固有技=Unique Skill
 
 fsel_name.png: see cname#done
 
-mm_opfc.png
+mm_opfc.png#done
 =キーコンフィグ=
 アクション操作の設定をします=Configure the controls
 =サウンド=
@@ -487,27 +473,27 @@ mm_opfc.png
 =ソウルシアター=
 入手した画像を関覧できます=View the images you've collected so far
 
-mm_smfc.png:
+mm_smfc.png:#done
 =アーケード=
 COMのキャラクターと順番に戦います=Battles with COM characters in a row
 =フリーバトル=
 バトルルールを自由に変更して戦います=Change the battle rules as you'd like
 =チームバトル=
-3対3のチームを組んで戦います=Battle in teams of 3 om 3
+3対3のチームを組んで戦います=Battle in teams of 3 on 3
 
-Mm_smfc00.png:
+Mm_smfc00.png:#unused?
 全キャラクターと勝ち抜きで戦います。=Fight in a knockout competition
 
-mm_vsfc.png:
+mm_vsfc.png:#done
 =ボイスセッティング=
 入手したカスタムボイスを設定します=Change the custom voice settings  
 
-mm_vsfc00.png:
+mm_vsfc00.png:#done
 =アドホックロビー=
 アドホックロビーへ接続します=Connect to the ad hoc lobby.
 
-opt_kc_player.png:
-L2 R2 で変更=change
+opt_kc_player.png:#done
+L2 R2 で変更=swap
 
 Mm_fonta.png (1): #unused?
 CPUのキャラクターと戦うモードです。
@@ -516,25 +502,25 @@ CPUのキャラクターと戦うモードです。
 キャラクターのボイスを設定します。
 各種音量やボタンの設定ができます。
 
-Mm_fonta.png (2):
+Mm_fonta.png (2):#done
 COMのキャラクターたちとバトル!=Battle with COM characters!
 アドホックモードで2プレイヤー対戦!=Go head-to-head in LAN mode!
 課題をクリアしていくストーリーモード！=Clear tasks to advance the story!
 キャラクターのボイスを設定します=Change the characters voices!
 各種音量やボタンの設定ができます=Adjust volume and controls
 
-Waza_name.png:
+Waza_name.png:#unused?
 究極共鳴技=Ultimate Resonance
 
-Waza.png:
+Waza.png:#done
 共鳴技=Resonance
-究極共鳴技=Ultimate Resonance
-波長技=Soul Wavelength
-究極技=Ultimate
+究極共鳴技=Ultimate Art (Resonance)
+波長技=(Soul) Wavelength
+究極技=Ultimate Art
 
 Pu01 > pu53_etc_fpk #unused?
 
-Access.png:
+Access.png:#done
 セーブデータ　アクセス中=Autosave in progress...
 
 Pora_b.png, c_mark.png#done
@@ -543,10 +529,10 @@ Red circle - 済
 Ad_op_moji.png:
 健全なる魂は、健全なる精神と健全なる肉体に宿る=A sound soul dwells within a sound mind and a sound body.
 
-Chlg_ta.png:
+Chlg_ta.png:#done
 挑戦する=Accept
 
-Title.png:
+Title.png:#done
 課題選択=Tasks
 
 fl_f00.gmo
@@ -583,15 +569,15 @@ N_moji_10.png:#Done
 N_moji_11.png:#Done
 死武専地下=DWMA Underground
 
-Bdg.png:
+Bgd.png:#done
 課題クリア率=Tasks
 ボイス取得率=Voices
 MENU %
 
-Subt.png (1):
+Subt.png (1):#unused?
 “知将雷王”　オックス君登場=Ox, Royal Thunder Commander
 
-Subt.png (2):#should match mte_input
+Subt.png (2):#should match mte_input  done
 準備運動=Warm-Up
 影人形バトル=Shadow Doll Battle
 魂の共鳴=Soul Resonance
@@ -644,7 +630,7 @@ Subt.png (2):#should match mte_input
 超勝ち抜きバトル祭=The Super Battle Royale Fest
 真エクスカリバー伝説(完)=The True Legend of Excalibur
 
-Tex02.png:
+Tex02.png:#done
 経過時間=TIME
 残り体力=LIFE
 課題番号=Task
