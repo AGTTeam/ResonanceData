@@ -1,8 +1,8 @@
 ﻿!FILE:COMMON
-よーし、行くよ！　ソウル=Alright, let's go Soul!
-ああ、楽勝だな=Yeah, it'll be a piece of cake.
-こんなの簡単だよな=This'll be a breeze.
-うん、サービス問題ね♪=Yeah, easier than a multiple choice exam♪#Service (bonus) question - something that can be done very easily
+よーし、行くよ！　ソウル=Okay, let's go, Soul!
+ああ、楽勝だな=Alright. This won't take long.
+こんなの簡単だよな=This'll be a cool breeze.
+うん、サービス問題ね♪=Yeah, as easy as a multiple-choice test♪#Service (bonus) question - something that can be done very easily
 なんかヤな感じ…=I've got a bad feeling about this...
 ぶっとばしてやるか！=I'll beat you up!
 めんどくせェ～=Ugh～ What a pain.
@@ -159,23 +159,23 @@
 僕の頭脳がはじき出した作戦の前には、|あなたは無力だということを思い知るでしょう=You will realize how powerless you are against the strategies that my brain has cooked up.
 ぐっ、分が悪い…|だが、知将雷王は逃げも隠れもしませんよ！=*Gulp* I think my goose is cooked...|But the Brilliant General Lightning King neither runs nor hides!
 !FILE:ev001.smd
-■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1■|You can now choose tasks. Let's enter DWMA and select one!
-■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button.|You can check the acquisition rate of voices and the task clear rate!
-また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=By selecting 『Voice Setting』, you can change|the voices into the one's you acquired so far!
-■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3■|A new Field Point has opened.|Let's try going along the path and entering it!
+■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1■|You can now take on assignments. Head into the DWMA and pick one!
+■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button to check how many voices you've unlocked and how many assignments you've completed.
+また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select『Voice Setting to change a voice to one you have obtained!
+■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3■|A new Field Point has opened. Follow the path and check it out!
 ■アドベンチャーガイド４■|ストーリーが進まないときは？|まずはとにかく課題をクリアしてみよう。=■Adventure Guide 4■|What to do when not progressing the story?|First let's try clearing a task.
 課題のクリア数を増やしたら、死武専に|入ってみよう。死武専で聞いた噂に関係が|ありそうな課題は優先してクリアしよう！=If you increase the number of cleared tasks, enter the DWMA.|You may hear some rumors in there, make these tasks|your priority and clear them!
 !FILE:ev002.smd
-さ～て、準備運動も終わったし、本格的な|ヤツに行こうぜ=Now that we're done with warm-up, how about we take on the stronger dudes?
-うん。どんどん魂を集めて、ソウルを最強の|デスサイズにする。…がんばらなきゃね！=Yes, we have to work hard and collect souls to make you the strongest death scythe.
-マカ～～頑張ってるなァ～～立派な娘を持って|パパはうれしいぞ=Maka～～ Working so hard～～|Having such an admirable daughter makes Papa so happy.
-ゲッ、アホ親父…=Ugh, the crazy father...
-プン。|私パパのコト父親だなんて思ってないから=Hmph. Well I don't think of you|as my dad.
-ひ、ヒドイ…パパは…パパは……|ソウル、てめぇがマカをたぶらかしたのかァ！=M-Mean! Papa is...Papa is...|Soul you jerk, admit you deceived Maka with something!
-あァ！？|クールな俺が何でこんなチンチクリン女に=Huh!? What would a cool guy like me want with a shorty like her?
-何だとぅ！？|俺のマカに魅力が無いってのか！|少しは手ェ出せ！　男だろ！=What!? Are you saying my Maka has no charm at all? Come on, make a move, you're a dude after all!
-何言ってんだ！？　お前=What are you saying!? You idiot.
-ハァ………課題さがそ…=Ugh...Let's just find a task...
+さ～て、準備運動も終わったし、本格的な|ヤツに行こうぜ=Now that we're warmed up, why don't we take on someone who can keep their cool?
+うん。どんどん魂を集めて、ソウルを最強の|デスサイズにする。…がんばらなきゃね！=Yeah, we've got to work hard and collect those souls to make you the strongest death scythe.
+マカ～～頑張ってるなァ～～立派な娘を持って|パパはうれしいぞ=Maka! My little go-getter! It makes a papa proud to have such an amazing daughter.
+ゲッ、アホ親父…=Ugh, the dadiot...
+プン。|私パパのコト父親だなんて思ってないから=Hmph! As if I'd ever accept you as my papa.
+ひ、ヒドイ…パパは…パパは……|ソウル、てめぇがマカをたぶらかしたのかァ！=But... I am your Papa. Soul, you jerk, you turned her against me to have her for yourself!
+あァ！？|クールな俺が何でこんなチンチクリン女に=As if! What would a cool guy like me want with a shorty like her?
+何だとぅ！？|俺のマカに魅力が無いってのか！|少しは手ェ出せ！　男だろ！=What!? Are you blind!? She's so charming! You're a guy! Make a move already!
+何言ってんだ！？　お前=What the heck are you talking about?!
+ハァ………課題さがそ…=*Sigh* Let's just find an assignment.
 ちょろい、ちょろすぎる！　椿、もっと俺様に|ふさわしいビッグな課題は無いのか！？=Way too easy! Tsubaki, aren't there any tasks more suitable for my greatness!?
 え……さっき全部やるって言ってたのに…|ブラック☆スターはどんな課題やりたい？=Eh...but you said you'd do all of them before...|What kind of task do you want to do, Black☆Star?
 伝説の邪龍退治とか、暗黒大魔王討伐とか、|とにかく俺様が目立てるヤツだな！=Something like defeating a legendary, evil dragon or subduing a great demon king. I want to stand out!
@@ -200,17 +200,17 @@
 !FILE:ev003.smd
 うっす、ちーっす！=Hello, hello!
 あ、死神様！　おはよーございます=Ah, Lord Death! Good morning.
-マカちゃん、調子どーお？=Maka, how you doin'?
-けっこういい調子だと思います♪=I'm doing pretty good♪
-そぉー。さすがお母さんに似て優秀だね=Is that so? Excellent just like your mother.
-死神様、なんかクールな課題はないか？=Lord Death, aren't there any cool tasks?
-ん。そーだねー。魔女ブレアって知ってる？=Hmm. Ooh, right. You know the witch, Blair?
-いえ…=No...
-いつのまにか、デス・シティーの近くの森に|住み着いちゃってたみたいなんだよねー。|まだとくに悪さはしてないみたいだけどさ=She seems to have settled down in the forest near Death City some time ago. She hasn't done anything bad so far though.
-マジかよ、いい情報じゃねぇか！|今まで集めた９９個の鬼神の卵と化した魂に、|魔女の魂を合わせれば目標達成だぜ！=Are you for real? That's some great news!|If we get a witch's soul to our already collected 99 kishin eggs, then it's objective clear!
-私は過去に魔女との戦闘で命を落とした職人を|いやというほど見てきたよ。気をつけてね=I've seen a lot of meisters lose their lives in battles with witches before. Be careful.
-やります！|デスサイズを作るためには、魔女の魂は不可欠|です。必ずやりとげてみせます！=I'll do it!|In order to make a death scythe, a witch's soul is necessary.|I'll definitely do it!
-う～ん、ブレアについてはあまり情報が無い|けど、なーんか魔女にしては変なんだよねぇ…|ま、いっか♪=Hmm, we don't have a lot of information on Blair and that's quite weird for a witch, isn't it...|Well, whatever♪
+マカちゃん、調子どーお？=Maka, how's it going?
+けっこういい調子だと思います♪=I'm doing pretty well♪
+そぉー。さすがお母さんに似て優秀だね=Wonderful! You're just as outstanding as your mother.
+死神様、なんかクールな課題はないか？=Lord Death, got any cool assignments for us?
+ん。そーだねー。魔女ブレアって知ってる？=Hmm. Oh, right. Do you know the witch, Blair?
+いえ…=Not really.
+いつのまにか、デス・シティーの近くの森に|住み着いちゃってたみたいなんだよねー。|まだとくに悪さはしてないみたいだけどさ=Well, she hasn't done anything bad so far, but she settled down in the forest near Death City some time ago.
+マジかよ、いい情報じゃねぇか！|今まで集めた９９個の鬼神の卵と化した魂に、|魔女の魂を合わせれば目標達成だぜ！=For real? Now we're talking! We've already got 99 kishin eggs, so that witch's soul is just what we need!
+私は過去に魔女との戦闘で命を落とした職人を|いやというほど見てきたよ。気をつけてね=I've seen many meisters lose their lives in battle with witches, so be careful.
+やります！|デスサイズを作るためには、魔女の魂は不可欠|です。必ずやりとげてみせます！=We need a witch's soul to make Soul a death scythe, so we'll do it! Just you watch!
+う～ん、ブレアについてはあまり情報が無い|けど、なーんか魔女にしては変なんだよねぇ…|ま、いっか♪=We don't have much information on Blair, but, well, she's a little weird even for a witch. Off you go now♪
 お！　マカにソウルじゃん！=Oh! It's Maka and Soul!
 あ、ブラック☆スターと椿ちゃん…=Ah, Black☆Star and Tsubaki...
 どうしたの？　何か元気ないみたいだケド…=What's wrong? You look a bit down...
@@ -1170,10 +1170,10 @@
 死武専・学生課=DWMA - Student Division
 ほらっ、ソウル！　これこれ=Hey, Soul! Here, this one.
 マカ＝アルバーン。一つ星職人。|真面目で負けず嫌い。現デスサイズを父に持つ=Maka Albarn. One-star meister.|Seriously hates losing. Her father is the current Death Scythe.
-どれどれ…|はーん、なるほどな=Which one...|Huh, makes sense.
-ソウル＝イーター。魔鎌。マカ＝アルバーンの|パートナー。「クールな男」を目指している=Soul Eater. Demon scythe.|Maka Albarn's partner. He wants to be a "cool guy".
-ねっ、簡単な課題でしょ！　じゃコレ決定ね=Right? It's an easy assignment! It's settled, then.
-オーケー、まあ準備運動には丁度いいな=Okay, it'll be just right for a warm-up.
+どれどれ…|はーん、なるほどな=Let me see that.|Oh, I gotcha.
+ソウル＝イーター。魔鎌。マカ＝アルバーンの|パートナー。「クールな男」を目指している=Soul Eater. Demon scythe.|Maka Albarn's partner. Tries to be a "cool guy".
+ねっ、簡単な課題でしょ！　じゃコレ決定ね=See? It'll be an easy assignment. It's settled! We're doing it!
+オーケー、まあ準備運動には丁度いいな=Okay. We'll call it a warm-up.
 死武専・学生課=DWMA - Student Division
 見ろ、椿！　俺様に解決されるために、新しい|課題があるぞ！=Look, Tsubaki! There are new assignments to be solved by my greatness!
 ブラック☆スター。一つ星職人。|暗殺者だが究極の目立ちたがり屋。|体術を得意とする=Black☆Star. One-star meister.|He's an assassin, but also very conspicuous.|Very good in hand-to-hand combat.
@@ -1197,19 +1197,19 @@
 !FILE:ms003.smd
 !FILE:ms004.smd
 !FILE:ms005.smd
-ここね、魔女ブレアのすみかは…=It's here, the witch Blair's home...
-おう、カボチャの家か…クールだな、うまそー=Oh, it's a pumpkin house, huh...|Cool, looks tasty.
-私、作戦書いてきたんだ=I wrote a strategy for us.
-うわ、なんだよ。そのメモは…|今日の献立じゃねえんだぞ！=Ugh, what? That paper...|That's not gonna be on the schedule today!
-何よ、魔女は今までの敵とはワケが違うんだ|から！=Why? A witch is totally different from the enemies we fought before!
-うるせェー！|俺は一人で行くぜ！　気合だろ！=Just shut up! I'll just go alone!|I'm puuumped!
-ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait! Idiot! If you yell that loud,|my plan will...
-なーに、ボクたち、ブレアに何か御用？=Whaaat is it, you two?|You have some business with Blair?
-おわぁ！　いつの間に！=Uoh! W-When did she?
-あ、あんたが魔女ブレアね！|あんたの魂、いただくよ！=Y-You are the witch, Blair!|I'll take your soul!
-魔女…？=Witch...?
-悪りぃが姉ちゃん、|あんたの魂、食わせてもらうぜ=Sorry, big sis.|I'll take and eat your soul.
-あら、可愛いボクね。じゃ、アタシが勝ったら|アタシのモノになってもらおうかしら♪=Oh my, what a cutie. Hey, if I win, will you become my scythe♪?
+ここね、魔女ブレアのすみかは…=This is it, that witch Blair's home.
+おう、カボチャの家か…クールだな、うまそー=Yo, it's a pumpkin house.|That's cool. Looks tasty.
+私、作戦書いてきたんだ=I drew up a plan of attack.
+うわ、なんだよ。そのメモは…|今日の献立じゃねえんだぞ！=Hunh!? What the heck is this!? We're not doing all that junk!
+何よ、魔女は今までの敵とはワケが違うんだ|から！=Why not? Witches aren't like all the enemies we've fought before!
+うるせェー！|俺は一人で行くぜ！　気合だろ！=Yeah, whatever! I'll just do it myself! !
+ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait, you idiot! Don't yell so loud, or my plan will...
+なーに、ボクたち、ブレアに何か御用？=What's with you two? Do you need something from me?
+おわぁ！　いつの間に！=Woah! Where'd she come from!?
+あ、あんたが魔女ブレアね！|あんたの魂、いただくよ！=You're the witch Blair, right?|Your soul is ours!
+魔女…？=Witch?
+悪りぃが姉ちゃん、|あんたの魂、食わせてもらうぜ=Sorry, lady, but I'm going to be eating your soul.
+あら、可愛いボクね。じゃ、アタシが勝ったら|アタシのモノになってもらおうかしら♪=Oh my, what a cutie♪ Say, if I win, why don't you be my boy toy?
 このあたりか？　魔女がいるってのは=Around here? Where the witch's supposed to be.
 うん、気づかれないようにしないと=Yes, we should stay unnoticed.
 魔女をぶったおして、お前をデスサイズに|してやるからな=I'll beat that witch, and make you a death scythe.
