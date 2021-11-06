@@ -161,7 +161,7 @@
 !FILE:ev001.smd
 ■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1■|You can now take on assignments. Head into the DWMA and pick one!
 ■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button to check how many voices you've unlocked and how many assignments you've completed.
-また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select『Voice Setting to change a voice to one you have obtained!
+また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select 『Voice Setting』 to change a voice to one you have obtained!
 ■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3■|A new Field Point has opened. Follow the path and check it out!
 ■アドベンチャーガイド４■|ストーリーが進まないときは？|まずはとにかく課題をクリアしてみよう。=■Adventure Guide 4■|What to do when not progressing the story?|First let's try clearing a task.
 課題のクリア数を増やしたら、死武専に|入ってみよう。死武専で聞いた噂に関係が|ありそうな課題は優先してクリアしよう！=If you increase the number of cleared tasks, enter the DWMA.|You may hear some rumors in there, make these tasks|your priority and clear them!
