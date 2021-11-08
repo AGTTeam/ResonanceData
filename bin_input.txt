@@ -14,6 +14,7 @@
 はい=YES
 いいえ=NO
 キャンセル=CANCEL
+ソウルシアターに画像が追加されました！=New images added to the Soul Theater!
 #ファイル=File
 #曲名=Song name
 #音名=Sound name
@@ -208,7 +209,7 @@ UNK(8888)UNK(883C)バトルにもどる=UNK(8888)UNK(883C)Resume Battle
 乱入対戦が許可されています。|自動的にアドホックモードに|接続する場合があります。|ワイヤレスＬＡＮスイッチがＯＮに|なっていることを確認してください。=Intrusion matches are allowed|may be automatically connected to ad hoc mode|Check that the wireless LAN switch is set to ON.
 アドホックロビーに戻ります|よろしいですか？=Return to ad hoc lobby?
 キャラクターセレクトを終了します|よろしいですか？=End character selection?
-削除します|よろしいですか？=Delete?#qc
+削除します|よろしいですか？=Delete file?
 ワイヤレスＬＡＮスイッチが|ＯＦＦになっています。|（○ボタンを押してください）=The wireless LAN switch is turned off.|(Press X to continue)
 オートセーブ機能をOFFにしますか？=Turn autosaving OFF?
 オートセーブ機能をONにしますか？=Turn autosaving ON?

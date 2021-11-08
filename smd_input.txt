@@ -1,8 +1,8 @@
-﻿!FILE:COMMON
+!FILE:COMMON
 よーし、行くよ！　ソウル=Okay, let's go, Soul!
 ああ、楽勝だな=Alright. This won't take long.
 こんなの簡単だよな=This'll be a cool breeze.
-うん、サービス問題ね♪=Yeah, as easy as a multiple- choice test♪#Added space for better wordwrap
+うん、サービス問題ね♪=Yeah, as easy as a multiple-choice test♪
 なんかヤな感じ…=I've got a bad feeling about this...
 ぶっとばしてやるか！=I'll beat you up!
 めんどくせェ～=Ugh～ What a pain.
