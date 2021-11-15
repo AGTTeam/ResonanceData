@@ -194,6 +194,7 @@ UNK(8888)UNK(883C)バトルにもどる=UNK(8888)UNK(883C)Resume Battle
 ロード=Load
 ● ロード=● Load
 ● セーブ=● Save
+● フォーマット=● Format
 ＜　仮オプション～キーコンフィグ～　＞=<Temporary Options ~Key Config~ >
 Ｌ=L
 Ｒ=R
