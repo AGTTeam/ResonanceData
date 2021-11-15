@@ -462,7 +462,7 @@ MEMORY CARD差込口１の|メモリーカード(PS2)が差し替えられてい
 削除しますか？=Delete this file?
 削除中です。\nMEMORY CARD差込口1の|メモリーカード(PS2)を抜いたり、本体の電源を切ったりしないでください。=Deleting data.\nPlease do not remove\nthe memory card (PS2)\nin MEMORY CARD slot 1\nor switch off the console.
 削除しました。=Data deleted.
-MEMORY CARD差込口1の|メモリーカード(PS2)は、\nフォーマットされていません。\nフォーマットしますか？=The memory card (PS2) in MEMORY CARD slot 1 is unformatted.\nFormat memory card (PS2)?
+MEMORY CARD差込口1の|メモリーカード(PS2)は、\nフォーマットされていません。\nフォーマットしますか？=The memory card (PS2) in\nMEMORY CARD slot 1 is unformatted.\nFormat memory card (PS2)?
 フォーマット中です。\nMEMORY CARD差込口1の|メモリーカード(PS2)を抜いたり、\n本体の電源を切ったり|しないでください。=Format in progress.\nPlease do not remove\nthe memory card (PS2)\nin MEMORY CARD slot 1\nor switch off the console.
 フォーマットしました。=Format complete.
 ロードに失敗しました。\nMEMORY CARD差込口1の|メモリーカード(PS2)が正しく|差し込まれているか確認して下さい。=Failed to load data.\nPlease check that the Memory Card (PS2) is inserted correctly.
