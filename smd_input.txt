@@ -8,7 +8,7 @@
 めんどくせェ～=Ugh～ What a pain.
 文句言わないの！　いくよ！=Save your complaints! Let's go!
 ちょっと手ごわいわね=This could be tough, huh?
-おう、気合入れていくぜ=Well, let's give it our all. 
+おう、気合入れていくぜ=Well, let's give it our all.
 負けらんねェな…=We can't afford to lose...
 職人と武器は二人で一つ！でしょ="Meister and weapon are one!" Right?
 職人と武器は二人で一つ！　でしょ="Meister and weapon are one!" Right?
@@ -124,7 +124,7 @@
 俺は不死だぞ？|そう、絶対死ぬことは無い。ああ、本当さ。=Am I really immortal? Well, I'll never die, so yeah, I guess I really am.
 ２００年の監獄ライフで体がなまってる。|少し運動させてもらうぞ=After 200 years stuck in prison, I could use the exercise.
 俺はお呼びじゃないって？|だが引き下がる俺じゃない、抵抗するさ=Didn't I say I wasn't involved? Don't expect me to back down without a fight though.
-こうしてコツコツと課題をやる…|そんな地道な姿がカッコいいと憧れていたが、|やってみると意外とアレだな…=I used to think that it was cool to take on tasks so diligently. I wanted to be like that. But when I actually tried it...#qc 
+こうしてコツコツと課題をやる…|そんな地道な姿がカッコいいと憧れていたが、|やってみると意外とアレだな…=I used to think that it was cool to take on tasks so diligently. I wanted to be like that. But when I actually tried it...#qc
 なかなか難しそうだな…|でも大丈夫。だって俺不死身だから！=This looks like it could be dangerous... Well, it would if I weren't immortal!
 見せてやるぜ、自然の怒り！|今度は俺が裁く番だ！=Now that my wrath is unshackled, I will play the judge!
 魔眼プラス不死イコール最強！|今更魔眼を返せって言われても、無理な話さ=With both this Magic Eye and my immortality, I am without equal! Tell me to return the eye and I'll laugh in your face!
@@ -160,8 +160,8 @@
 ぐっ、分が悪い…|だが、知将雷王は逃げも隠れもしませんよ！=*Gulp* I think my goose is cooked...|But the Brilliant General Lightning King neither runs nor hides!
 !FILE:ev001.smd
 ■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1■|You can now take on assignments. Head into the DWMA and pick one!
-■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button to check how many voices you've unlocked and how many assignments you've completed.
-また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select 『Voice Setting』 to change a voice to one you have obtained!
+■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button to check your completion rate.
+また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select "Voice Settings" to change a voice to one you have obtained!
 ■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3■|A new Field Point has opened. Follow the path and check it out!
 ■アドベンチャーガイド４■|ストーリーが進まないときは？|まずはとにかく課題をクリアしてみよう。=■Adventure Guide 4■|What to do when not progressing the story?|First let's try clearing a task.
 課題のクリア数を増やしたら、死武専に|入ってみよう。死武専で聞いた噂に関係が|ありそうな課題は優先してクリアしよう！=If you increase the number of cleared tasks, enter the DWMA.|You may hear some rumors in there, make these tasks|your priority and clear them!
@@ -255,12 +255,12 @@
 シンデル魔城ってトコにぃ、魔女と用心棒が|いるんだけどサ、これがね…=There's a witch protected by a bodyguard at Demon Cinder Castle, but, you know...
 えー、魔女に用心棒ですか？|私たちの手に負える相手かどうか…=Huh? A witch protected by a bodyguard? I'm not sure if that's something we can handle...
 いや、ターゲットはその魔女を狙う奴らでね、|マフィアのアル・カポネって言うんだけど、|こいつが悪いヤツでねぇ～=No, your target this time is a mobster who's targeting the witch, Al Capone. He's a real bad guy～
-部下全員に人間の魂を食わせて、一味まるごと|魂が鬼神の卵と化してるんだよ。それだけでは|飽き足らず、魔女の力を欲しがってる=Capone's made his whole gang eat the human souls, turning them all into Kishin eggs. And as if that's not bad enough, now he's after the power of a witch.
+部下全員に人間の魂を食わせて、一味まるごと|魂が鬼神の卵と化してるんだよ。それだけでは|飽き足らず、魔女の力を欲しがってる=Capone's made his whole gang eat the human souls, turning them all into Kishin eggs. And as if that's not bad enough, now he's after the power of a witch.#too long
 ド悪党だな=What a crook.
 どう、挑戦してみる？|やるなら急いだほうがいいと思うケド=So, will you do it? If you're gonna take it on, you'd best shake a leg.
 このチャンスを見逃す手はないよね…！|やります！=We're in no position to pass on a chance like this! We'll do it!
 うまくいきゃ、魔女の魂も手に入るぜ？=If it goes well, maybe we'll even get the witches soul.
-魔女のほうは、色々やっかいっぽいから、|オススメはしないけどね～|そんじゃま、頑張ってみてー=Going for the witch would be a little troublesome, so I wouldn't really recommend it～|Well, do your best!
+魔女のほうは、色々やっかいっぽいから、|オススメはしないけどね～|そんじゃま、頑張ってみてー=Going for the witch would be troublesome, so I wouldn't really recommend it～|Well, do your best!
 んはぁ～～|何だよダンナァ！　魔女じゃなくて猫って|どういうことだよ=For real, Boss? What was that all about? That wasn't a witch. It was just some cat!
 え～、ブレアのこと？|それ、君たちが勝手に行ったんでショ=Do you mean, Blair? So you two took it upon yourselves to go?
 う、確かに…=*Sigh* Yeah...
@@ -503,7 +503,7 @@
 おお、イタリアか！　クールだな。|それ、俺たちにゆずれよ=Yo, Italy!? Italy's cool. What say you let us take that one?
 イタリアの素晴らしい芸術品や建築物を見る|ことが出来るのは魅力的だからな。|ここはゆずれん。リズ、パティ、いいな=Getting to see Italy's amazing art and architecture would be a dream come true. I can't give this one up. Liz, Patty, let's go.
 イタリアか、パスタ食べまくりだな=Italy? I'm going to eat so much pasta.
-イカめし食うぞー！　えへへへへ=Is that why it's called Eataly? Kyahaha! 
+イカめし食うぞー！　えへへへへ=Is that why it's called Eataly? Kyahaha!
 イカめしじゃなくてイタメシね…|イカめしは多分イタリアにはないから…=Not Eataly. Italy.|Although, that wouldn't be a bad name for it.
 『教会』の噂を聞いた！=You've heard the rumor of 『Church』!
 !FILE:ev009.smd#BlackStar's version shares a lot of dialogue with Kid's version
@@ -759,7 +759,7 @@
 頼んだぜ……|死武専を守ってくれ=We're counting on you... to protect the DWMA.
 いてて…=Ow...
 魔女の魂反応……それに魔剣もか=I'm sensing some witch souls up there... And the Demon Sword also.
-緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands. 
+緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands.
 死武専の地下には狂気の始まり「鬼神」が|眠っています=Below the DWMA sleeps a kishin, the source of all madness in the world.
 そして今、保健医として忍びこんでいた魔女…|メデューサが鬼神をよみがえらせようとして|いる。これは絶対止めなければなりません！！=You should know our school nurse, Medusa, is a witch. She snuck into the academy to revive the Kishin. We must stop this at all costs!!
 メデューサ先生が魔女なの！？|そ…そんな…=Dr. Medusa is actually a witch!? That's crazy!
@@ -835,7 +835,7 @@
 頼んだぜ……|死武専を守ってくれ=We're counting on you... to protect the DWMA.
 いてて…=Ow...
 魔女の魂反応……それに魔剣もか=I'm sensing some witch souls up there... And the Demon Sword also.
-緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands. 
+緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands.
 死武専の地下には狂気の始まり「鬼神」が|眠っています=Below the DWMA sleeps a kishin, the source of all madness in the world.
 そして今、保健医として忍びこんでいた魔女…|メデューサが鬼神をよみがえらせようとして|いる。これは絶対止めなければなりません！！=You should know our school nurse, Medusa, is a witch. She snuck into the academy to revive the Kishin. We must stop this at all costs!!
 メデューサ先生が魔女なの！？|そ…そんな…=Dr. Medusa is actually a witch!? That's crazy!
@@ -913,7 +913,7 @@
 頼んだぜ……|死武専を守ってくれ=We're counting on you... to protect the DWMA.
 いてて…=Ow...
 魔女の魂反応……それに魔剣もか=I'm sensing some witch souls up there... And the Demon Sword also.
-緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands. 
+緊急事態です。|みなさん落ち着いて聞いてください=Listen up, kids. We've got an emergency on our hands.
 死武専の地下には狂気の始まり「鬼神」が|眠っています=Below the DWMA sleeps a kishin, the source of all madness in the world.
 そして今、保健医として忍びこんでいた魔女…|メデューサが鬼神をよみがえらせようとして|いる。これは絶対止めなければなりません！！=You should know our school nurse, Medusa, is a witch. She snuck into the academy to revive the Kishin. We must stop this at all costs!!
 メデューサ先生が魔女なの！？|そ…そんな…=Dr. Medusa is actually a witch!? That's crazy!
@@ -1202,7 +1202,7 @@
 私、作戦書いてきたんだ=I drew up a plan of attack.
 うわ、なんだよ。そのメモは…|今日の献立じゃねえんだぞ！=Hunh!? What the heck is this!? We're not doing all that junk!
 何よ、魔女は今までの敵とはワケが違うんだ|から！=Why not? Witches aren't like all the enemies we've fought before!
-うるせェー！|俺は一人で行くぜ！　気合だろ！=Yeah, whatever! I'll just do it myself! !
+うるせェー！|俺は一人で行くぜ！　気合だろ！=Yeah, whatever! I'll just do it myself!!
 ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait, you idiot! Don't yell so loud, or my plan will...
 なーに、ボクたち、ブレアに何か御用？=What's with you two? Do you need something from me?
 おわぁ！　いつの間に！=Woah! Where'd she come from!?
@@ -1312,7 +1312,7 @@
 ＫＩ ＬＬコーン　カーンコーン…|マカ、ソウル、おはよう、こんにちは、|こんばんは。お久しぶりＤＥＡＴＨ=Ding Dong! Death Dong! Maka, Soul, good morning. Good afternoon. Good night. Long time no see...
 あれが…シド先生！？=That's... Mr. Sid!?
 俺は挨拶を欠かさない、そんな男だった…|ゾンビはいいぞ、色んなことがどうでも|よくなる=I never failed to say my greetings. That's the kind of man I was. But being a zombie, you stop caring about all sorts of things.
-くそっ、こっちは退学がかかってんだ！|いくぜマカ！=Well we've got an expulsion riding on this, damn it!|Let's go, Maka! 
+くそっ、こっちは退学がかかってんだ！|いくぜマカ！=Well we've got an expulsion riding on this, damn it!|Let's go, Maka!
 ククッ、授業を始めるぞ、俺はチャイム通り|授業を開始する、そんな男だった！=Geheh, class is in session. And I never dismiss class until the bell tolls. That's the kind of man I was!#dupe
 ここの墓場にシドが埋まってたのか？=So this graveyard is where Sid was buried, huh?
 うん、そう聞いたけど=Yeah, that's what I heard, but...
@@ -1456,7 +1456,7 @@
 見てられない…|シュタイン博士…　あのバカ止めてください！=I can't watch this... Professor stein, please do something!
 死神様の息子…　ああ～研究したい…=Lord Death's son... Aaah, I want to study him.
 げっ、ダメだこの人は…|じゃ私が職人として止めますからね！|ソウル！　もう無理よ、負けを認めて！=Geh, he's completely useless! I'll put a stop to him, as his meister!  Soul! You can't keep doing this! Just admit defeat!
-アホか！　まだ負けちゃいねェー！|おいマカお前も手伝え！|俺たちの共鳴、見せてやろうじゃねえか！=Are you crazy? He hasn't won yet! Maka, you help too! Let's show him the strength of our resonance! 
+アホか！　まだ負けちゃいねェー！|おいマカお前も手伝え！|俺たちの共鳴、見せてやろうじゃねえか！=Are you crazy? He hasn't won yet! Maka, you help too! Let's show him the strength of our resonance!
 ちょ、ちょっと！？|んもぉ～～しょうがないなぁ…=H-Hey, wait!|Aaaagh, fine!
 いやぁ、やはりいつ見てもこの建物は美しい…|まさにシンメトリーの極致だな！=*Swoon* This building is as beautiful as ever. The symmetry is utterly divine!
 んあ？　来た！？|あんたらが噂の息子さん一行？=Hey, are you the new kid we've been hearing so much about?
@@ -1513,7 +1513,7 @@
 ん？　なんだアレは…|死武専のトゲの先端のとこに誰かいる？=Hm? What is that? Is that someone on the tip of one of the DWMA's spikes?
 ヤイ死神の息子！俺様はお前を暗殺する！|そして明日の噂はこうだ！やっぱりねぇ～|ブラック☆スターはついに神を超越した、と=It doesn't matter to me that you're the son of Death! I'll kill you anyway! That's right! I'm gonna kill you today, and then tomorrow you'll have to hear rumors about me!
 ん、あぁ…よせ！=Huh? Hey, get down from there!
-天上天下唯我独尊！|明日の俺には後光がさすだろう！=They'll say Black☆Star's the greatest assassin who ever lived! How does that sound new kid!? Are you scared yet!? 
+天上天下唯我独尊！|明日の俺には後光がさすだろう！=They'll say Black☆Star's the greatest assassin who ever lived! How does that sound new kid!? Are you scared yet!?
 うぉ？！=Whoa!
 ああああああああああああああああああああ！=Aaaaaaaaaaaaaaaah!
 つっ、俺様のビッグな存在に耐え切れなかった|ようだな、道理で時代がうねるはずだぜ=Face it, kid. I'm much too big of a guy for you to handle, and you know it. Do you see how the very ground shakes beneath my feet?
@@ -1924,7 +1924,7 @@
 マカ、この事件とコイツは関係ねぇのかも|しんねぇ。だけど、俺たちにとっちゃ、目の|前のコイツこそ真の敵だぜ！=Maka, this thing with the ship might have nothing to do with them. But, for us, they're the true enemy!
 何？　また僕の邪魔をするんだ？|…殺すよ=What? Are you going to get in my way again? ...I'll kill you.
 魔女の手先になって働く鬼神の卵と化した|魂の持ち主……黒血の魔剣士！|アンタの魂ここで頂くよ！=The kishin egg bearer who works for the witch... The black-blooded Demon Sword! Your soul is mine!
-うるさいなぁ……僕、うるさい人との接し方|わからないよ………キライだ…|みんなキライ……ふっとばしちゃう…！=You're so loud. I don't know how to deal with loud people. I hate this... I hate everyone... I'll get rid of you! 
+うるさいなぁ……僕、うるさい人との接し方|わからないよ………キライだ…|みんなキライ……ふっとばしちゃう…！=You're so loud. I don't know how to deal with loud people. I hate this... I hate everyone... I'll get rid of you!
 ふー、危ねェ危ねェ～=Phew, that was a close one.
 もう、運良く幽霊船にとりつけたからいいけど|一歩間違ったら…=Well, luckily we were able to get on this ghost ship, but if we make even a tiny mistake...
 いつも言ってるだろ椿、俺様ぐらいビッグに|なると、死のうとしても天がそれを許さねぇん|だよ。助かったのは必然ってな！=You always say that, Tsubaki, but God won't let me die 'cause he knows there's no room for someone as big as me up in heaven making him look bad!
@@ -2225,7 +2225,7 @@
 なんかまだ声が聞こえるからよォ、追っかけて|きてみりゃー笑えるコトになってんなァ。|クロナ、今のうちに始末しちまおうぜ=We could still hear your voices, so chasing after you was a joke.|Crona, let's finish this now.
 はぁ、はぁ、これで怒られずに…すむかも…=*Pant* *Pant* Maybe she won't get angry after all.
 キッド、おい、魔剣の野郎が来やがった！|そろそろ立ち直れよ！　って…これはあれか…|パティさん、「鶴の一声」お願いします=Kid, hey, that Magic Sword jerk is here! Now get up already! It's your turn, Patty. Tell him in that special way that you have.
-追いつかれてんじゃねェぞ？　ゴラ！！|さっさと起きろヘタレ！=Get your ass movin' now, damn you! 
+追いつかれてんじゃねェぞ？　ゴラ！！|さっさと起きろヘタレ！=Get your ass movin' now, damn you!
 わぁぁぁん！！=Waaaah!!
 わ…起きた=Oh, he got up.
 クッ…ひぐっ…|パティ……バカのくせに…バカのくせに…！=*Gulp* Damn it, Patty, I hate you so much! I really really hate you!
@@ -2279,7 +2279,7 @@
 おっしゃああ！=Let's put a muzzle on him!
 !FILE:ms048.smd
 魔眼の狼男のトリックを突破した…|もうすぐ…最深部にたどりつくはず…=We made it past the Magic Eye's trap. We should reach the deepest part soon...
-キッドとブラック☆スター達が先行してんだ、|もしかしたらもう黒血を破壊してるかも|しんねぇぜ=Since Kid and Black☆Star went on ahead, they might have already destroyed the black blood. 
+キッドとブラック☆スター達が先行してんだ、|もしかしたらもう黒血を破壊してるかも|しんねぇぜ=Since Kid and Black☆Star went on ahead, they might have already destroyed the black blood.
 だといいんだけど……さっきから|鬼神の波長がどんどん強まってる…=It'd be great if that were true, but... The kishin's wavelength has been getting stronger and stronger.
 ちっ、やっぱり急がなきゃいけねェか…=Tch. Guess we really do need to get a move on.
 うん…！=Yeah...!

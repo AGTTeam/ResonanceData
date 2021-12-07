@@ -1,7 +1,7 @@
 !FILE:MissionTE.mte
 準備運動=Warm-Up
 難易度★=Difficulty ★
-基礎的な戦闘ができるかどうか、簡単な|テストをする。今から、[c]技を１０種類以上[/c]|出してもらう。どんな技でも構わないが、|一応の制限時間を１２０秒とする。|準備運動には丁度良いだろう。=A simple test to see if you've got your combat fundamentals down. You must perform [c]at least 10 unique attacks[/c]. Any will do, but there will be a 120 second time limit. This should make for a great warm-up.
+基礎的な戦闘ができるかどうか、簡単な|テストをする。今から、[c]技を１０種類以上[/c]|出してもらう。どんな技でも構わないが、|一応の制限時間を１２０秒とする。|準備運動には丁度良いだろう。=A simple test to see if you've got your combat fundamentals down. You must perform [c]at least 10 unique attacks[/c]. Any will do, but there will be a 120 second time limit. A great warm-up.
 影人形バトル=Shadow Doll Battle
 難易度★=Difficulty ★
 「影人形」を知っているか？|人の姿を真似るだけの、ごく初歩の魔道具の|一種だ。これと戦ってもらう。姿・形こそ|そっくりだが、何も恐れることは無い。|問題なのは「魂」だからだ。=Are you familiar with the Shadow Dolls? They're a crude form of magic tool. You can beat on them all you want. They look and act just like people, but there's no soul inside.
