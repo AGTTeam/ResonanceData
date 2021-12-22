@@ -378,7 +378,7 @@
 むぐぐ……=Ugh...
 なるほど、シュタイン君か。|ありえる話だねぇ=I see, Stein.|That's not impossible.
 知ってるんですか？=Do you know him?
-彼は死武専の卒業生でね、優秀な職人だよ。|だけどちょっと悪いクセがあってね…|生き物の解剖や実験が趣味だったりするんだ=He was a DWMA student and an excellent meister.|Though he had a certain penchant for... dissections and experiments.
+彼は死武専の卒業生でね、優秀な職人だよ。|だけどちょっと悪いクセがあってね…|生き物の解剖や実験が趣味だったりするんだ=He was a DWMA student and an excellent meister. Though he had a certain penchant for... dissections and experiments.
 それでシド先生も……=So, Sid is also...
 うん、全く困ったもんだね。|彼はたぶん自分の研究所にこもってると思う|から、どうにか捕まえてきてよ=Yes, it's a real problem.|He's probably in his laboratory, please capture him somehow.
 捕まえてきたら、補習はクリア、退学はナシ|だからな！=If you capture him, the remedial lesson is cleared and no expelling!
