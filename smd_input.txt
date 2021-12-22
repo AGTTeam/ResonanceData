@@ -511,7 +511,7 @@
 俺が図書室に来ちゃ悪いかよ=What's wrong with me coming to the library?
 シュタイン博士、その…この前はありがとう|ございました=Professor Stein... Thank you for the other day.
 ん？　ああ、ソウル君の傷のことですね。|さすが若いと回復も早いねー=Hm? Oh, you mean Soul's wound. He's a young man, they recover quickly.
-あの魔剣の子を連れ去った魔女については現在|調査中ですけど、もしまた会ったら絶対無理は|しないでください。あの魔剣は危険です=We're investigating the witch who carried off the Demon Sword. Take no chances if you cross them. That Demon Sword is dangerous.
+あの魔剣の子を連れ去った魔女については現在|調査中ですけど、もしまた会ったら絶対無理は|しないでください。あの魔剣は危険です=We're investigating that witch. They're dangerous, so take no chances if you cross that Demon Sword.
 マカ、もう俺の傷のコトは気にすんなよ。|武器が職人を守るのは当然ってな=Maka, you need to stop worrying about it. A weapon is always prepared to give his life for his meister.
 うん……あの、シュタイン博士も、昔はパパと|コンビを組んでいたんですよね？|パパは博士を守ってくれましたか？=Right.... Um, Professor Stein, you used to work with my papa, right? Did he protect you too?
 スピリット先輩ですか？　んー、そうですね…|まあそういうこともあったかもしれません。|先輩は面倒見のいい人でしたからね=Spirit? Good question... Well, I suppose that might have happened. He is a very giving person.
@@ -622,7 +622,7 @@
 『タワーブリッジ』の噂を聞いた！=You've heard the rumor of 『Tower Bridge』!
 !FILE:ev011.smd
 バルト海…　ですか…？=The... Baltic Sea?
-つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=It just happened the other day. An entire town on the coast of the Baltic Sea was swallowed up along with most of its residents.
+つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=It happened the other day. An entire town on the coast of the Baltic Sea and most of its residents were swallowed up.
 町ごと？　そんなことが…=An entire town? How could that be...
 黒龍…　生き残った人がそう呟いていた|そうだよ=The Black Dragon... That's what one of the survivors said.
 町ごと飲み込むような巨大な黒龍ってか？|ムチャクチャだな=A black dragon so big it could swallow an entire town? That's nuts.
@@ -634,7 +634,7 @@
 全然意味わかんない…=I have no clue what you're on about...
 うん…まあオーラはいいや…|気をつけて、がんばってね～♪=Yes, well, auras aside... Be safe and good luck you guys♪
 バルト海の…黒龍…=A black dragon... in the Baltic Sea...
-つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=It just happened the other day. An entire town on the coast of the Baltic Sea was swallowed up along with most of its residents.
+つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=It happened the other day. An entire town on the coast of the Baltic Sea and most of its residents were swallowed up.
 デカい黒龍が町を食ったってのか！？=And you're saying it was a huge black dragon that ate it?
 生き残った人がね、黒龍を見たって=According to the survivors, they said they saw a black dragon.
 大変な事件ですね=This is really serious.
@@ -692,7 +692,7 @@
 クソ…|ダメだ…|死のう…=It's ruined. I want to die.
 まったく…！|誰の祭りだと思ってんだよ！=That jerk! Whose party does he think this is anyway!?
 少なくともお前のじゃねェーぞ…=You do realize it's not yours, don't you?
-ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, dance, do the hokey pokey, whatever you're in the mood for♪
+ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, do the hokey pokey, whatever you're in the mood for♪
 は～い♪=Yeah♪
 あれ、ソウルどこいったんだろ=Huh? Where did Soul wander off to?
 こういうのはどうも苦手だな…=I'm no good at this kind of thing...
@@ -729,7 +729,7 @@
 バカだな…|おせっかいなんかいらねぇのに…=That idiot. It's not like I need her help.
 どうも…いただきます=Well, thanks for the food.
 覚えてるか～い？=Do you remember, Maka?
-卒園式の日、マカ　パパの足の上に乗ってさ～|踊ったよね～？|その後ママとも踊ってさァ～楽しかったァ♪=You danced standing on my feet during your kindergarten graduation. Then I danced with your mom afterwards. That was so much fun♪
+卒園式の日、マカ　パパの足の上に乗ってさ～|踊ったよね～？|その後ママとも踊ってさァ～楽しかったァ♪=You danced standing on my feet during your kindergarten graduation. Then I danced|with your mom. That was so much fun♪
 何言ってんの！　バッカじゃない？|あのトキ踊ったのはママじゃないよ。|サラちゃんのママとでしょ=What are you saying? How dumb can you be! That wasn't mama you danced with then, it was Sara's mom!
 し…しまった！さすがマカ…よく覚えてるなァ|…まぁさ、こうしてマカとまたダンスしてるし|いい想い出になるよ=C-Crap! Was it really?! Leave it to Maka to remember that far back!
 これからはパパ、良いパパになるからね！=W-Well drom now on, I'm going to be a great papa!
@@ -740,7 +740,7 @@
 早く！|早くココから出ろ！=Hurry! Everyone get out of here immediately!
 大丈夫か！？=Are you okay!?
 メデューサの隠れ家に潜入したはいいが…|逆に罠にはめられた…|爆発の寸前地面に潜ったんだが…このとおりだ=We were able to infiltrate Medusa's hideout, but we ran into an ambush... I dove underground right before the blast.
-それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of here! It's a trap! They've been waiting to get Lord Death and all the students and faculty in one place!
+それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of this trap! They've been waiting to get Lord Death and all the students and faculty in one place!
 ！　…メデューサは！？=!? Medusa!
 この反応は…！=What is that!?
 ぐぅ…始まったか…=Ggh... It's starting now...
@@ -800,7 +800,7 @@
 クソ…|ダメだ…|死のう…=It's ruined. I want to die.
 まったく…！|誰の祭りだと思ってんだよ！=That jerk! Whose party does he think this is anyway!?
 少なくともお前のじゃねェーぞ…=You do realize it's not yours, don't you?
-ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, dance, do the hokey pokey, whatever you're in the mood for♪
+ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, do the hokey pokey, whatever you're in the mood for♪
 は～い♪=Yeah♪
 よし椿、今日は食って食って、食いまくるぞ！=Time to dig in, Tsubaki! I'm gonna eat and eat and then eat some more!
 うん…そ、そーね=There he goes.
@@ -816,7 +816,7 @@
 早く！|早くココから出ろ！=Hurry! Everyone get out of here immediately!
 大丈夫か！？=Are you okay!?
 メデューサの隠れ家に潜入したはいいが…|逆に罠にはめられた…|爆発の寸前地面に潜ったんだが…このとおりだ=We were able to infiltrate Medusa's hideout, but we ran into an ambush... I dove underground right before the blast.
-それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of here! It's a trap! They've been waiting to get Lord Death and all the students and faculty in one place!
+それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of this trap! They've been waiting to get Lord Death and all the students and faculty in one place!
 ！　…メデューサは！？=!? Medusa!
 この反応は…！=What is that!?
 ぐぅ…始まったか…=Ggh... It's starting now...
@@ -844,7 +844,7 @@
 何！？　死神のダンナはココを動けないのか！|ただのひきこもりだと思ってたぜ=Huh!? So there's a reason Lord Death never goes anywhere!? I always thought he just wasn't much of a people person.
 とにかくです。|シド君の機転を無駄に出来ません=Let's get moving. We can't let Sid's quick thinking go to waste.
 地下へつながる入り口に案内しましょう。|みなさんついて来て下さい！=All of you follow me. I'll take us to the entrance that leads underground.
-父上に聞いた話…|本当なのだろうか…　死武専の地下に…|嘘とも思えんし、色々つじつまも合う…=Can what Father told me be true? Something like that exists here? I don't think it was a lie, and it would make a lot of sense...
+父上に聞いた話…|本当なのだろうか…　死武専の地下に…|嘘とも思えんし、色々つじつまも合う…=Can what Father told me be true? Something like that exists here? It would make a lot of sense...
 おいおいキッド、いつもよりさらに深刻な顔|しちゃって、今日は死武専創立記念日前夜祭|だぜ？=Hey, Kid, you look more stressed out than usual. Is it because of the Eve Party for the anniversary of the founding of the DWMA?
 う、うむ…=Y- Yeah...
 ほら、来たぜ=Look, they're here.
@@ -875,7 +875,7 @@
 クソ…|ダメだ…|死のう…=It's ruined. I want to die.
 まったく…！|誰の祭りだと思ってんだよ！=That jerk! Whose party does he think this is anyway!?
 少なくともお前のじゃねェーぞ…=You do realize it's not yours, don't you?
-ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, dance, do the hokey pokey, whatever you're in the mood for♪
+ま　ま　立食パーティになってるしバンドも|いるんで、ダンスなんか踊っちゃったり|しちゃってさ、テキトーにさわいじゃって♪=Well, is this a party or isn't it? There's a band and food, so eat, sing, do the hokey pokey, whatever you're in the mood for♪
 は～い♪=Yeah♪
 さて！　せっかくのパーティだ。|リズ、パティ！|俺たちもダンスを踊らなくてはな=Right! Liz, Patty, this is a special party, so we're dancing too!
 えっ、マジで？|私らダンスとかやったことないし。|それに３人でどーやって踊るんだよ？=Uh, seriously? We've never danced before. And how do you dance with three people anyway?
@@ -894,7 +894,7 @@
 早く！|早くココから出ろ！=Hurry! Everyone get out of here immediately!
 大丈夫か！？=Are you okay!?
 メデューサの隠れ家に潜入したはいいが…|逆に罠にはめられた…|爆発の寸前地面に潜ったんだが…このとおりだ=We were able to infiltrate Medusa's hideout, but we ran into an ambush... I dove underground right before the blast.
-それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of here! It's a trap! They've been waiting to get Lord Death and all the students and faculty in one place!
+それよりココから離れろ…奴らが…|奴らは鏡の中から出た死神様と死武専生が|集まる今日……この日を待っていたんだ！=We need to get everyone out of this trap! They've been waiting to get Lord Death and all the students and faculty in one place!
 ！　…メデューサは！？=!? Medusa!
 この反応は…！=What is that!?
 ぐぅ…始まったか…=Ggh... It's starting now...
@@ -985,8 +985,8 @@
 これから忙しくなる……=Things are about to get very busy.
 死神様と鬼神がやりあってたみたいだけど…|狂気が薄れていく…=It looks like Lord Death and the Kishin were fighting it out up here... But the madness seems to be fading.
 逃げた、か…|あーあ、俺も、一目見たかったな=He got away...|*Sigh* I wish I could have seen it.
-結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=If I'd stayed by Lord Death's side, we could have stopped him. Things turned out horribly. And what's worse, everyone will blame me.
-たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. If we can't make this right, your ego won't be our only problem.
+結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=Things turned out horribly because I didn't stay by Lord Death's side. And what's worse, everyone will blame me.
+たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. Your ego is about to be the least of our worries.
 長いと思えば長い…そう思えば長かったね、|程度の人もいるでしょう=It has been a very long night, indeed. An exhausting, difficult night that felt at times like it would go on forever.
 そんな夜でも例外なく……|結局朝は来るのです=And yet, not all is hopeless. Even after a night like this, morning will eventually come.
 失敗しちゃったね…鬼神復活阻止=I failed, huh? The Kishin was revived.
@@ -1063,8 +1063,8 @@
 これから忙しくなる……=Things are about to get very busy.
 死神様と鬼神がやりあってたみたいだけど…|狂気が薄れていく…=It looks like Lord Death and the Kishin were fighting it out up here... But the madness seems to be fading.
 逃げた、か…|あーあ、俺も、一目見たかったな=He got away...|*Sigh* I wish I could have seen it.
-結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=If I'd stayed by Lord Death's side, we could have stopped him. Things turned out horribly. And what's worse, everyone will blame me.
-たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. If we can't make this right, your ego won't be our only problem.
+結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=Things turned out horribly because I didn't stay by Lord Death's side. And what's worse, everyone will blame me.
+たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. Your ego is about to be the least of our worries.
 長いと思えば長い…そう思えば長かったね、|程度の人もいるでしょう=It has been a very long night, indeed. An exhausting, difficult night that felt at times like it would go on forever.
 そんな夜でも例外なく……|結局朝は来るのです=And yet, not all is hopeless. Even after a night like this, morning will eventually come.
 ど畜生ぉぉ～～！！|結局俺、あんまり目立てなかったじゃん！=Damn it!! I had the spotlight and I totally didn't stand out at all!
@@ -1141,8 +1141,8 @@
 これから忙しくなる……=Things are about to get very busy.
 死神様と鬼神がやりあってたみたいだけど…|狂気が薄れていく…=It looks like Lord Death and the Kishin were fighting it out up here... But the madness seems to be fading.
 逃げた、か…|あーあ、俺も、一目見たかったな=He got away...|*Sigh* I wish I could have seen it.
-結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=If I'd stayed by Lord Death's side, we could have stopped him. Things turned out horribly. And what's worse, everyone will blame me.
-たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. If we can't make this right, your ego won't be our only problem.
+結局俺が死神様の所を離れなければ止められた|かもな…|やだなー、みんなに責められるんだろうなー=Things turned out horribly because I didn't stay by Lord Death's side. And what's worse, everyone will blame me.
+たられば言っても仕方ないですよ。|まだ終わったわけじゃない。|これから世界は大変なことになる…=There's no use crying over spilt milk, Spirit. Besides, this isn't over yet. Your ego is about to be the least of our worries.
 長いと思えば長い…そう思えば長かったね、|程度の人もいるでしょう=It has been a very long night, indeed. An exhausting, difficult night that felt at times like it would go on forever.
 そんな夜でも例外なく……|結局朝は来るのです=And yet, not all is hopeless. Even after a night like this, morning will eventually come.
 不甲斐ない…|結局はメデューサに好き勝手やられたな。|……鬼神か…=It was all worthless. In the end, Medusa did as she pleased... And the Kishin...
@@ -1178,7 +1178,7 @@
 見ろ、椿！　俺様に解決されるために、新しい|課題があるぞ！=Look, Tsubaki! There are new assignments to be solved by my greatness!
 ブラック☆スター。一つ星職人。|暗殺者だが究極の目立ちたがり屋。|体術を得意とする=Black☆Star. One-star meister.|He's an assassin, but also very conspicuous.|Very good in hand-to-hand combat.
 そ、そうね……どれにしよっか=R-Right...Which should we take on?
-中務椿。魔暗器。ブラック☆スターの|パートナー。優しくおっとりした性格。|多種の暗器に変身できる=Tsubaki Nakatsukasa. Demon shadow weapon. Black☆Star's partner. Gentle and unfussy. She can transform into various weapons.
+中務椿。魔暗器。ブラック☆スターの|パートナー。優しくおっとりした性格。|多種の暗器に変身できる=Tsubaki Nakatsukasa. Black☆Star's demon shadow weapon partner. Gentle and unfussy. She can perform multiple transformations.
 当然、全部やるに決まってんだろ！|俺様にかかれば、１０秒でカタがつく！|アーッハッハッハ！=We'll do all of them, obviously! Won't take more than 10 seconds! Ahahahaha!
 えーと…多分、１ 個ずつしか受けられないと|思うケド……じゃ、これにしよ、ね♪|（…一番簡単そうだし）=Umm...maybe we should only take 1 of them, I think. Like, this one here, okay♪?|(...this one looks the easiest.)
 死武専・学生課=DWMA - Student Division
@@ -1426,7 +1426,7 @@
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
-７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven in half symmetrically! It has to be eight! Horizontal or vertical, and it stays perfectly symmetrical!!
+７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
 イヤ、ダメだよ…　かなり=Yes, he's absolutely insane.
@@ -1465,7 +1465,7 @@
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
-７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven in half symmetrically! It has to be eight! Horizontal or vertical, and it stays perfectly symmetrical!!
+７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
 イヤ、ダメだよ……かなり=Yes, he's absolutely insane.
@@ -1504,7 +1504,7 @@
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
-７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven in half symmetrically! It has to be eight! Horizontal or vertical, and it stays perfectly symmetrical!!
+７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
 イヤ、ダメだよ…　かなり=Yes, he's absolutely insane.
@@ -2039,7 +2039,7 @@
 少しばかり俺から作戦を授けましょう。|気張らずに聞いてください=Now then, this is what we will do, so listen up.
 第一の足止めはおそらくメデューサ…|彼女は多人数に同時攻撃をかける能力をもって|いますから=The first roadblock is going to be Medusa, someone able to defend against and defeat multiple opponents.
 メデューサは俺と先輩が抑えます。|あなたたちはできるだけ早く突破して先へ|向かってください=I'll stay here and keep Medusa busy. While I'm distracting her, I want the three of you to run past her as quickly as possible.
-その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll keep the Demon Sword busy. You can attack directly with your soul wavelength, so you can do the most damage.
+その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll occupy the Demon Sword. You can do the most damage by attacking directly with your soul wavelength.
 おう=Yeah.
 あとはマカ、キッド。２人で残りを追いかけて|ください。やつらの目的は封印された鬼神に|「黒血」を注入し、復活させることです=Maka, Kid, you continue after the other two. Their goal is to inject the black blood into the bag sealing the Kishin.
 やつらが運んでいる「黒血」……|これを破壊すれば、鬼神の復活は阻止できる。|それがこの作戦の最終目標です=The black blood... If you destroy it, you can prevent the resurrection of the Kishin. That is primary objective of this operation.
@@ -2085,7 +2085,7 @@
 少しばかり俺から作戦を授けましょう。|気張らずに聞いてください=Now then, this is what we will do, so listen up.
 第一の足止めはおそらくメデューサ…|彼女は多人数に同時攻撃をかける能力をもって|いますから=The first roadblock is going to be Medusa, someone able to defend against and defeat multiple opponents.
 メデューサは俺と先輩が抑えます。|あなたたちはできるだけ早く突破して先へ|向かってください=I'll stay here and keep Medusa busy. While I'm distracting her, I want the three of you to run past her as quickly as possible.
-その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll keep the Demon Sword busy. You can attack directly with your soul wavelength, so you can do the most damage.
+その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll occupy the Demon Sword. You can do the most damage by attacking directly with your soul wavelength.
 おう=Yeah.
 あとはマカ、キッド。２人で残りを追いかけて|ください。やつらの目的は封印された鬼神に|「黒血」を注入し、復活させることです=Maka, Kid, you continue after the other two. Their goal is to inject the black blood into the bag sealing the Kishin.
 やつらが運んでいる「黒血」…|これを破壊すれば、鬼神の復活は阻止できる。|それがこの作戦の最終目標です=The black blood... If you destroy it, you can prevent the resurrection of the Kishin. That is primary objective of this operation.
@@ -2131,7 +2131,7 @@
 少しばかり俺から作戦を授けましょう。|気張らずに聞いてください=Now then, this is what we will do, so listen up.
 第一の足止めはおそらくメデューサ…|彼女は多人数に同時攻撃をかける能力を|もっていますから=The first roadblock is going to be Medusa, someone able to defend against and defeat multiple opponents.
 メデューサは俺と先輩が抑えます。|あなたたちはできるだけ早く突破して先へ|向かってください=I'll stay here and keep Medusa busy. While I'm distracting her, I want the three of you to run past her as quickly as possible.
-その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll keep the Demon Sword busy. You can attack directly with your soul wavelength, so you can do the most damage.
+その先にはおそらく魔剣士。|これには魂の波長を直接打ち込める|ブラック☆スター。君が当たってください=Black☆Star, you'll occupy the Demon Sword. You can do the most damage by attacking directly with your soul wavelength.
 おう=Yeah.
 あとはマカ、キッド。２人で残りを追いかけて|ください。やつらの目的は封印された鬼神に|「黒血」を注入し、復活させることです=Maka, Kid, you continue after the other two. Their goal is to inject the black blood into the bag sealing the Kishin.
 やつらが運んでいる「黒血」……|これを破壊すれば、鬼神の復活は阻止できる。|それがこの作戦の最終目標です=The black blood... If you destroy it, you can prevent the resurrection of the Kishin. That is primary objective of this operation.
@@ -2319,7 +2319,7 @@
 ちぇっ、それじゃあまり目立てねェーよ…|んっ？　なんか誰か立ってんぞ=Tch! That won't really make me stand out. Hm? There's someone just standing there.
 え？！　メデューサ！=Huh!? Medusa!
 何ぃー！？　シュタインの野郎やられたんか！=No way! You beat that screwball, Stein?
-で、でもそうだとしてもあそこにいるのは|変よ。空間移動や先回りができるなら最初から|してるはず…=Th-There's something strange though.|Why is she here now? If she could move that fast, why didn't she do that from the start?
+で、でもそうだとしてもあそこにいるのは|変よ。空間移動や先回りができるなら最初から|してるはず…=Th-There's something strange though.|If she could get here this quick, why didn't she do that from the start?
 ん…ん～～～|何でもいいや、ぶっとばせば消えるだろ！|やっちまおうぜ！=Mmm... Ah, who cares!? We'll just have to finish her off for good this time! Let's do it, Tsubaki!
 ええっ、もう…|でも時間がないものね、じっとしてるよりは|色々やってみましょう！=What? But there's no time. We should try to get passed her not stick around to fight!
 狼男め、映像転送魔法とはやってくれる。|まんまと時間を稼がれてしまったわ=That bastard werewolf was using Forwarding Vision, a type of Spatial Magic. That bought them a lot of time.
