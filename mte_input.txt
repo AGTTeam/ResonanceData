@@ -28,7 +28,7 @@
 魔城に住む魔女、アンジェラ。|その魔力を狙ってマフィアどもが動き出した。|魔女には凄腕の用心棒がついているらしいが、|万が一にも魔女が奪われては危険だ。|死武専生として、最善の判断をしてくれ。=The mafia are moving in on Angela, the witch at the Demon Castle. Her bodyguard is capable, but we can't allow them to get their hands on her no matter how unlikely.
 組み手の授業=Sparring Class
 難易度★★=Difficulty ★★
-他の死武専生徒との、実戦的な模擬戦を|行ってもらう。技はどんなものを使っても|構わない。|[c]制限時間は３０秒[/c]とする。集中して戦え。=You will be sparring with a fellow DWMA student no holds barred. Focus on your footwork. [c]The time control will be set at 30 seconds[/c].
+他の死武専生徒との、実戦的な模擬戦を|行ってもらう。技はどんなものを使っても|構わない。|[c]制限時間は３０秒[/c]とする。集中して戦え。=You will be sparring with a fellow DWMA student no holds barred. Focus on your footwork.|[c]You have 30 seconds[/c].
 ブレアのお願い=Blair's Request
 難易度★★=Difficulty ★★
 最近ー、ブレアと遊んでくれる相手がいなく|てェ、もー退屈でたまんないのよねー。|このままじゃなまっちゃうからぁ、ちょっと|つきあってくれるぅ？=Blair has had anyone to play with lately. I'm bored to death, so let's have a play date!

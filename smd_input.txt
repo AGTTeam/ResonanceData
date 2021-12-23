@@ -299,7 +299,7 @@
 ほいほーい=Okey-dokey!
 『シンデル魔城』の噂を聞いた！=You've heard the rumor of 『Demon Cinder Castle』!
 !FILE:ev005.smd
-あーあ、なんだよ、ミフネって野郎もタダの|子供好きだったしよ、魂集まらねェーー！=Uugh, so what? Was Mifune just a guy who protects kids? We couldn't take her soul!
+あーあ、なんだよ、ミフネって野郎もタダの|子供好きだったしよ、魂集まらねェーー！=Ugh, so what? Was Mifune just a guy who protects kids? We couldn't take her soul!
 うん、まぁしょうがないよ。|魔女って言っても、あんなちっちゃくて良い子|のアンジェラちゃんじゃね=Yeah, seems like it.|Even if she's a witch, Angela is just a tiny kid.
 今考えると、やっぱあの野郎ちょっと手加減|してたかもしんねぇな。|マカみてぇなチンチクリンが相手じゃな…=Now that I think about it, it did seem like he was toying with us. Not that a shorty like Maka could--
 ちょっ、何よ！|私が子供だって言いたいわけ！|も～～ムカツク！=W-What?|You wanna say I'm a kid?|I'm getting piiiiissed off!
@@ -313,7 +313,7 @@
 やだよ！|最強のデスサイズになる俺が受けるもんじゃ|ねえ！=No way!|I'll be the strongest death scythe, no way I'm takin' that!
 ま、決まりみたいなもんでさ。|ほら、君たちって集めた魂無くなっちゃった|じゃない。だからちょっとねー=Well, it's settled.|Look, you lost all the souls you've gathered. So please.
 あう…すいません…=Uhh...Sorry.
-で、その補習の内容なんだけど、この前まで|死武専の教師だったシド先生の話…|ゾンビ化して生徒を襲ってるらしいんだよね=So, about the lesson. It seems that Sid, who was a teacher at DWMA turned into a zombie and is attacking students.
+で、その補習の内容なんだけど、この前まで|死武専の教師だったシド先生の話…|ゾンビ化して生徒を襲ってるらしいんだよね=So, about the lesson. It seems that Sid, who was a teacher at the DWMA turned into a zombie and is attacking students.
 みけんに女神像が刺さって死んだって聞いたな=He's obsessed with the absolute freedom death can bring, I've heard.
 で、でも結構いい先生だったよ…|なんでゾンビに？=B-but, he was such a good teacher...|Why did he turn into a zombie?
 生前は確かにいい先生だったんだけど、ゾンビ|になって、死の恐怖から解放されたもんで、|生徒も同じゾンビにしようと襲ってるとか…=He was, when he lived. But since he is now liberated from death as a zombie, he wants to turn students into zombies too.
@@ -337,7 +337,7 @@
 あ、そう。|どーいうの？=Oh.|What do you mean?
 君はもうちょっと驚きなさいよ…=Please be more surprised...
 なっはっは、ちょろいちょろい！=Nyahaha, good good!
-その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=So, about the lesson. It seems that Sid, who was a teacher at DWMA, came back to life as a zombie and is attacking students.
+その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=So, about the lesson. It seems that Sid, who was a teacher at the DWMA, came back to life as a zombie and is attacking students.
 ゾンビかよ、趣味悪りぃ=Zombie huh, disgusting.
 シド先生はどうして…？=Why did Sid...?
 ゾンビになって、死の恐怖から解放されたのか|生徒を同じゾンビにしようと襲ってるとか…|はた迷惑な話だよねぇ=As a zombie, he's free from the fear of dying. He wants to turn the students into zombies, too...It's a troublesome problem.
@@ -1251,7 +1251,7 @@
 貴様、武器職人か…|先刻の奴らと同じく、魔女の力を手に入れに|来たか…？=You're a weapon and meister, huh...|Like those guys a while ago, have you come to put your hands on the witch's soul?
 遅かったか、カポネ一味は返り討ちにあった|みたいね=We are late. It seems like he already fought the Capone gang.
 ああ、ついでに魔女の魂もゲットだと思ってた|けど、こいつは相当の使い手だな=Yeah. I thought about gettin' the witch's soul too while we're here, but he seems to be on the same level too.
-どうしよう？|死武専生としては、やっぱり魔女を放っておく|わけにはいかないよね=What should we do?|As students of DWMA, we can't just leave a witch like that.
+どうしよう？|死武専生としては、やっぱり魔女を放っておく|わけにはいかないよね=What should we do?|As students of the DWMA, we can't just leave a witch like that.
 このままサヨウナラってわけにもいかねぇだろ|いきなり襲いかかってくるような奴だぜ=At this point it's not like we can just say goodbye anyway. He's the type who'd just suddenly attack us from behind.
 魔女の手先か…=A witch's minion, huh...
 グズグズしてっと魔女も出てきちまうぜ！=If we stand here doin' nothing, the witch might come out too!
