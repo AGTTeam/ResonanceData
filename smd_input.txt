@@ -174,7 +174,7 @@
 ひ、ヒドイ…パパは…パパは……|ソウル、てめぇがマカをたぶらかしたのかァ！=But... I am your Papa. Soul, you jerk, you turned her against me to have her for yourself!
 あァ！？|クールな俺が何でこんなチンチクリン女に=As if! What would a cool guy like me want with a shorty like her?
 何だとぅ！？|俺のマカに魅力が無いってのか！|少しは手ェ出せ！　男だろ！=What!? Are you blind!? She's so charming! You're a guy! Make a move already!
-何言ってんだ！？　お前=What the heck are you talking about?!
+何言ってんだ！？　お前=What the heck are you talking about!?
 ハァ………課題さがそ…=*Sigh* Let's just find an assignment.
 ちょろい、ちょろすぎる！　椿、もっと俺様に|ふさわしいビッグな課題は無いのか！？=Way too easy! Tsubaki, aren't there any tasks more suitable for my greatness!?
 え……さっき全部やるって言ってたのに…|ブラック☆スターはどんな課題やりたい？=What!? But you said you'd do all of them. What do you want to do then, Black☆Star?
@@ -214,7 +214,7 @@
 お！　マカにソウルじゃん！=Oh! It's Maka and Soul!
 あ、ブラック☆スターと椿ちゃん…=Ah, Black☆Star and Tsubaki...
 どうしたの？　何か元気ないみたいだケド…=What's wrong? You look a bit down...
-ようやく俺様のビッグさに気づいてしまって、|自信を無くしたんだろう？！　神すらも恐れる|俺様の実力だ、気を落とすことなどないぞ！=You finally noticed my greatness and lost your self-confidence?! Well, even gods fear my power. I won't falter!
+ようやく俺様のビッグさに気づいてしまって、|自信を無くしたんだろう？！　神すらも恐れる|俺様の実力だ、気を落とすことなどないぞ！=You finally noticed my greatness and lost your self-confidence!? Well, even gods fear my power. I won't falter!
 いいよね…ブラック☆スターは元気で…=Black☆Star seems to be doing fine...
 ま…　今ちょっとヘコんでっからよ…|後でな……=Well... he's a bit troubled now.|But he'll be fine...
 何かあったのかな…　あ、もしかして=Did something happen? Ah, could it be...
@@ -243,23 +243,32 @@
 お、マカにソウルじゃん！=Oh, if it ain't Maka and Soul!
 あ、ブラック☆スターに椿ちゃん=Ah, Black☆Star and Tsubaki!
 こんにちは=Nice to see you.
-聞いたぜ、なんか魔女にボッコボコにされたん|だってな？=I heard you guys got torn to shreds by some witch, huh?
-ちげーよ、負けちゃいねぇ|ただよ…=As if! We didn't lose. But...
+聞いたぜ、なんか魔女にボッコボコにされたん|だってな？=I heard you guys got torn to shreds by some witch.
+ちげーよ、負けちゃいねぇ|ただよ…=As if! We didn't lose.|It's just...
 魔女じゃなくて、「魔力の強い猫」だった|のよね…　おかげで集めた魂もパァ=It wasn't a witch, but a powerful, magical cat. Thanks to that, all the souls we collected went poof.
-にゃははははは！|魂ゼロ個かよ！　だっせぇなぁ=Nyahaha! Not a single soul!? That's lame!
-ブラック☆スター、そこ笑えないから…|私たちもゼロ個だから=Don't laugh, Black☆Star. It's not like we have any souls either...
+にゃははははは！|魂ゼロ個かよ！　だっせぇなぁ=Nyahaha! Not a single soul!?|What a couple of dorks!
+ブラック☆スター、そこ笑えないから…|私たちもゼロ個だから=Don't laugh, Black☆Star. It's not like we have any souls either.
 うーっす、うす、うっす！=Hey! Hi! Heya!
 あ、死神様=Ah, Lord Death...
+<<<<<<< Updated upstream
 マカちゃん、こないだのブレアの件はちょっと|申し訳なかったね。かわりにお詫びと言っては|ナンだけど、新しい情報があるんだよ=Sorry about what happened with Blair, Maka. But let me make it up to you with some new information.
 …今度は大丈夫なんだろーな？=...It'll be better this time, right?
 シンデル魔城ってトコにぃ、魔女と用心棒が|いるんだけどサ、これがね…=There's a witch protected by a bodyguard at Demon Cinder Castle, but, you know...
 えー、魔女に用心棒ですか？|私たちの手に負える相手かどうか…=Huh? A witch protected by a bodyguard? I'm not sure if that's something we can handle...
 いや、ターゲットはその魔女を狙う奴らでね、|マフィアのアル・カポネって言うんだけど、|こいつが悪いヤツでねぇ～=No, your target this time is a mobster who's targeting the witch, Al Capone. He's a real bad guy～
 部下全員に人間の魂を食わせて、一味まるごと|魂が鬼神の卵と化してるんだよ。それだけでは|飽き足らず、魔女の力を欲しがってる=Capone turned his whole gang into kishin eggs. And now he's after the power of a witch.
+=======
+マカちゃん、こないだのブレアの件はちょっと|申し訳なかったね。かわりにお詫びと言っては|ナンだけど、新しい情報があるんだよ=Sorry about what happened with Blair, Maka. But let me make it up to you with a new scoop.
+…今度は大丈夫なんだろーな？=You better be digging deep this time.
+シンデル魔城ってトコにぃ、魔女と用心棒が|いるんだけどサ、これがね…=There's a witch protected by a bodyguard at Demon Cinder Castle, but, well...
+えー、魔女に用心棒ですか？|私たちの手に負える相手かどうか…=Huh? A witch protected by a bodyguard? I'm not sure if that's something we can handle.
+いや、ターゲットはその魔女を狙う奴らでね、|マフィアのアル・カポネって言うんだけど、|こいつが悪いヤツでねぇ～=Actually, your target this time is a mobster who's targeting the witch, Al Capone. He's a real baddie～
+部下全員に人間の魂を食わせて、一味まるごと|魂が鬼神の卵と化してるんだよ。それだけでは|飽き足らず、魔女の力を欲しがってる=Capone turned his whole gang into Kishin eggs. And now he's after the power of a witch.
+>>>>>>> Stashed changes
 ド悪党だな=What a crook.
-どう、挑戦してみる？|やるなら急いだほうがいいと思うケド=So, will you do it? If you're gonna take it on, you'd best shake a leg.
+どう、挑戦してみる？|やるなら急いだほうがいいと思うケド=So will you do it? If you're gonna take it on, you'd best shake a leg.
 このチャンスを見逃す手はないよね…！|やります！=We're in no position to pass on a chance like this! We'll do it!
-うまくいきゃ、魔女の魂も手に入るぜ？=If it goes well, maybe we'll even get the witches soul.
+うまくいきゃ、魔女の魂も手に入るぜ？=If it goes well, maybe we'll even get the witch's soul.
 魔女のほうは、色々やっかいっぽいから、|オススメはしないけどね～|そんじゃま、頑張ってみてー=Going for the witch would be troublesome, so I wouldn't really recommend it～|Well, do your best!
 んはぁ～～|何だよダンナァ！　魔女じゃなくて猫って|どういうことだよ=For real, Boss? What was that all about? That wasn't a witch. It was just some cat!
 え～、ブレアのこと？|それ、君たちが勝手に行ったんでショ=Do you mean, Blair? So you two took it upon yourselves to go?
@@ -299,6 +308,7 @@
 ほいほーい=Okey-dokey!
 『シンデル魔城』の噂を聞いた！=You've heard the rumor of "Demon Cinder Castle"!
 !FILE:ev005.smd
+<<<<<<< Updated upstream
 あーあ、なんだよ、ミフネって野郎もタダの|子供好きだったしよ、魂集まらねェーー！=Ugh, so what? Was Mifune just a guy who protects kids? We couldn't take her soul!
 うん、まぁしょうがないよ。|魔女って言っても、あんなちっちゃくて良い子|のアンジェラちゃんじゃね=Yeah, seems like it.|Even if she's a witch, Angela is just a tiny kid.
 今考えると、やっぱあの野郎ちょっと手加減|してたかもしんねぇな。|マカみてぇなチンチクリンが相手じゃな…=Now that I think about it, it did seem like he was toying with us. Not that a shorty like Maka could--
@@ -321,9 +331,33 @@
 まー、そーゆーことなんで、シド先生を止めて|きてほしいのよ。あと、ゾンビ化をほどこした|何者かが裏で何かたくらんでると思うんだ=So yeah, that's it. I want you to stop Sid. Also, I think whoever made him a zombie is planning something.
 分かったぜ、まとめてぶっとばしてくりゃ|いいんだな=Got it, so it's okay to just beat him up completely.
 そそそ。|ちなみに、この補習に失敗したら退学だから、|ガンバっちにー=Yes.|By the way, if you fail this remedial lesson you'll all be expelled, so good luck!
+=======
+あーあ、なんだよ、ミフネって野郎もタダの|子供好きだったしよ、魂集まらねェーー！=Urg! So was Mifune just a guy who protects kids or what? I can't believe we couldn't get her soul!
+うん、まぁしょうがないよ。|魔女って言っても、あんなちっちゃくて良い子|のアンジェラちゃんじゃね=Looks that way. Angela might be a witch, but she's still a little kid.
+今考えると、やっぱあの野郎ちょっと手加減|してたかもしんねぇな。|マカみてぇなチンチクリンが相手じゃな…=Now that I think about it, I bet he was toying with us. Not that a shorty like Maka could--
+ちょっ、何よ！|私が子供だって言いたいわけ！|も～～ムカツク！=Wh-What!? Are you trying to say I'm a kid? Ooh, you really piss me off!
+はいはいそこまで～=There, there. Settle down～
+いてててて、よせ、マカ！=Ouch! Hey! C'mon, Maka, cut it out!
+聞いてねーしー…|おいおーい、職人と武器は仲良くねぇ～～=They're not listening.|Hey, a meister and her weapon should get along～～
+あれ、死神様、失礼しました=Oh, Lord Death, sorry about that.
+おほん、君たちにね、ちょっと補習を受けて|もらおうと思ってね=Ahem, I'd like you to take some remedial lessons, okay?
+え！？　補習！？|補習ってあの、お馬鹿が受けるあの補習…|ですか！！=Eh!? Remedial lessons!?|Like the ones stupid students take!?
+んー、まーね、そういうこと=Hmm, well, you could put it that way.
+やだよ！|最強のデスサイズになる俺が受けるもんじゃ|ねえ！=No way! You're talking to the guy who's gonna become the strongest death scythe. I'm out!
+ま、決まりみたいなもんでさ。|ほら、君たちって集めた魂無くなっちゃった|じゃない。だからちょっとねー=Well, I wasn't really asking.|Look, you lost all the souls you've gathered, so you're gonna do it... or else♪
+あう…すいません…=Okay... Sorry.
+で、その補習の内容なんだけど、この前まで|死武専の教師だったシド先生の話…|ゾンビ化して生徒を襲ってるらしいんだよね=So, about the lesson, it seems Sid, a teacher at the DWMA, turned into a zombie and has started attacking students.
+みけんに女神像が刺さって死んだって聞いたな=He's become obsessed with the absolute freedom death brings, I've heard.
+で、でも結構いい先生だったよ…|なんでゾンビに？=B-But he was such a good teacher.|Why'd he turn into a zombie?
+生前は確かにいい先生だったんだけど、ゾンビ|になって、死の恐怖から解放されたもんで、|生徒も同じゾンビにしようと襲ってるとか…=He was when he was alive. But his new undead life has liberated him, and he wishes to share that with his students.
+いい迷惑だな、死ぬのが怖くてもゾンビにゃ|なりたかねぇよ=What a pain. I'm not jazzed about dying, but I don't want to be a zombie either.
+まー、そーゆーことなんで、シド先生を止めて|きてほしいのよ。あと、ゾンビ化をほどこした|何者かが裏で何かたくらんでると思うんだ=Welp, that's it. I want you to stop Sid. Also, the person who made him a zombie might be planning something.
+分かったぜ、まとめてぶっとばしてくりゃ|いいんだな=Got it. So we've got the green light to give him a real thrashing, right?
+そそそ。|ちなみに、この補習に失敗したら退学だから、|ガンバっちにー=Thrash away.|By the way, if you fail this remedial lesson, you'll be expelled. Good luck～
+>>>>>>> Stashed changes
 た……た……退学！？=E-E-Expelled!?
-ちくしょー、退学なんてなってたまるかよ！|いくぞ、マカ！　ボーッとしてんなよ！=Damn it, there's no way I'll drop out!|Let's go, Maka! Don't zone out now!
-は…はああああ=Ha...Haaaaaa
+ちくしょー、退学なんてなってたまるかよ！|いくぞ、マカ！　ボーッとしてんなよ！=Damn it. That would not be cool.|Let's go, Maka! Don't zone out now!
+は…はああああ=Ha... Haaaaaa...
 ダンナぁ、戻ったぜ=Lord Death, we're back!
 おっつかれさーん=Good job!
 ずるいじゃねーかよ、魔女があんなチビッ子|なんて聞いてねーよ！=That was unfair!|No one told me the witch is just a lil' kid.
@@ -337,7 +371,11 @@
 あ、そう。|どーいうの？=Oh.|What do you mean?
 君はもうちょっと驚きなさいよ…=Please be more surprised...
 なっはっは、ちょろいちょろい！=Nyahaha, good good!
+<<<<<<< Updated upstream
 その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=So, about the lesson. It seems that Sid, who was a teacher at the DWMA, came back to life as a zombie and is attacking students.
+=======
+その補習の内容なんだけど、この前まで|死武専の教師だったシド先生…　彼がゾンビ化|して生き返り、生徒を襲ってるらしいのよ=So, about the lesson, it seems Sid, a teacher at the DWMA, turned into a zombie and has started attacking students.
+>>>>>>> Stashed changes
 ゾンビかよ、趣味悪りぃ=Zombie huh, disgusting.
 シド先生はどうして…？=Why did Sid...?
 ゾンビになって、死の恐怖から解放されたのか|生徒を同じゾンビにしようと襲ってるとか…|はた迷惑な話だよねぇ=As a zombie, he's free from the fear of dying. He wants to turn the students into zombies, too...It's a troublesome problem.
@@ -707,12 +745,12 @@
 ああ？！|何だよいきなり？=Huh? What brought that on?
 よかったら相談に乗るよ！=You can talk to me about it, if you'd like!
 別にないけど…=Nothing's bothering me, though.
-な、何？=W-What?
+な、何？=Wh-What?
 ねぇ？　私ってパートナーとしてそんなに|頼りない？=Say, am I that unreliable of a partner?
 ぎゃはは♪　何をいまさら！=Gyahaha! Now you ask that?
 きぃ～～！=Rrgh!
 いて　いて　いて！=Ow, ouch! Ouch!
-よ～し！　踊るか！？=All right! Wanna dance?!
+よ～し！　踊るか！？=All right! Wanna dance!?
 はぁ？！|やだよめんどくせェ～！=Huh!? Forget it. It's annoying.
 いいじゃん、ソウルこういうの得意でしょ？|リードしてよ。ダンスは魂の波長を合わせるの|にもいいんだしさ=Oh, come on. You know you're good it. You can lead. Dancing is good for matching soul wavelengths, after all!
 ちょっと待ったア！=Hold it right there!
@@ -731,7 +769,11 @@
 覚えてるか～い？=Do you remember, Maka?
 卒園式の日、マカ　パパの足の上に乗ってさ～|踊ったよね～？|その後ママとも踊ってさァ～楽しかったァ♪=You danced standing on my feet during your kindergarten graduation. Then I danced|with your mom. That was so much fun♪
 何言ってんの！　バッカじゃない？|あのトキ踊ったのはママじゃないよ。|サラちゃんのママとでしょ=What are you saying? How dumb can you be! That wasn't mama you danced with then, it was Sara's mom!
+<<<<<<< Updated upstream
 し…しまった！さすがマカ…よく覚えてるなァ|…まぁさ、こうしてマカとまたダンスしてるし|いい想い出になるよ=C-Crap! Was it really?! Leave it to Maka to remember that far back!
+=======
+し…しまった！さすがマカ…よく覚えてるなァ|…まぁさ、こうしてマカとまたダンスしてるし|いい想い出になるよ=C-Crap! Was it really!? Leave it to Maka to remember that far back!
+>>>>>>> Stashed changes
 これからはパパ、良いパパになるからね！=W-Well from now on, I'm going to be a great papa!
 無理ッ=Not gonna happen.
 聞け！　みんな！=Everyone! Listen!
@@ -1205,7 +1247,7 @@
 うるせェー！|俺は一人で行くぜ！　気合だろ！=Yeah, whatever! I'll just do it myself!!
 ちょっ！　バカ！|大きな声出したら私の作戦が…=Wait, you idiot! Don't yell so loud, or my plan will...
 なーに、ボクたち、ブレアに何か御用？=What's with you two? Do you need something from me?
-おわぁ！　いつの間に！=Woah! Where'd she come from!?
+おわぁ！　いつの間に！=Whoa! Where'd she come from!?
 あ、あんたが魔女ブレアね！|あんたの魂、いただくよ！=You're the witch Blair, right?|Your soul is ours!
 魔女…？=Witch?
 悪りぃが姉ちゃん、|あんたの魂、食わせてもらうぜ=Sorry, lady, but I'm going to be eating your soul.
@@ -1216,7 +1258,7 @@
 ブラック☆スター、まず鬼神の卵と化した魂を|９９個集めないと、魔女の魂を食べても意味が|無いのよ。習ったでしょ=Black☆Star, even if I eat a witch's soul, it won't do anything without 99 kishin egg souls. You know that.
 あ？　そーだっけ？|にゃはははは！　ま、いーや別に=Huh? Really? Nyahahaha! Well, who cares.
 おーーーい！　魔女！|隠れてないで出て来やがれーー！|スーパースターが直々に来てやったぞーー！=Heeeey! Witch! Come out of your hiding! Me, the super star personally came all the way to you!
-ちょっ、いきなり！=Wait, what are you-?!
+ちょっ、いきなり！=Wait, what are you-!?
 魔女ってアタシのことぉ？=By witch, you mean me?
 出てきちゃうし…=She actually came out...
 出たな！　今からお前を暗殺する！|このビッグでグレートな俺様に暗殺されたこと|を、あの世で自慢してもいいんだぜ？=She's out! I'll be killing you now! You can brag about being killed by the great me in the afterlife!
@@ -1240,10 +1282,11 @@
 !FILE:ms008.smd
 !FILE:ms009.smd
 ここがシンデル魔城…？=So this is the Demon Cinder Castle?
-ボロっちいな、あんまりクールじゃねえ=It's pretty rundown, not really cool.
+ボロっちいな、あんまりクールじゃねえ=It's pretty run-down. Pretty uncool.
 人の気配が無い…|まだカポネ一味は来てないのかな=No sign of people...|Maybe Capone's gang haven't been here yet.
-ん？　何だこのたくさんの魂は……|っ！！=Hm? What's with all these souls...|Huh!!
+ん？　何だこのたくさんの魂は……|っ！！=Hm? What's with all these souls?|Huh!?
 マカ、危ねぇ！=Maka, watch out!
+<<<<<<< Updated upstream
 きゃっ！？=Aah!?
 今日はずいぶんと騒がしいな…=Today's pretty noisy...
 何だテメェ！|いきなり斬りつけてくるたぁ卑怯じゃねぇかよ=What the hell, dude!|Coming out slashin' like that is unfair.
@@ -1256,6 +1299,20 @@
 魔女の手先か…=A witch's minion, huh...
 グズグズしてっと魔女も出てきちまうぜ！=If we stand here doin' nothing, the witch might come out too!
 わかった、覚悟決める！|用心棒！　あんたの雇い主の魔女の魂、|いただくよ！=Yeah, so let's do this!|Bodyguard! We'll take the soul of the witch you're protecting!
+=======
+きゃっ！？=What!?
+今日はずいぶんと騒がしいな…=One nuisance after another.
+何だテメェ！|いきなり斬りつけてくるたぁ卑怯じゃねぇかよ=What the hell, dude!?|Coming out slashing like that is unfair.
+こいつが…用心棒！？=Is he... the bodyguard?
+貴様、武器職人か…|先刻の奴らと同じく、魔女の力を手に入れに|来たか…？=A weapon and meister. Hmm...|Have you too come for the witch's soul?
+遅かったか、カポネ一味は返り討ちにあった|みたいね=I guess we were late. He already fought Capone's gang.
+ああ、ついでに魔女の魂もゲットだと思ってた|けど、こいつは相当の使い手だな=Yeah. I was hoping to get her soul, but this guy's no joke.
+どうしよう？|死武専生としては、やっぱり魔女を放っておく|わけにはいかないよね=What should we do? We're students of the DWMA, so we can't just ignore any witches we come across.
+このままサヨウナラってわけにもいかねぇだろ|いきなり襲いかかってくるような奴だぜ=It's a little late for goodbyes now anyway. He'd cut us down as soon as we turned our backs.
+魔女の手先か…=A witch's minion. Hmm...
+グズグズしてっと魔女も出てきちまうぜ！=If we stand here twiddling our thumbs, the witch might pop her ugly head out too!
+わかった、覚悟決める！|用心棒！　あんたの雇い主の魔女の魂、|いただくよ！=Right, so let's do this!|Bodyguard, we'll be taking the soul of the witch you're protecting!
+>>>>>>> Stashed changes
 子供は斬りたくないが…|アンジェラの命を狙う者は、刀に誓って倒す。|…いざ！=I don't want to fight kids, but I swore on my katana to slay any threat to Angela's life. Come!
 ひゃっはぁーー|来たぜシンデル魔城！！|出て来い用心棒！=Yahoo! Here's the Demon Cinder Castle!! Show yourself, bodyguard!
 ちょっとブラック☆スター、|今回のターゲットはカポネ一味よ=Black☆Star, don't forget. Your target is Capone's gang.
@@ -1355,14 +1412,14 @@
 そうですけど、何か用ですか？=Yeah, what do you want?
 やっぱそうなんだ…|あんたでしょ、死武専生を襲わせてるのは！=So it is true...|You're the one attacking DWMA students, aren't you?
 あー、そうですか。|あなたたち、死武専の生徒さんですね？=Oh, is that so?|You're DWMA students, right?
-私たちにうらみでもあるの？！=Do you have a grudge against us?!
+私たちにうらみでもあるの？！=Do you have a grudge against us!?
 別に…。|動機はいたってシンプル。観察研究。ただ、|それだけですよ=Not really...|My motives are simple.|Observe and research.
 この世の全てが研究材料。俺自身もそうだし、|そう、君たちもね…=In this world, everything is just research material.|Me, and also you guys...
-な、何？　なんか変な感じが…=W-What is this? Such a weird feeling...
+な、何？　なんか変な感じが…=Wh-What is this? Such a weird feeling...
 君たちの魂の波長は随分安定してないね…|ひねくれ者で皮肉屋の魂と、まじめで頑張り屋|さん。共鳴しているようでしていない=Your soul wavelengths aren't really stable. A twisted, cynical one and a hardworker. They don't seem to resonate.
-俺たちの魂を見透かしてんのか？！=You can see our souls?!
+俺たちの魂を見透かしてんのか？！=You can see our souls!?
 一流の職人は、相手の魂を見ることができる…|でも性質まで見抜けるなんて…！=First-class meisters can see others' souls.|But to see the nature of a soul...!
-そうなのか？！|マカ、お前には見えてんのか？=Are you serious?!|Maka, can you see that too?
+そうなのか？！|マカ、お前には見えてんのか？=Are you serious!?|Maka, can you see that too?
 …も、もちろんよ=...O-Of course!
 おや、今魂が動揺しましたね、かーわいい♪=Aww, she's upset now. Cute♪
 うるさーい！　見るなぁー！=Shut up! Don't look!
@@ -1562,7 +1619,7 @@
 んんんんん…=Nnnnnn...
 まあああああああああああああ…=AAAaaaaaaaghh!!
 ぴぎいえいやあああああ！！=Beegeeyaaaah!!
-こんな…！=W-What!?
+こんな…！=Wh-What!?
 ちょえ=Yah!
 あう=Ow!
 痛い痛い！ぐりぐりやめて！|あう…こづかないで……痛いよ…|もうやめて……鼻つままないで…=It hurts! It hurts! Stop moving around like that! Ow! Stop already! Don't pinch my nose!
@@ -1861,7 +1918,7 @@
 そうか、じゃあ…|えっ！？　この反応…=Oh yeah... Alright then.|What!? This soul response...
 どうした！？　感じたのか！=What happened? Did you find them!?
 うん、って言うか…そこに…=Yeah. I mean, it's right...
-うお！？　あそこのオッサンか！？|橋の真ん中に立って何してやがる=Woah!? That old dude!? What's he doing standing right in the middle of the bridge...
+うお！？　あそこのオッサンか！？|橋の真ん中に立って何してやがる=Whoa!? That old dude!? What's he doing standing right in the middle of the bridge...
 うっす='Sup.
 何なのあいつ…あいつの魂は普通じゃない…|なんか色々混じってる…人間…魔女…=What's going on with that guy's soul? It's not normal... There's a bunch of stuff mixed together. Human... Witch...
 魔女？　じゃあアイツが情報のターゲット|なんだな？　情報合ってたじゃねぇか。|やるぜ、マカ=Witch? So he's the target this time? Guess your info was spot-on. Let's do this, Maka!
@@ -2237,10 +2294,15 @@
 …うん！=...Yeah!
 あ！　危ねェ！=Ah! Look out!
 何？！=What!?
-くっ、砲撃？！　どこから！=Cannon fire?! Where from?!
+くっ、砲撃？！　どこから！=Cannon fire!? Where from!?
 魔眼砲=Magic Eye Cannon.
+<<<<<<< Updated upstream
 あいつ…魔眼の…！|なんで私たちを止めに来た？！=That's the Magic Eye! How come he's here?!
 わかんねェ…キッドたちに逃げられたか、|あるいは待ち伏せでもしてたのか…|どっちにしても、たしかに不自然だが…=I dunno... Maybe he got away from Kid, or he might have been waiting for us. Whatever the case, something's not right.
+=======
+あいつ…魔眼の…！|なんで私たちを止めに来た？！=That's the Magic Eye! How come he's here!?
+わかんねェ…キッドたちに逃げられたか、|あるいは待ち伏せでもしてたのか…|どっちにしても、たしかに不自然だが…=I dunno... Maybe he got away from Kids, or he might have been waiting for us. Whatever the case, something's not right.
+>>>>>>> Stashed changes
 フッ、ここは通さんぞ=Hmph, you're not getting past me!
 ここで時間を食われてはまずい…！|どうする…！？=We don't have time to waste here... What should we do!?
 どうした？|八つ裂きにするぞ！！=What's wrong? I'll tear you to shreds!
