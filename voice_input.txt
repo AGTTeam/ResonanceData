@@ -102,7 +102,7 @@
 ２【俺はアンジェラの】= 2: I'm Angela's
 ３【バ…バカを言うな】= 3: D-Don't be stupid
 ４【アメをやろう…】= 4: I'll give you candy
-５【魔女の味方じゃ】 = 5: With the witch
+５【魔女の味方じゃ】= 5: With the witch
 ６【俺のフルネーム？】= 6: My full name?
 ７【刀を拾うのかだと】= 7: Pick up the sword
 ８【俺は刀を選ばん】= 8: I don't choose

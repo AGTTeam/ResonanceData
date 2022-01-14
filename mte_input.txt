@@ -31,13 +31,13 @@
 他の死武専生徒との、実戦的な模擬戦を|行ってもらう。技はどんなものを使っても|構わない。|[c]制限時間は３０秒[/c]とする。集中して戦え。=You will be sparring with a fellow DWMA student no holds barred. Focus on your footwork.|[c]You have 30 seconds[/c].
 ブレアのお願い=Blair's Request
 難易度★★=Difficulty ★★
-最近ー、ブレアと遊んでくれる相手がいなく|てェ、もー退屈でたまんないのよねー。|このままじゃなまっちゃうからぁ、ちょっと|つきあってくれるぅ？=Blair didn't have anyone to play with lately. I'm bored to death, so let's have a play date!
+最近ー、ブレアと遊んでくれる相手がいなく|てェ、もー退屈でたまんないのよねー。|このままじゃなまっちゃうからぁ、ちょっと|つきあってくれるぅ？=Blair hasn't had anyone to play with lately. I'm bored to death, so let's have a play date!
 耐久力試験=Endurance Test
 難易度★★=Difficulty ★★
 健全なる魂は、健全なる肉体と、健全なる|精神に宿る。そう、健全なる肉体、丈夫な体|を育むことも死武専生のつとめだ。|９０秒間で、[c]１０回のガード[/c]を成功させろ。=A sound soul dwells within a sound mind and a sound body. [c]Guard 10 attacks[/c] within 90 seconds to nurture a sound body.
 シド先生を倒せ=Defeat Mr. Sid
 難易度★★★=Difficulty ★★★
-三つ星職人の死武専教師シド・バレット。|「みけんに女神事件」で死亡したはずの|彼だったが、何者かの手によって蘇り、|死武専生を襲っている。|このまま放っておくわけにはいかない。=Sid Barrett, three-star meister of the DWMA.#unfinished, need confirmation
+三つ星職人の死武専教師シド・バレット。|「みけんに女神事件」で死亡したはずの|彼だったが、何者かの手によって蘇り、|死武専生を襲っている。|このまま放っておくわけにはいかない。=Sid Barrett, a three-star meister, used to be a teacher at the DWMA. He was thought to have died in the ‘statue-to-the-forehead’ incident, but someone brought him back to life and now he’s started attacking students. This can’t be left unchecked.
 回避力試験=Evasion Test
 難易度★★=Difficulty ★★
 守りが堅いのは結構なことだが、そればかり|では魔武器の体がもたん。|そこで、攻防一体の「回避技」の練習だ。|相手の攻撃を見切って、[c]回避技を１０回[/c]|キメてみせろ。=A strong defense is great, but even a magic weapon's body won't hold out forever. See through your opponent and [c]land 10 Counters (← + △ or ← + □)[/c].
@@ -91,7 +91,7 @@
 練習台の影人形が見つからないと思ったら、|どうやらココに逃げこんだようだ。|他の生徒のぶんもまとめて、回収してきて|くれないか？=The shadow dolls escaped from the training stage and came here.|Round up all three for me, would you?
 共鳴技の祭典=Soul Art Festival
 難易度★★★★=Difficulty ★★★★
-[c]「共鳴技」（○＋方向キー→）[/c]は使いこなし|ているか？　苦手なら練習していくといい。|[c]３回、共鳴技を使えば[/c]課題クリアだ。|相手はムチャクチャ強いから、倒そうなどと|は考えないほうがいいぞ。=Have you mastered [c]Soul Arts (X + →)[/c]?|Practice makes perfect. Don't worry about winning, just [c]perform 3 Soul Arts[/c] to clear the task.
+[c]「共鳴技」（○＋方向キー→）[/c]は使いこなし|ているか？　苦手なら練習していくといい。|[c]３回、共鳴技を使えば[/c]課題クリアだ。|相手はムチャクチャ強いから、倒そうなどと|は考えないほうがいいぞ。=Have you mastered [c]Soul Arts (X + →)[/c]?|Practice makes perfect. Don't worry about winning, just [c]perform 3 Soul Arts[/c] to clear the task.#Consumes one Resonance Gauge.
 シド先生、怒る=Angry Mr. Sid
 難易度★★★★=Difficulty ★★★★
 俺はささいなことで怒らない。そんな男|だった…　しかし俺もたまには怒るぞ。|ソウル、ブラック☆スター、パティ。|以上の３名はダメダメだった筆記試験の|おしおきを受けてもらうぞ。=I never sweat the little things. That's the kind of man I was. But I can still get angry. Soul, Black☆Star, and Patty all failed the exam and will be punished.
