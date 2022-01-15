@@ -38,7 +38,7 @@
 ８【僕より強いキャラ】= 8: A stronger character
 ９【スクリーチＺだ！】= 9: Screech Zeta!
 １０【動きが変だぞ？】= 10: You move weird!
-１【チンピラゴリラだ】= 1: A mean blue gorilla
+１【チンピラゴリラだ】= 1: A mean blue guy
 ２【人一倍血行の良い】= 2: Good circulation
 ３【ナイフの扱いに】= 3: Using knives
 ４【私も教師だ】= 4: I'm a teacher too
@@ -99,7 +99,7 @@
 ９【俺はフリー自由だ】= 9: I'm free
 １０【俺は不死！　だが】= 10: I am immortal...
 １【なぜ俺の前に…】= 1: Why must you...
-２【俺はアンジェラの】= 2: I'm Angela's
+２【俺はアンジェラの】= 2: Angela's Bodyguard
 ３【バ…バカを言うな】= 3: D-Don't be stupid
 ４【アメをやろう…】= 4: I'll give you candy
 ５【魔女の味方じゃ】= 5: With the witch

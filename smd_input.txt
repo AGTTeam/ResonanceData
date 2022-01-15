@@ -12,7 +12,7 @@
 負けらんねェな…=We can't afford to lose...
 職人と武器は二人で一つ！でしょ="Meister and weapon are one!" Right?
 職人と武器は二人で一つ！　でしょ="Meister and weapon are one!" Right?
-行くぜ椿！　ひゃっほぉぉう！=Let's go, Tsubaki! Yahooo!
+行くぜ椿！　ひゃっほぉぉう！=Let's go, Tsubaki! Yahooo!#Black☆Star
 はい！=Yes!
 ブラック☆スター！=Black☆Star!
 任しとけ椿、一瞬でクリアしてやる！=I've got this, Tsubaki. It'll only take a sec!
@@ -25,7 +25,7 @@
 んと、まだ課題終わってないんだけど～…=But we haven't even finished the assignment yet...
 手ごわい相手よ=This enemy's no joke.
 なら、俺様が目立てるじゃねーか！|ブラック☆スター、オンステージだぜ！=Then I'll just have to stand out even more, won't I? Black☆Star is on stage!
-きっちりかっちりやるぞ！=Let's do this absolutely perfectly!
+きっちりかっちりやるぞ！=Let's do this absolutely perfectly!#Kid
 はいはーい=Sure, sure.
 ほ～～い=Okey-dokey!
 あまり気が進まんが…　まあいいだろう=I'd rather not, but I guess it won't hurt.
@@ -37,8 +37,8 @@
 キッド君！=Kid!
 気合入れないと…=Aim true.
 分かってる！　リズ、パティ、頼むぞ！=Right! Liz, Patty, I'm counting on you!
-しょうがないなぁ、やるよラグナロク=I really can't deal with this, Ragnarok!
-ぐぴっ、早く魂食わせろ！=Gyah! Just hurry up and feed me their soul!
+しょうがないなぁ、やるよラグナロク=Let's get this over with, Ragnarok...#Crona
+ぐぴっ、早く魂食わせろ！=Gyah! Just hurry up and feed me some souls!
 なんでこんなメンドいことやんだ？=Why are we even bothering to do this?
 僕にもわかんないよ…=I really don't know at all.
 僕、何していいかわかんないよ…=I can't handle this! I don't know what to do.
@@ -150,10 +150,10 @@
 私の武勇伝が聞きたいか？　そうかよろしい。|私の伝説は１２世紀から始まった。そう、|あれは…　ん、君、何をする気だね！？=You want to hear my heroic tale? My legend dates back to the twelfth century. Yes, that's-- Hm? What are you doing there!?
 私の武勇伝が聞きたいか？　そうかよろしい。|私の伝説は１２世紀から始まった。|そう、あれは…ん、君、何をする気だね！？=You want to hear my heroic tale? My legend dates back to the twelfth century. Yes, that's-- Hm? What are you doing there!?
 ゲコリ♪　破壊はいいわ～　魔女に生まれて|良かった♪=Ribbit♪ I love destroying things. I'm glad I was born a witch♪
-ゲッ、見つかったゲコ！　ひいいい～=Ribbit! I've been found out! Shrieeek!
+ゲッ、見つかったゲコ！　ひいいい～=Ribbit! I've been found out! Eeeeek!
 ゲコ！　見られたからには生きて返さない！=Ribbit! They found us! There's no way they'll let us go without a fight!
 ゲコ！　見られたからには生きて帰さない！=Ribbit! They found us! There's no way they'll let us go without a fight!
-オタマ・ジャクソン！　ミズネ！|手はずどおり頼んだわよ=Tadpole Jackson! Mizune! Just like we planned!
+オタマ・ジャクソン！　ミズネ！|手はずどおり頼んだわよ=Otama Jackson! Mizune! Just like we planned!
 ふふふふふ、僕に勝とうなど、無理な話です=Hehehehe, beating me is an impossibility.
 見ておくがいい。|室内ではガリ勉…　しかし！|野外の雷王は……　獣だ！！=Take a good look. Indoors I'm a bookworm, but out in the wild, I, the Thunder King, am a beast!!
 僕の頭脳がはじき出した作戦の前には、|あなたは無力だということを思い知るでしょう=You will realize how powerless you are against the strategies that my brain has cooked up.
@@ -417,7 +417,7 @@
 ほいほーい=Okey-dokey!
 ちとちと、君たち…=Hold on, you guys...
 ………はぁ。…ま、いっか。|「彼」ならうまくやってくれるかな=... *Sigh* Oh well. "He" won't overdo it, right?
-『ツギハギ研究所』の噂を聞いた！=You've heard the rumor of "Patchwork Lab"!
+『ツギハギ研究所』の噂を聞いた！=You've heard the rumor of the "Patchwork Lab"!
 !FILE:ev007.smd
 今日はシド先生とシュタイン先生の授業ね=We have class with Mr. Sid and Professor Stein today, huh?
 この前半殺しにされかけた２人か…=After we almost got killed by them...
@@ -505,7 +505,7 @@
 イタリアか、パスタ食べまくりだな=Italy? I'm going to eat so much pasta.
 イカめし食うぞー！　えへへへへ=Is that why it's called Eataly? Kyahaha!
 イカめしじゃなくてイタメシね…|イカめしは多分イタリアにはないから…=Not Eataly. Italy.|Although, that wouldn't be a bad name for it.
-『教会』の噂を聞いた！=You've heard the rumor of "Church"!
+『教会』の噂を聞いた！=You've heard the rumor of the "Church"!
 !FILE:ev009.smd#BlackStar's version shares a lot of dialogue with Kid's version
 おや、マカにソウル。|二人でココに来るとは珍しい=Oh, Maka and Soul. It's unusual for the two of you to come here together.
 俺が図書室に来ちゃ悪いかよ=What's wrong with me coming to the library?
@@ -658,7 +658,7 @@
 うぇ～死神対黒龍か…そういうのは映画館で|やってくれよな。|私はあまり関わりあいたくないよ…=Aww, if you want to see a reaper versus a black dragon, just go to the movies. I don't want anything to do with it.
 うむ、いざ行かん、霧のバルト海へ！=Right, now let's get going! To the mists of the Baltic Sea!
 お～！=Yay!
-『幽霊船ニーズヘッグ』の噂を聞いた！=You've heard the rumor of "Ghost Ship Nidhogg"!
+『幽霊船ニーズヘッグ』の噂を聞いた！=You've heard the rumor of the "Ghost Ship Nidhogg"!
 !FILE:ev012.smd
 早くしないと始まっちゃうよ=It'll start without us if you don't hurry.
 お前の仕度が遅いの=You're the one who took forever with all the primping you had to do.#can't say I've ever head primping but that might be just me
@@ -922,7 +922,7 @@
 何！？　死神のダンナはココを動けないのか！|ただのひきこもりだと思ってたぜ=Huh!? So there's a reason Lord Death never goes anywhere!? I always thought he just wasn't much of a people person.
 とにかくです。|シド君の機転を無駄に出来ません=Let's get moving. We can't let Sid's quick thinking go to waste.
 地下へつながる入り口に案内しましょう。|みなさんついて来て下さい！=All of you follow me. I'll take us to the entrance that leads underground.
-『死武専地下』の噂を聞いた！=You've heard the rumor of "DWMA Underground"!
+『死武専地下』の噂を聞いた！=You've heard the rumor of the "DWMA Underground"!
 !FILE:ev013.smd
 くっ…=Ugh!
 くそっ！=Damn!
@@ -930,7 +930,7 @@
 あれが…=That's...
 鬼神…阿修羅…=The Kishin... Asura...
 ああああああああああああああああああああ！=Aaaaaaaaaaaaaaaaaaah!
-ひぃええええええええええええええええええ！=Shrieeeeeeeeeeeeeeek!
+ひぃええええええええええええええええええ！=Eeeeeeeeeeeeeeeeeeek!
 な、何？！　エルカに…=Wh-What the!? What's his deal?
 ビックリしてる！？=He's scared of Eruka?
 起き抜けブッコロス！=We're putting him straight back to sleep!
@@ -1008,7 +1008,7 @@
 あれが…=That's...
 鬼神！　クソ野郎！=That bastard Kishin!!
 ああああああああああああああああああああ！=Aaaaaaaaaaaaaaaaaaah!
-ひぃええええええええええええええええええ！=Shrieeeeeeeeeeeeeeek!
+ひぃええええええええええええええええええ！=Eeeeeeeeeeeeeeeeeeek!
 な、何？！　エルカに…=Wh-What the!? What's his deal?
 ビックリしてる！？=He's scared of Eruka?
 起き抜けブッコロス！=We're putting him straight back to sleep!
@@ -1086,7 +1086,7 @@
 あれが…=That's...
 鬼神…阿修羅…！=The Kishin... Asura...
 ああああああああああああああああああああ！=Aaaaaaaaaaaaaaaaaaah!
-ひぃええええええええええええええええええ！=Shrieeeeeeeeeeeeeeek!
+ひぃええええええええええええええええええ！=Eeeeeeeeeeeeeeeeeeek!
 な、何？！　エルカに…=Wh-What the!? What's his deal?
 ビックリしてる！？=He's scared of Eruka?
 起き抜けブッコロス！=We're putting him straight back to sleep!
