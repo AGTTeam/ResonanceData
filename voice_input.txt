@@ -94,7 +94,7 @@
 ４【他人の手助けなど】= 4: Helping others and shit
 ５【吹き飛ばしてやる】= 5: I'll send you flying
 ６【あたりまえさ！】= 6: Of course!
-７【狼が来たぞォ～！】= 7: Here comes the wolf~!
+７【狼が来たぞォ～！】= 7: Here comes the wolf!
 ８【ウルブスってのは】= 8: Wolves...
 ９【俺はフリー自由だ】= 9: I'm free
 １０【俺は不死！　だが】= 10: I am immortal...
