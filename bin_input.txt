@@ -439,7 +439,7 @@ MEMORY CARD差込口1に|メモリーカード(PS2)が見つかりません。\n
 セーブデータをロードします。\nMEMORY CARD差込口1の|メモリーカード(PS2)を抜いたり、\n本体の電源を切ったりしないでください。=Loading save data.\nDo not remove the memory card (PS2) in\nMEMORY CARD slot 1 or switch off the console.
 セーブデータのロードに失敗しました。\nセーブデータが壊れている可能性があります。\n本体ブラウザ画面でこのデータを削除してください。\nセーブデータをロードせずに、このままゲームを\n進めますか？=Failed to load save data.\nThe data may be corrupted.\nPlease delete the file in the main Browser.\nContinue without loading?
 セーブデータのロードに失敗しました。\nセーブデータをロードせずに、\nこのままゲームを進めますか？=Failed to load save data.\nContinue without loading?
-MEMORY CARD差込口1の|メモリーカード(PS2)をチェックします。\nMEMORY CARD差込口1の|メモリーカード(PS2)を抜き差ししたり、\n本体の電源を切ったりしないでください。=Checking the memory card (PS2) in MEMORY CARD slot 1.\nPlease do not touch the memory card (PS2)\nor turn off the console.
+MEMORY CARD差込口1の|メモリーカード(PS2)をチェックします。\nMEMORY CARD差込口1の|メモリーカード(PS2)を抜き差ししたり、\n本体の電源を切ったりしないでください。=Checking the memory card (PS2) in MEMORY CARD slot 1.\nPlease do not touch the memory card (PS2) or turn\noff the console.
 オートセーブ機能をONにしました。\nメモリーカード(PS2)へのオートセーブ中は、\n「セーブデータ　アクセス中」の文字が|画面左下に表示されます。\nオートセーブ中は、MEMORY CARD差込口1の|メモリーカード(PS2)を抜いたり、\n本体の電源を切ったりしないでください。=Autosaving is ON.\nWhile autosaving, a message will be displayed\nin the lower left corner of the screen.\nDo not remove the memory card (PS2) in\nMEMORY CARD slot 1 or switch off the\nconsole while the save is in progress.
 セーブに失敗しました。\nセーブデータが壊れている可能性があります。\n本体ブラウザ画面でこのデータを削除してください。\nセーブしないで、このままゲームを進めますか？=Failed to save game.\nThe data may be corrupted.\nPlease delete the file in the main Browser.\nContinue without saving?
 MEMORY CARD差込口1の|メモリーカード(PS2)が引き抜かれました。\nこのゲームのデータをセーブできません。\nこのままゲームを進めますか？=The memory card (PS2) in MEMORY CARD slot 1 has been removed.\nYou will be unable to save the game.\nContinue?

@@ -85,20 +85,20 @@
 そうですね…まずは魂のチェックから|始めましょうかね=Right. Let's begin by examining their souls.
 こりゃちょっと厄介ですねェ～|少し気合を入れますか=This looks like it'll be a bother, huh? Maybe a little experiment beforehand to stimulate the brain?
 なんですか、君は？|ま、いいでしょう。相手をしますよ=What are you? Well, I suppose I'll find out once I get you up on the operating table.
-まずいですね…本気でやらないといけないかな=How unpleasant. I'll have to take this more seriously.#context
-すぐに片付ける。下がっててくれ=I'll take care of this swiftly. Please wait somewhere safe.
+まずいですね…本気でやらないといけないかな=How unpleasant. I'll have to take this more seriously.#unseen, Stein late stage?
+すぐに片付ける。下がっててくれ=I'll take care of this swiftly. Please wait somewhere safe.#Mifune
 ミフネ、がんばってね♪=Good luck, Mifune♪!
-斬る！=Feel my blade!
+斬る！=Feel my blade!#Mission 45+
 にひひひひ♪=Nyihihi♪
 死武専は魔女を狙っている…|だが安心しろ、俺がお前を守る=The DWMA hunts you witches, but you have nothing to fear. I will protect you.
 うん、ありがとミフネ=Yep! Thanks, Mifune!
 アンがやる！=Let me, let me!
-いや…　それはやめてくれないか…=No, please stop doing that.
-わからんな、奴らのやることは…=What do they intend to do?
-子供は相手にしたくないが…|仕方あるまい=I wish not to combat children, but I am bound by duty.
-ふん、命を捨てたがるヤツが多い…=Hmph, why are people so eager to throw away their lives?#context
-どういうことだ？　いや、聞くまい=What is this sorcery? No, I'd rather not know.
-退屈だから、ちょっと遊んであげちゃおっかな=I'm bored. Come play with me for a while.
+いや…　それはやめてくれないか…=No, please stop.
+わからんな、奴らのやることは…=What do they intend to do?#Used for bosses, but also shadow dolls
+子供は相手にしたくないが…|仕方あるまい=I have no desire to fight children, but I am bound by duty.
+ふん、命を捨てたがるヤツが多い…=Hmph, why are people so eager to throw away their lives?#Postgame, battle royale mission
+どういうことだ？　いや、聞くまい=What is this sorcery? No, I'd rather not know.#Mifune v Mifune
+退屈だから、ちょっと遊んであげちゃおっかな=I'm bored. Guess I'll have to make my own amewsment.#Blair
 こんなのちょろすぎてあくびがでちゃう。|ま、つきあったげてもいいわよ=Today is such a snoozefest! Well, maybe this'll be fun.
 ズル～い、マカたちっていつもこんなので|遊んでるんだぁ。ブレアにもわけてよね♪=It's no fair! Maka and the others always get to play. Well, now it's Blair's turn♪
 ふ～ん、面白そ♪　ブレアにまかせて！=Hmm, this looks fun♪ You let Blair handle this now!
@@ -159,11 +159,11 @@
 僕の頭脳がはじき出した作戦の前には、|あなたは無力だということを思い知るでしょう=You will realize how powerless you are against the strategies that my brain has cooked up.
 ぐっ、分が悪い…|だが、知将雷王は逃げも隠れもしませんよ！=*Gulp* I think my goose is cooked...|But the Brilliant General Lightning King neither runs nor hides!
 !FILE:ev001.smd
-■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1■|You can now take on assignments. Head into the DWMA and pick one!
-■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2■|You can open the Menu with the △ button to check your completion rate.
+■アドベンチャーガイド１ ■|課題を選んで挑戦できるようになりました。|建物に入って、挑戦する課題を選んでみよう！=■Adventure Guide 1 ■|You can now take on assignments. Head into the DWMA and pick one!
+■アドベンチャーガイド２■|△ボタンでメニューが開きます。|ボイス取得率と課題クリア率を確認しよう！=■Adventure Guide 2 ■|You can open the Menu with the △ button to check your completion rate.
 また、『ボイスセッティング』を選択すれば、|今まで取得したカスタムボイスの付け替えが|できるぞ！=Select "Voice Settings" to change a voice to one you have obtained!
-■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3■|A new Field Point has opened. Follow the path and check it out!
-■アドベンチャーガイド４■|ストーリーが進まないときは？|まずはとにかく課題をクリアしてみよう。=■Adventure Guide 4■|Not making any progress? Try clearing a task.
+■アドベンチャーガイド３■|新しいフィールドポイントが開放されました。|道に沿って移動して、中に入ってみよう！=■Adventure Guide 3 ■|A new Field Point has opened. Follow the path and check it out!
+■アドベンチャーガイド４■|ストーリーが進まないときは？|まずはとにかく課題をクリアしてみよう。=■Adventure Guide 4 ■|Not making any progress? Try clearing a task.
 課題のクリア数を増やしたら、死武専に|入ってみよう。死武専で聞いた噂に関係が|ありそうな課題は優先してクリアしよう！=Clear more tasks and head to the DWMA.|You might overhear some helpful rumors!
 !FILE:ev002.smd
 さ～て、準備運動も終わったし、本格的な|ヤツに行こうぜ=Now that we're warmed up, why don't we take on someone who can keep their cool?
@@ -1171,8 +1171,8 @@
 ほらっ、ソウル！　これこれ=Hey, Soul! Here, this one.
 マカ＝アルバーン。一つ星職人。|真面目で負けず嫌い。現デスサイズを父に持つ=Maka Albarn. One-star meister.|Seriously hates losing. Her father is the current Death Scythe.
 どれどれ…|はーん、なるほどな=Let me see that.|Oh, I gotcha.
-ソウル＝イーター。魔鎌。マカ＝アルバーンの|パートナー。「クールな男」を目指している=Soul Eater. Demon scythe.|Maka Albarn's partner. Tries to be a "cool guy".
-ねっ、簡単な課題でしょ！　じゃコレ決定ね=See? It'll be an easy assignment. It's settled! We're doing it!
+ソウル＝イーター。魔鎌。マカ＝アルバーンの|パートナー。「クールな男」を目指している=Soul Eater. Demon scythe.|Maka Albarn's partner.|Tries to be a "cool guy".
+ねっ、簡単な課題でしょ！　じゃコレ決定ね=See? It'll be an easy assignment.|It's settled! We're doing it!
 オーケー、まあ準備運動には丁度いいな=Okay. We'll call it a warm-up.
 死武専・学生課=DWMA - Student Division
 見ろ、椿！　俺様に解決されるために、新しい|課題があるぞ！=Look, Tsubaki! There are new assignments to be solved by my greatness!
