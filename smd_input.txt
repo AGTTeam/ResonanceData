@@ -374,15 +374,15 @@
 !FILE:ev006.smd
 死神様！　シド先生を捕まえてきました=Lord Death! We've captured Sid.
 ういーっす、まずはご苦労さーん=Heyooo, first of all, good job!
-黒幕はシュタイン博士ってやつだって、白状も|させたぜ！=The one behind it all was Professor Stein, he even confessed!
+黒幕はシュタイン博士ってやつだって、白状も|させたぜ！=It was Professor Stein behind it all.|He even confessed!
 むぐぐ……=Ugh...
-なるほど、シュタイン君か。|ありえる話だねぇ=I see, Stein.|That's not impossible.
+なるほど、シュタイン君か。|ありえる話だねぇ=I see. Stein, yes, I could believe that.
 知ってるんですか？=Do you know him?
 彼は死武専の卒業生でね、優秀な職人だよ。|だけどちょっと悪いクセがあってね…|生き物の解剖や実験が趣味だったりするんだ=He was a DWMA student and an excellent meister. Though he had a certain penchant for... dissections and experiments.
-それでシド先生も……=So, Sid is also...
-うん、全く困ったもんだね。|彼はたぶん自分の研究所にこもってると思う|から、どうにか捕まえてきてよ=Yes, it's a real problem.|He's probably in his laboratory, please capture him somehow.
-捕まえてきたら、補習はクリア、退学はナシ|だからな！=If we capture him, the remedial lesson is cleared and no expelling!
-もちろん。|死なない程度に、ガンバっておいで～=Of course, don't die and good luck～
+それでシド先生も……=So Sid was just another of his experiments?
+うん、全く困ったもんだね。|彼はたぶん自分の研究所にこもってると思う|から、どうにか捕まえてきてよ=Yes, it's a real problem.|He's probably in his laboratory. I'd like you to capture him any way possible.
+捕まえてきたら、補習はクリア、退学はナシ|だからな！=If we capture him, we pass the remedial lesson, right? No expelling?
+もちろん。|死なない程度に、ガンバっておいで～=Of course! But don't die, and good luck～
 死神のダンナぁ！|シドの野郎を捕まえてきてやったぜ！=Here he is, Boss! We caught him dead handed!
 お帰り～～|なかなかの手際じゃないの=Oh, goody! That was quite the wrangling you did!
 裏で糸を引いているのはシュタイン博士と|言う人だそうです。|シド先生が潔く教えてくれました=Sid came clean and told us who's really behind all this. Apparently, it's this Dr. Stein person.
@@ -1302,17 +1302,17 @@
 !FILE:ms012.smd
 !FILE:ms013.smd
 オラー！　ゾンビ野郎！！|出て来いクソがぁ！=Hey! Come on out, you zombie bastard!
-ほ…補習………た…退学…=A r-remedial lesson... Or getting e-expelled...
-出て来いや！　テメェーの授業まともに聞いた|コトねェーんだわ、ぎゃははは！=Come on out! I never even listened in any of your classes, so there! Gyahaha!
-自分ではお母さん似の立派な職人だと思ってた|のに…　いつのまにやら落ちこぼれ…=I always thought I was a great scythemeister, like Mom... When did I fall behind?
-マカ！　おめぇもなんかシドの悪口言え！=Maka! You say something bad about him too!
-ていうかソウル……ここお墓だよね…|ゾンビなんだからどこを動き回ってるか|わからないし、どこか他に…=Wait, Soul... This is a grave. If he was a zombie, don't you think he'd be moving about somewhere else?
+ほ…補習………た…退学…=A remedial lesson... Or getting expelled...
+出て来いや！　テメェーの授業まともに聞いた|コトねェーんだわ、ぎゃははは！=Come on out! I never even listened in any of your classes, so there! Gahaha!
+自分ではお母さん似の立派な職人だと思ってた|のに…　いつのまにやら落ちこぼれ…=I always thought I was a great scythemeister like Mom. Where did I go wrong?
+マカ！　おめぇもなんかシドの悪口言え！=Maka, help me out with the smack talk!
+ていうかソウル……ここお墓だよね…|ゾンビなんだからどこを動き回ってるか|わからないし、どこか他に…=Wait... Soul, this is a grave. If he was a zombie, wouldn't he be wandering around somewhere... else?
 わああ！=Aaah!
 マカ！？=Maka!?
-ＫＩ ＬＬコーン　カーンコーン…|マカ、ソウル、おはよう、こんにちは、|こんばんは。お久しぶりＤＥＡＴＨ=Ding Dong! Death Dong! Maka, Soul, good morning. Good afternoon. Good night. Long time no see...
-あれが…シド先生！？=That's... Mr. Sid!?
+ＫＩ ＬＬコーン　カーンコーン…|マカ、ソウル、おはよう、こんにちは、|こんばんは。お久しぶりＤＥＡＴＨ=Ding Dong! Death Dong!|Maka, Soul, good morning. Good afternoon. Good night. Long time no see.
+あれが…シド先生！？=That's Mr. Sid!?
 俺は挨拶を欠かさない、そんな男だった…|ゾンビはいいぞ、色んなことがどうでも|よくなる=I never failed to say my greetings. That's the kind of man I was. But being a zombie, you stop caring about all sorts of things.
-くそっ、こっちは退学がかかってんだ！|いくぜマカ！=Well we've got an expulsion riding on this, damn it!|Let's go, Maka!
+くそっ、こっちは退学がかかってんだ！|いくぜマカ！=Well, bad luck! We've got an expulsion riding on this!|Let's go, Maka!
 ククッ、授業を始めるぞ、俺はチャイム通り|授業を開始する、そんな男だった！=Geheh, class is in session. And I never dismiss class until the bell tolls. That's the kind of man I was!#dupe
 ここの墓場にシドが埋まってたのか？=So this graveyard is where Sid was buried, huh?
 うん、そう聞いたけど=Yeah, that's what I heard, but...

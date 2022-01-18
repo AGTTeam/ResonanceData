@@ -37,7 +37,7 @@
 健全なる魂は、健全なる肉体と、健全なる|精神に宿る。そう、健全なる肉体、丈夫な体|を育むことも死武専生のつとめだ。|９０秒間で、[c]１０回のガード[/c]を成功させろ。=A sound soul dwells within a sound mind and a sound body. [c]Block 10 attacks (←)[/c] within 90 seconds to nurture a sound body.
 シド先生を倒せ=Defeat Mr. Sid
 難易度★★★=Difficulty ★★★
-三つ星職人の死武専教師シド・バレット。|「みけんに女神事件」で死亡したはずの|彼だったが、何者かの手によって蘇り、|死武専生を襲っている。|このまま放っておくわけにはいかない。=Sid Barrett was a three-star meister at the DWMA. He was thought to have died in the 'statue-to-the-forehead' incident, but someone brought him back to life and now he's started attacking students.
+三つ星職人の死武専教師シド・バレット。|「みけんに女神事件」で死亡したはずの|彼だったが、何者かの手によって蘇り、|死武専生を襲っている。|このまま放っておくわけにはいかない。=Sid Barrett was a three-star meister at the DWMA. He was thought to have died in the 'statue-to-the-forehead' incident, but someone brought him back to life, and now he's started attacking students.
 回避力試験=Evasion Test
 難易度★★=Difficulty ★★
 守りが堅いのは結構なことだが、そればかり|では魔武器の体がもたん。|そこで、攻防一体の「回避技」の練習だ。|相手の攻撃を見切って、[c]回避技を１０回[/c]|キメてみせろ。=A strong defense is great, but even a magic weapon's body won't hold out forever. See through your opponent and [c]land 10 Counters (← + △ or ← + □)[/c].
