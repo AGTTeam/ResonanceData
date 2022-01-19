@@ -49,7 +49,7 @@
 君、最近思い上がっていませんか？|ここで一度、その自信を打ち砕いておく|必要がありそうですね。|僕がただのガリ勉ではないということを、|必ずや思い知るでしょう。=You've started letting things go to your head. I think we'll have to break that confidence. You're going to realize I'm|not just a hard worker.
 シュタイン博士の秘密=Professor Stein's Secret
 難易度★★★=Difficulty ★★★
-どうやらシド先生をゾンビにしたのは、|シュタイン博士の仕業であるようだ。|死武専卒業生最強職人と言われ、その実力は|普通の三つ星職人以上。|覚悟を決めて挑んで欲しい。=Apparently, turning Sid into a zombie was the work of Dr. Stein. I hear he's the strongest meister to graduate from the DWMA, so be ready for a fight.
+どうやらシド先生をゾンビにしたのは、|シュタイン博士の仕業であるようだ。|死武専卒業生最強職人と言われ、その実力は|普通の三つ星職人以上。|覚悟を決めて挑んで欲しい。=Apparently, turning Sid into a zombie was the work of Dr. Stein. He's said to be the strongest meister to graduate from the DWMA, so be ready for a fight.
 呼吸を合わせろ=Sync Your Breathing
 難易度★★★=Difficulty ★★★
 魂を共鳴させる訓練だ。|ただし究極共鳴技を撃てというのではない。|限られた時間内（２０秒以内）に[c]共鳴ゲージ|をレベル３[/c]にするだけでいい。|ん？　短いって？　ま、訓練だからな。=We're going to train your Soul Resonance but not the Ultimate Soul Arts. All you have to do is [c]fill the Resonance Gauge to level 3[/c] within 20 seconds. Time is ticking!
