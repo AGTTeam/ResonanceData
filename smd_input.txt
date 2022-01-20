@@ -8,7 +8,7 @@
 めんどくせェ～=Ugh～ What a pain.
 文句言わないの！　いくよ！=You can complain later! Let's go!
 ちょっと手ごわいわね=This could be tough, huh?
-おう、気合入れていくぜ=Well, let's give it our all.
+おう、気合入れていくぜ=Well, let's just do our best.
 負けらんねェな…=We can't afford to lose...
 職人と武器は二人で一つ！でしょ="Meister and weapon are one!" Right?
 職人と武器は二人で一つ！　でしょ="Meister and weapon are one!" Right?
@@ -479,7 +479,7 @@
 ん～ゾンビにツギハギに…　学校っていうより|オバケ屋敷って感じだよな…=*Sigh* A zombie and that walking quilt... It feels more like a house of horrors than a school.
 『針の村』の噂を聞いた！=You've heard the rumor of "Needle Village"!
 !FILE:ev008.smd
-おい、マカ！|見たか？　掲示板=Oi, Maka! Did you see, on the mission board!?
+おい、マカ！|見たか？　掲示板=Yo, Maka! Did you see, on the mission board!?
 え？　何かあったっけ=Hm? Has something happened?
 イタリアだよイタリア！|目的地イタリアの課題があんだよ=Italy! There's a mission in Italy!
 へぇ～。イタリアか=Italy, huh?
@@ -526,11 +526,11 @@
 この本を読んで、飛び出していったんですが、|まぁ、言っても聞かないでしょうし=After reading this book, they both rushed off. Not that they'd ever listen to me...
 伝説の剣……こんなのデタラメだろ？=The legendary sword... That's just a load of bull, right?
 いえ、伝説の聖剣・エクスカリバーは確かに|存在するのです。手にした者は「勇者」と|称され、永遠に讃えられる…=No, the legendary sword, Excalibur, exists. It's said whoever possesses it will become a hero and be extolled for eternity.
-なんか聞いたことある、剣を抜くことができた|人は王様になったって言う…=I feel like I've heard something like that before... There was a man who pulled a sword from a stone and became king...
+なんか聞いたことある、剣を抜くことができた|人は王様になったって言う…=I feel like I've heard something like that before. There was a man who pulled a sword from a stone and became king.
 実は私も昔、エクスカリバーに挑戦したことが|あるのですが……無理でした=I did in fact once challenge Excalibur, but...|It was too much, even for me.
-すげぇ、本当にあるのか…|ブラック☆スターやキッドが行きたがるのも|無理ねぇな=Wow, so it really does exist... No wonder why Black☆Star and Kid wanted to check it out.
+すげぇ、本当にあるのか…|ブラック☆スターやキッドが行きたがるのも|無理ねぇな=Wow, so it really does exist. No wonder why Black☆Star and Kid wanted to check it out.
 私たちも行ってみようか？=How about we go too?
-おいおい…本気かよ=Oi, are you for real?
+おいおい…本気かよ=Yo, are you for real?
 バカ、私はお母さんと同じ鎌職人だから剣は|使えないし、それに私に抜けるわけないし。|ブラック☆スターを冷やかしてやるだけよ=As if. I'm a scythemeister like my mom, so it's not like I'd be able to pull it out. I just wanted to laugh at Black☆Star.
 ま、そうだな、あいつらに抜けるとも思えねェ|しなー。退屈しのぎに、顔真っ赤にしてるトコ|でも見に行ってやるか！=That's true, I don't think they'd be able to pull it out either. We can just go watch them get red-faced for fun!
 で、俺様にどうしろってんだ？=So what am I supposed to be doing?
@@ -1422,7 +1422,7 @@
 いやぁ、やはりいつ見てもこの建物は美しい…|まさにシンメトリーの極致だな！=*Swoon* This building is as beautiful as ever. The symmetry is utterly divine!
 んあ？　来た！？|あんたらが噂の息子さん一行？=Hey, are you the new kid we've been hearing so much about?
 ん？　君は…出迎えかな？|校内の案内でもしてくれるのかな=Hm? Are you here to... greet me? Will you be giving me a tour of the school as well?
-がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here on time, you could have looked around yourself.
+がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
@@ -1455,13 +1455,13 @@
 ん～。やっぱりキッド君たちの実力は頭一つ|抜けているかな。|このままでは勝ち目はないが…=Hm, Kid's in a different league altogether. At this rate, they're as good as dead.
 見てられない…|シュタイン博士…　あのバカ止めてください！=I can't watch this... Professor Stein, please do something!
 死神様の息子…　ああ～研究したい…=Lord Death's son... Aaah, I want to study him.
-げっ、ダメだこの人は…|じゃ私が職人として止めますからね！|ソウル！　もう無理よ、負けを認めて！=Geh, he's completely useless! I'll put a stop to him, as his meister! Soul! You can't keep doing this! Just admit defeat!
+げっ、ダメだこの人は…|じゃ私が職人として止めますからね！|ソウル！　もう無理よ、負けを認めて！=Geh, he's completely useless! I'll put a stop to him as his meister! Soul! You can't keep doing this! Just admit defeat!
 アホか！　まだ負けちゃいねェー！|おいマカお前も手伝え！|俺たちの共鳴、見せてやろうじゃねえか！=Are you crazy? He hasn't won yet! Maka, you help too! Let's show him the strength of our resonance!
 ちょ、ちょっと！？|んもぉ～～しょうがないなぁ…=H-Hey, wait!|Aaaagh, fine!
 いやぁ、やはりいつ見てもこの建物は美しい…|まさにシンメトリーの極致だな！=*Swoon* This building is as beautiful as ever. The symmetry is utterly divine!
 んあ？　来た！？|あんたらが噂の息子さん一行？=Hey, are you the new kid we've been hearing so much about?
 ん？　君は…出迎えかな？|校内の案内でもしてくれるのかな=Hm? Are you here to... greet me? Will you be giving me a tour of the school as well?
-がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here on time, you could have looked around yourself.
+がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
@@ -1500,7 +1500,7 @@
 いやぁ、やはりいつ見てもこの建物は美しい…|まさにシンメトリーの極致だな！=*Swoon* This building is as beautiful as ever. The symmetry is utterly divine!
 んあ？　来た！？|あんたらが噂の息子さん一行？=Hey, are you the new kid we've been hearing so much about?
 ん？　君は…出迎えかな？|校内の案内でもしてくれるのかな=Hm? Are you here to... greet me? Will you be giving me a tour of the school as well?
-がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here on time, you could have looked around yourself.
+がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
 へ？　はぁ！？=Wha-? Huh?
@@ -1537,19 +1537,19 @@
 !FILE:ms024.smd
 !FILE:ms025.smd
 んぐっ、ふ～、ごちそう様=*Burp*|Thanks for the snack.
-ソンソンＪ討伐完了ね。|ところでソウル、魂っておいしいの？=That's Sonson-J taken care of.|...Soul, do souls taste good?
-ああ、うまいぜ。味はとくにねぇけど、|歯ざわり…特にのど越しがたまんねぇ=Yeah, they're delicious. They don't have a ton of flavor, but their texture and the way they feel going down can't be beat.
-ふ～ん…=Huh...
-んじゃ、目標も果たしたし、帰るとしますか=Well, we did what we came for, so should we start heading back?
-ん！|待って、ソウル=Wait, Soul!
-どうかしたのか？=Something wrong?
-何だろこの感覚…たくさんのたかぶった魂が…|武器と職人の反応がひとつずつ…|それを取り囲むように人間の魂が５０…６０…=What is this I'm sensing? So many wound-up souls... One meister, one weapon, and 50 or 60 human souls, surrounding them...
-魂反応か？！　お前そんなことまでわかるのか=You can tell that much from their souls?
-そんな、ありえない！|消えた？！=What!? That's impossible! They all vanished!?
-お、おい…どうしたよ|俺、お前のペースについてけねぇよ…=H-Hey, what's going on? I can't keep up with you.
-ソウル、急いで！|５、６０個あった人間の魂の反応が消えた…|職人と武器に消されたのよ！=The 50 or 60 humans souls all disappeared... They were killed by the meister and weapon! We need to hurry, Soul!
+ソンソンＪ討伐完了ね。|ところでソウル、魂っておいしいの？=That's Sonson-J taken care of.|I was wondering. Do souls taste good? You seem to like them.
+ああ、うまいぜ。味はとくにねぇけど、|歯ざわり…特にのど越しがたまんねぇ=Yeah, they're delicious. They don't really have a particular flavor. It's just the way they feel going down, the texture.
+ふ～ん…=Hm.
+んじゃ、目標も果たしたし、帰るとしますか=Anyway, we're done here. Let's go.
+ん！|待って、ソウル=Hey, Soul, hold on.
+どうかしたのか？=Why? Something wrong?
+何だろこの感覚…たくさんのたかぶった魂が…|武器と職人の反応がひとつずつ…|それを取り囲むように人間の魂が５０…６０…=I sense something. A group of souls all wound up together. One meister, one weapon, and 50 or 60 human souls, surrounding them.
+魂反応か？！　お前そんなことまでわかるのか=Wow. You can tell that much from their souls?
+そんな、ありえない！|消えた？！=Oh no! Impossible! There's no way!
+お、おい…どうしたよ|俺、お前のペースについてけねぇよ…=H-Hey, what's wrong? When you start acting like this, I can't keep up with you.
+ソウル、急いで！|５、６０個あった人間の魂の反応が消えた…|職人と武器に消されたのよ！=The human souls that were inside. They're all gone. They were killed by the meister and weapon! We need to hurry, Soul!
 あ、ああ…　よくわかんねぇけど、ただゴト|じゃねぇんだな=R-Right... I don't really get what's going on, but that can't be good!
-この教会…この扉の奥に…|見ておかなきゃ…死武専生として……|誰がやったか見ておかなきゃ…=This church... Behind this door... I have know. As a student of the DWMA, I have to see who did this.#Reword "I have know"?
+この教会…この扉の奥に…|見ておかなきゃ…死武専生として……|誰がやったか見ておかなきゃ…=This church... Behind this door... I have to know. As a student of the DWMA, I have to see who did this.
 開けるぜ…=Let's open it.
 でしょ…？！|そこの扉、内側に開くんだよ=You see? They open one way. Those doors only open inward.#dupe
 こんなことって…=What...?
@@ -1570,7 +1570,7 @@
 うーうー、ハイなクロナはおっかないねー=Now, now, calm down, Crona. You're so scary when you're stressed out like this.
 しゃ、しゃべるんだ=I-It spoke.
 人間の魂を狩ることは禁じられてるはずよ！|あなたたち死武専の生徒なの？！=You should know that hunting human souls is forbidden! Are you students at the DWMA?
-死武専？　何それ？|あの人が食べていいって言うんだ…！|何がいけないのさ=At the where? What academy? Anyway, she said it was okay to eat the human souls.
+死武専？　何それ？|あの人が食べていいって言うんだ…！|何がいけないのさ=At the where? Anyway, she said it was okay to eat the human souls.
 僕、女の子と話すのニガテだな…=I'm not very good when it comes to talking to girls.
 死武専の生徒として、あなた達を放っておく|わけにはいかない！=As a student of the academy, I cannot allow you to do this!
 ちっ、うぜぇガキだぜ、やるぞクロナ=Tch! She's just some whiny brat.|Let's do this, Crona!
