@@ -76,7 +76,7 @@
 エメラルド湖から逃げ出したソンソンＪは|この辺りに潜伏したようだ。また、それと別|にこの付近の教会に、夜な夜なストリート・|ギャング達が集まり、大騒ぎしているという|噂だ。少し懲らしめるのもいいだろう。=Sonson-J escaped and is hiding out nearby. Plus there's a rumor that street gangs have been up to no good at the nearby church. I think some discipline|is in order.
 シュタイン先生の授業=Professor Stein's Class
 難易度★★★=Difficulty ★★★
-いや、どうも。来てもらった所、いきなり|ですが授業を始めます。そんな難しいもの|ではありません。[c]２０秒以内[/c]に、私を倒して|ください。え、無理？　仕方ないですね～。|じゃ、体力は少なめにしておきますよ。=Pop quiz! Don't worry. It won't be anything too difficult. You just have to beat me [c]within 20 seconds[/c]. I won't use my full strength.
+いや、どうも。来てもらった所、いきなり|ですが授業を始めます。そんな難しいもの|ではありません。[c]２０秒以内[/c]に、私を倒して|ください。え、無理？　仕方ないですね～。|じゃ、体力は少なめにしておきますよ。=Pop quiz! Don't worry. It won't be anything too difficult. You just have to beat me [c]within 20 seconds[/c]. I'll go easy on you.
 シュタイン先生の試験=Professor Stein's Exam
 難易度★★★=Difficulty ★★★
 なかなかやる気があるようですね。|じゃ、そろそろテストでもやりましょうか。|私を倒すってだけじゃ面白くないですから、|[c]トドメは究極共鳴技で[/c]さしてもらう、と|しましょう。=You seem awfully motivated, so let's get straight to the exam. Just beating me won't cut it this time. An [c]Ultimate Soul Art must be the final hit[/c].
