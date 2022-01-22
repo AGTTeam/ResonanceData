@@ -61,7 +61,7 @@
 １【バラバラにしたい】= 1: I want to dissect
 ２【皮膚を紙やすりに】= 2: Skin into sandpaper
 ３【世話のかかる後輩】= 3: A troublesome man
-４【マカ見てるか！？】= 4: Watch this Maka!
+４【マカ見てるか！？】= 4: Watch this, Maka!
 ５【袖まくっちゃう】= 5: Roll up my sleeves
 ６【あの悪魔の実験！】= 6: Devilish experiments
 ７【解体していいかな】= 7: Can I pull you apart?
