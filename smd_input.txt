@@ -1176,7 +1176,7 @@
 オーケー、まあ準備運動には丁度いいな=Okay. We'll call it a warm-up.
 死武専・学生課=DWMA - Student Division
 見ろ、椿！　俺様に解決されるために、新しい|課題があるぞ！=Look, Tsubaki! There are new assignments for my greatness to take on!
-ブラック☆スター。一つ星職人。|暗殺者だが究極の目立ちたがり屋。|体術を得意とする=Black☆Star. One-star meister.|He's an assassin but needs to be the center of attention. Excells in hand-to-hand combat.
+ブラック☆スター。一つ星職人。|暗殺者だが究極の目立ちたがり屋。|体術を得意とする=Black☆Star. One-star meister.|He's an assassin but needs to be the center of attention. Excels in hand-to-hand combat.
 そ、そうね……どれにしよっか=R-Right... Which should we try out?
 中務椿。魔暗器。ブラック☆スターの|パートナー。優しくおっとりした性格。|多種の暗器に変身できる=Tsubaki Nakatsukasa. Black☆Star's demon shadow weapon partner. Gentle and unfussy. She can perform multiple transformations.
 当然、全部やるに決まってんだろ！|俺様にかかれば、１０秒でカタがつく！|アーッハッハッハ！=We'll do all of them, obviously! Won't take more than 10 seconds! Ahahahaha!
@@ -1543,7 +1543,7 @@
 んじゃ、目標も果たしたし、帰るとしますか=Anyway, we're done here. Let's go.
 ん！|待って、ソウル=Hey, Soul, hold on.
 どうかしたのか？=Why? Something wrong?
-何だろこの感覚…たくさんのたかぶった魂が…|武器と職人の反応がひとつずつ…|それを取り囲むように人間の魂が５０…６０…=I sense something. A group of souls all wound up together. One meister, one weapon, and 50 or 60 human souls, surrounding them.
+何だろこの感覚…たくさんのたかぶった魂が…|武器と職人の反応がひとつずつ…|それを取り囲むように人間の魂が５０…６０…=I sense something. A group of souls wound up together. One meister, one weapon, and 50 or 60 human souls, surrounding them.
 魂反応か？！　お前そんなことまでわかるのか=Wow. You can tell that much from their souls?
 そんな、ありえない！|消えた？！=Oh no! Impossible! There's no way!
 お、おい…どうしたよ|俺、お前のペースについてけねぇよ…=H-Hey, what's wrong? When you start acting like this, I can't keep up with you.
@@ -2171,7 +2171,7 @@
 …優等生のマカが先生のいいつけを|守らないとはね。何？　反抗期？=Can't believe a good student like you is disobeying a teacher. What's the deal?|A rebellious phase?
 うるさい=Be quiet.
 いいぜ、このステージ、ゆずってやる=Alright, then. The stage is yours.
-ありがと…　ブラック☆スターは先に進んで=Thank you.  You can go on ahead, Black☆Star.
+ありがと…　ブラック☆スターは先に進んで=Thank you. You can go on ahead, Black☆Star.
 危なくなったら俺様を呼べ！|小者のために助けに来てやるぜ=If you get in trouble, call for me! I'll come to help your sorry butt!
 いくぞ、マカ！|意気揚々と魔剣に挑むんだ。当然、何か|勝算があるんだろ？=Let's go, Maka! We've picked a fight with the Demon Sword. We definitely have a chance of winning, right?
 うん=Nope.
