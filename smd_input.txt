@@ -445,7 +445,7 @@
 またサボリですか。しょうがないですねェー。|ん、でも学内で決闘となると教職員の立会いが|必要になりますね=Skipping class again, huh? I'm not a fan of that. Hm, but all duels on campus require the presence of a faculty member, don't they?#dupe
 じゃ、ちょっと自習にしましょうか。|マカと椿は俺と一緒に来なさい=Well, I guess I'll do some studying of my own. Maka, Tsubaki, I'd like you two to come with me.#dupe
 椿、今日の授業は誰だ？=Tsubaki, who do we have class with today?
-んーと、シュタイン博士とシド先生、かな=Let's see. I think we it's Dr. Stein and Mr. Sid today.
+んーと、シュタイン博士とシド先生、かな=Let's see. I think it's Dr. Stein and Mr. Sid today.
 げっ、俺たちをダマした極悪コンビかよ=Crap! Not the dastardly duo that tricked us!
 ん、死神様も、私たちにハッパをかけるために|シド先生とシュタイン博士にお芝居をして|もらってたみたいだし、あまり悪く言うのは…=Well, you shouldn't blame them. Lord Death wanted to push us to work hard, and those two were just going along with it.
 まあ、いっか。サボろサボろ=Well, whatever. I'm skipping anyway.
@@ -462,7 +462,7 @@
 ちょっとソウル！|アンタ何バカなこと言ってんの！？=Soul, do you have a hole in your head or what!?
 よーし、いくぜソウル！|女どもはほうっておけ！！=Alright, Soul! We'll ditch the girls!!
 あ！|も～～あの馬鹿コンビ…|あいつらでチーム組めばいいのよ！=Ah! Rrrgh! That dumby duo! They should just team up!
-ソウル君とブラック☆スターで…|だ、だめよマカちゃん！　それはダメっ！=Weapon Soul and meister Black☆Star... No, this is bad, Maka! This is really bad!
+ソウル君とブラック☆スターで…|だ、だめよマカちゃん！　それはダメっ！=Weapon Soul and meister Black☆Star...|No, this is bad, Maka! This is really bad!
 え、何が…？　どうしたの…？！=Huh? What's bad? What's wrong?
 おや、なんですか？|何かありましたかぁ？=What's going on? Did something happen?
 あ、シュタイン先生。|ソウルとブラック☆スターが授業サボって|新入生を暗殺するって…=Oh, Professor Stein. Soul and Black☆Star were talking about skipping out on class to kill the new kid.
@@ -633,7 +633,7 @@
 気をつけろよマカ～～！|パパはここからがんばれのオーラを送り続ける|からな！=Be careful, Maka! Papa will be sending you an aura of good luck from here!
 全然意味わかんない…=I have no clue what talking about.
 うん…まあオーラはいいや…|気をつけて、がんばってね～♪=Yes, well, auras aside... Be safe and good luck, you guys♪
-バルト海の…黒龍…=A black dragon... in the Baltic Sea...
+バルト海の…黒龍…=A black dragon... in the Baltic Sea?
 つい先日のことだよ…　バルト海の沿岸で|人々が町ごと、何者かに飲み込まれるという|事件がおきたんだ=It happened the other day. An entire town on the coast of the Baltic Sea and most of its residents were swallowed up.
 デカい黒龍が町を食ったってのか！？=And you're saying it was a huge black dragon that ate it?
 生き残った人がね、黒龍を見たって=According to the survivors, they said they saw a black dragon.
@@ -646,7 +646,7 @@
 ひゃはは、ＯＫＯＫ。|ブラックドラゴンスレイヤーになって帰って|くるからよ、俺様の銅像でも準備しとけよな！=Yahaha! Okay, okay, no need to beg! Just go ahead and get the Black Dragon Slayer's statue ready!
 がんばります！=Leave it to us!
 バルト海に行くことになった=It's been arranged. We're going to the Baltic Sea.
-あぁん、何でそんなトコに？=Wha-? Why the Baltic?
+あぁん、何でそんなトコに？=Wha--? Why the Baltic?
 つい先日のことだ。|バルト海沿岸の町がひとつ、消滅した=It just happened the other day. A town on the coast of the Baltic Sea disappeared.
 えぇ？　町が、まるごとかい？=Really? The whole town?
 海からまるごと、ごっそりと飲み込まれた|ような形でな=It appears to have been swallowed up by the sea.
@@ -1379,14 +1379,14 @@
 あれ？　君たち誰ですか？=Oh? And who wants to know?
 お前、死武専生を襲わせてるシュタインか？=Are you the Stein that attacked those students.
 そうですが…|あ～、君たち死武専の生徒さんでしょ=Yes, but... Ah, you must be students at the DWMA.
-はい…|シド先生をゾンビにし、生徒を襲わせている|のはあなたですね？　どうしてなんですか？=Yes. You turned Mr. Sid into a zombie and attacked students, did you not? Why?
+はい…|シド先生をゾンビにし、生徒を襲わせている|のはあなたですね？　どうしてなんですか？=Yes. You turned Mr. Sid into a zombie and had him attack students, right? Why?
 動機はいたってシンプル。観察研究。|観察のための材料が必要になった…|ただ、それだけですよ=The reason is very simple. Observational research. I was in need of materials for said research, nothing more.
 んん？=What?
 この世の全てが研究材料。俺自身もそうだし、|そう、君たちもね…=It's all research material. Everything in this world, myself included... And yes, even you.
 研究材料…=Research material...
 あ～～うるせえうるせえ！|観察だ研究だと、目立たねぇ凡人の発想だろ！=Ah! Cut it out! Observation, research, that's invisible mediocre-people stuff!
 はっははは…|うんうん、君はすごいなぁ=Hahaha! Yes, you're far from mediocre, aren't you?
-君はものすごく自己主張の激しい魂ですね。|君のような魂に合うパートナーはなかなか|いないんじゃないの？=Your soul is brazenly egocentric. There are very few whose souls could partner with yours, I imagine.
+君はものすごく自己主張の激しい魂ですね。|君のような魂に合うパートナーはなかなか|いないんじゃないの？=Your soul is brazenly egocentric. There are very few whose soul could partner with yours, I imagine.
 ブラック☆スターの魂が…見られてる？=You can... see Black☆Star's soul?
 ああ、なるほど、協調性が高く人を受け入れる|器が大きい。君が彼の波長に合わせてあげて|いるというわけだ=Yes, I see. Your endless cooperation, that explains how you've succeeded in tuning your wavelength with his.
 魂の性質まで見透かすことができるの…！？=He's able to instantly see the true nature of a person's soul!?
@@ -1425,7 +1425,7 @@
 がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
-へ？　はぁ！？=Wha-? Huh?
+へ？　はぁ！？=Wha--? Huh?
 ７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
@@ -1464,7 +1464,7 @@
 がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
-へ？　はぁ！？=Wha-? Huh?
+へ？　はぁ！？=Wha--? Huh?
 ７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
@@ -1503,7 +1503,7 @@
 がはは！　新入早々遅刻して、案内だぁー？|やっぱ親の七光りってのはエライのな？|俺もあやかりたいですよー=Ahaha! You show up late and expect a tour? If you'd been here at seven, you could have looked around yourself.
 何？　七光り…？=What's that? What did you say? Seven?
 ７はよせ！　８にしろ！=No, it can't be seven! Say eight, damn it!
-へ？　はぁ！？=Wha-? Huh?
+へ？　はぁ！？=Wha--? Huh?
 ７は半分に切っても左右対称にならん！|でも８はどうだ？　縦に切っても横に切っても|完璧なシンメトリー！！=It's impossible to cut seven symmetrically! It has to be eight! It's perfectly symmetrical horizontally and vertically!
 ７はよせ……８にしてくれ……たのむ=Take it back. I'm begging you. Just say eight. Please.
 おい、コイツ大丈夫か？=Um, dude, is there something wrong with you?
@@ -1527,7 +1527,7 @@
 キッド君、彼らは死武専の中で今一番イキの|いい生徒たちだよ。一度、私を苦しめたことも|ある。思いっきりやって構わない=Kid, these are the DWMA's toughest students. They even managed to land a hit on me. Punish away.
 …あのときの補習組か=The group from that remedial lesson?
 ほらほら来いよ！|売られた喧嘩は買うぜ！|な、椿！=Come on! Bring it! You still owe me that fight! Tsubaki!
-え……え？　私？！=Wha-? What? Me!?
+え……え？　私？！=Wha--? What? Me!?
 行け行けー！=Go! Go! Go!
 まがりなりにもシュタイン博士とやりあった|奴らだ…|リズ、パティ！　油断は禁物だぞ！=These two punks might not be perfect, but they did manage to hold off Dr. Stein's attacks... Liz! Patty! Keep your guard up!
 おう！=Yeah!
@@ -1733,7 +1733,7 @@
 わーい、俺勇者！=Yay! I'm the chosen hero!
 なんとぉ…？！　あっさり抜けた！？=How!? He pulled it out so effortlessly!
 そんなバカな…　何かの間違いだ！|君はお世辞にも勇者の柄じゃない！|やり直さないか？=I don't believe it. Something's not right! There's nothing heroic about you! Do it over!
-えぇー？　なんだよ、ノーカンかよ=Whaaa-? You wanted to get a picture the moment I pulled it, is that it?
+えぇー？　なんだよ、ノーカンかよ=Whaaa--? You wanted to get a picture the moment I pulled it, is that it?
 戻すんだ…=He really put it back...
 今度は俺にやらせてくれ=I'll try first this time.
 無理だよ無理、聖剣は俺様を選んだ！|ビッグな俺様をな！=Whatever. You'll never pull it out! The legendary sword needs a legendary hero to wield it! That's why it chose me!
@@ -1798,7 +1798,7 @@
 わーい、俺勇者！=Yay! I'm the chosen hero!
 なんとぉ…？！　あっさり抜けた！？=How!? He pulled it out so effortlessly!
 そんなバカな…　何かの間違いだ！|君はお世辞にも勇者の柄じゃない！|やり直さないか？=I don't believe it. Something's not right! There's nothing heroic about you! Do it over!
-え？　なんだよ、ノーカンかよ=Whaaa-? You wanted to get a picture the moment I pulled it, is that it?
+え？　なんだよ、ノーカンかよ=Whaaa--? You wanted to get a picture the moment I pulled it, is that it?
 あ、戻した=He put it back.
 今度は俺にやらせてくれ=I'll try first this time.
 無理だよ無理、聖剣は俺様を選んだ！|ビッグな俺様をな！=Whatever. You'll never pull it out! The legendary sword needs a legendary hero to wield it! That's why it chose me!
@@ -1873,7 +1873,7 @@
 椿～～夜景見に来たんじゃねーっつの。|どこだ、大物は！？　早く出てきやがれ！！=Tsubaki, we didn't come here to look at the sky. Now, where's this big-timer? Don't keep me waiting!!
 情報が確実じゃないから、ちゃんと探さないと|無理よ…　聞き込みとか…=We don't have any solid information to go off of, so we'll just have to ask around and find them ourselves.
 めんどくせェ～～じゃあアイツに聞いて|みようぜ=Lame. Fine, let's see what the locals have to say.
-えっ、橋の真ん中に誰かいる？=Wha? There's someone standing in the middle of the bridge.
+えっ、橋の真ん中に誰かいる？=What? There's someone standing in the middle of the bridge.
 うーっす=Hello!
 オッサン、そんなとこにいると危ねーぜ？|ちょっと聞きたいことがあるんだけどよ…=Yo, pops, don't you know it's dangerous to be out at night around here? Anyway, I wanna ask you something.
 先に俺が質問するぞ。|お前ら、死武専の生徒か？=I've got a question for you first. Are you students from the DWMA?
