@@ -171,7 +171,7 @@
 マカ～～頑張ってるなァ～～立派な娘を持って|パパはうれしいぞ=Maka! My little go-getter! It makes a papa proud to have such an amazing daughter.
 ゲッ、アホ親父…=Ugh, the dadiot...
 プン。|私パパのコト父親だなんて思ってないから=Hmph! As if I'd ever accept you as my papa.
-ひ、ヒドイ…パパは…パパは……|ソウル、てめぇがマカをたぶらかしたのかァ！=But... I am your Papa. Soul, you jerk, you turned her against me to have her for yourself!
+ひ、ヒドイ…パパは…パパは……|ソウル、てめぇがマカをたぶらかしたのかァ！=But... I am your papa. Soul, you jerk, you turned her against me to have her for yourself!
 あァ！？|クールな俺が何でこんなチンチクリン女に=As if! What would a cool guy like me want with a shorty like her?
 何だとぅ！？|俺のマカに魅力が無いってのか！|少しは手ェ出せ！　男だろ！=What!? Are you blind!? She's so charming! You're a guy! Make a move already!
 何言ってんだ！？　お前=What the heck are you talking about!?
@@ -186,16 +186,16 @@
 ブラック☆スター………|うん、知ってる=Black☆Star...|Yes, I know.
 ふぅ、勝手なことをしてしまったが、課題と|いうのもなかなか面白いな。魂集めのための|情報も集められそうだ=*Sigh* We didn't accomplish much, but these might teach us a thing about souls. Could be fun.
 うすっ、うーっす！=Well, hello!
-あ、父上=Oh, father.
+あ、父上=Oh, Father.
 うーっす！=What's up?
 おっす=How's it going?
-リズちゃんパティちゃん、元気そーだねー。|キッドも相変わらず髪の毛の三本線、|キュートだね=Liz and Patty you like you're doing well.|Kid, those stripes in your hair are still so cute.
-父上、俺がそのコトを気にしてるからって|そんなコト言わなくていいよ。ところで死武専|の課題をひとつ勝手にやってしまってごめん=Dad, please don't talk about that.|My apologies, but we went ahead and cleared one of the DWMA's tasks.
+リズちゃんパティちゃん、元気そーだねー。|キッドも相変わらず髪の毛の三本線、|キュートだね=Liz, Patty, you look like you're doing well.|Kid, those stripes in your hair are still so cute.
+父上、俺がそのコトを気にしてるからって|そんなコト言わなくていいよ。ところで死武専|の課題をひとつ勝手にやってしまってごめん=Dad, please don't talk about that.|I apoligize, but we went ahead and cleared one of the DWMA's tasks.
 あー、そんなの別にいいっていいって。|んで、魂は手に入った？=Oh, that's fine, that's fine.|So, did you get the soul?
-いや、残念ながら…。|出来ればいっきに魂を集めたいんだけど、|いいターゲットはないかな？=No, unfortunately...|So if possible, I'd like to somehow gather some. Are there any good targets?
-キッドは死神なんだから別に魂を集めて武器を|育てなくてもいいのにねぇー=Kid, since you're a reaper you don't have to gather souls and make your own death scythes, ya know.
-今はたいしたターゲットはいないんだケド、|ま、やりたいカンジの課題があったら、|目立たない程度に勝手にやっちゃってよ=Well, even though there aren't any great targets right now, I'll just do whichever I feel like then.
-そうですか。|じゃあほどほどに、きっちりかっちりと|やらせてもらうよ=Is that so?|Well then, do it in moderation and precisely!
+いや、残念ながら…。|出来ればいっきに魂を集めたいんだけど、|いいターゲットはないかな？=No, unfortunately not.|If possible, I'd like to gather some. Are there any good targets?
+キッドは死神なんだから別に魂を集めて武器を|育てなくてもいいのにねぇー=Kid, you're a reaper, so you don't have to gather souls and make your own death scythes, ya know.
+今はたいしたターゲットはいないんだケド、|ま、やりたいカンジの課題があったら、|目立たない程度に勝手にやっちゃってよ=Well, there aren't any great targets right now, so just go on and do any you'd like.
+そうですか。|じゃあほどほどに、きっちりかっちりと|やらせてもらうよ=I see. Well, I'll be sure to do them each precisely and in their turn!
 課題が選択可能になった！=You can now select Tasks!
 !FILE:ev003.smd
 うっす、ちーっす！=Hello, hello!
@@ -222,21 +222,21 @@
 あの２人、デス・シティー近くの森に住む|魔女に挑戦するらしいって、昨日ちょっと噂に|なってたよ=Those two challenged the witch Blair in the forest near Death City. It was all the talk yesterday.
 魔女？　……そうか！|あいつら失敗して戻ってきたな！=A witch? Oh, I get it!|They failed!
 そうかも…。後でちょっと調べてみましょ=Maybe. Let's find out later.
-キッドぉ、こんな簡単な課題ばっかやってて|意味あんのかよ？|死神様に情報もらってさぁ、ドーンといこうよ=Kid, what's the point of doing all these easy tasks?#unfinished
-うーむ、俺としてはあまり父上に頼ることは|したくないんだが=Well, I don't want to really too much on my father.
+キッドぉ、こんな簡単な課題ばっかやってて|意味あんのかよ？|死神様に情報もらってさぁ、ドーンといこうよ=Kid, what's the point of doing these easy tasks? Let's just get the big ones from Lord Death.
+うーむ、俺としてはあまり父上に頼ることは|したくないんだが=Well, I'd prefer not to be too reliant on my father.
 うすっ、ちーっす！=Heya, hiya!
 あ。=Oh!
 いい情報、あるよ～=I've got good news!
 ナイスタイミんぐ～！=Nice timing!
-むぅ、ではお言葉に甘えて、父上、たのむ=Hmph, you have our attention, father. What is it?
+むぅ、ではお言葉に甘えて、父上、たのむ=Hmph, you have our attention, Father. What is it?
 ブレアっていう魔女が最近デス・シティーの|近くに住み着いたっていう話なんだけどさ=I've gotten word that a witch named Blair has settled down in Death City.
 今ちょうど三つ星職人が他の仕事やってる|もんで、調べに行ける人がいない状態なのよ=All the three-star meisters are currently off on other assignments, so I have no one to look into it.
 ほぅ、怪しい魔女の調査か。いいね=So you want us to investigate this suspicious witch. Shouldn't be a problem.
-魔女ぉ～！？　|…けっこうヤバイんじゃないか？=A witch!? Aren't they supposed to be really dangerous, though?
+魔女ぉ～！？　|…けっこうヤバイんじゃないか？=A witch!? Aren't they supposed to be really dangerous though?
 まだほとんど情報が無いんだよね～|あ、なんかー、カボチャの家に住んでるとか|聞いたよ=We don't really have any info on her yet. Oh, but I did hear that she lives in some sort of pumpkin house.
 カボチャの家か…|シンメトリーならいいが…=A pumpkin house? I hope it's symmetrical at least.
 そこはどうでもいいだろ…|あ～何だろ。なんか嫌な予感がするよ=Who cares about that... *Sigh* I have a bad feeling about this.
-大丈夫だよ、お姉ちゃんならでっかいカボチャ|だって食べられるって=Don't worry, sis. I know you can eat it even if it's a giant pumpkin!
+大丈夫だよ、お姉ちゃんならでっかいカボチャ|だって食べられるって=Don't worry, Sis. I know you can eat it even if it's a giant pumpkin!
 邪悪な魔女ならば討伐する必要がある。|行ってみるとしよう=If it's a wicked witch, she must be subdued. Let's go and have a look.
 『デス・シティー』の噂を聞いた！=You've heard the rumor of "Death City"!
 !FILE:ev004.smd
@@ -291,9 +291,9 @@
 カポネの一味は普通の人間の魂を食べて、魂が|鬼神の卵と化している。|その数、部下を含め９９人=Capone and his gang've been eating human souls, and their souls have become kishin eggs. All told, there are 99 of them.
 魔女には凄腕の用心棒がいるって話だけど、|もしもカポネ一味が魔女の力を手に入れたら|マズイことになるからさぁ=Apparently, the witch has quite the capable bodyguard, but it'll be bad news if Capone's gang get her soul.
 鬼神の卵と化したカポネ一味を始末すれば|いいんだね。魔女のほうも倒していいのかな？=The souls of Capone's gang have become kishin eggs. We'll have to deal with them. And what if the witch is defeated?
-チョッとおかしいと思わない？=That's a little strange, don't you think?
+チョッとおかしいと思わない？=That's a little unlikely, don't you think?
 むぅ…　魔女に加えて凄腕の用心棒がいるなら|魂が鬼神の卵と化しているとは言え元人間程度|の襲撃を受けてもどうということもないはず…=I guess it's just humans attacking, even if their souls have become kishin eggs. A witch and a bodyguard could handle it.
-そーなのよ。魔女のほうがワケありでね。|まあそこは行ってみれば分かると思うんで、|キッドの判断に任せるよ=That's right. This is just any witch. You'll see what I mean when you go there. I'll let you be the judge, Kid.
+そーなのよ。魔女のほうがワケありでね。|まあそこは行ってみれば分かると思うんで、|キッドの判断に任せるよ=That's right. This isn't just any witch though. You'll see what I mean when you go there. I'll let you be the judge, Kid.
 なるほど。|それじゃ、行ってきます。|リズ、パティ、急ぐぞ=All right. Well, we'll be going.|Liz, Patty, come on.
 あいあーい=Okay, okay.
 ほいほーい=Okey-dokey!
@@ -396,7 +396,7 @@
 ん、待てよ、そいつを倒せば俺様こそが|最強だと誰もが認めるってことじゃん？|うぉぉ、燃えてきた！　椿、行くぜ！=Hm, wait! Nobody can deny that I'm the strongest if I kick his ass! Who's the genius now? Let's go, Tsubaki!
 ま、彼を捕まえてくれば、補習は終了だから。|椿ちゃん、ここはひとつ、頑張っといで～=Alrighty, catch him and that'll be the end of your extra lesson. Now Tsubaki, do your best, okay?
 はい……|ちょっと不安ですけど、頑張ります！=Yes, sir. That's easier said than done, but I'll give it my all!
-父上、聞きたいことがある=Father, there's something I'd like to ask you?
+父上、聞きたいことがある=Father, there's something I'd like to ask you.
 ちーっす、何かな？=Alrighty, what is it?
 フランケン・シュタイン博士のことなんだけど=It's about this Dr. Franken Stein.
 どぇ～？|何、誰に聞いたの？=Um, I don't-- Who'd you hear that name from?
@@ -404,10 +404,10 @@
 あちゃ～～|マカちゃんとブラック☆スター君には会った？=Ah, phooey!|Did you see Maka and Black☆Star there as well?
 いや、会っていないと思うけど。どうして？=No, we must have missed them. Why?
 そ、そかそか。じゃあいいか。|シュタイン博士ってのは死武専の卒業生でね…|最強の職人と言われている男さ=Oh, good, good.|Dr. Stein is a DWMA graduate. He's said to be the strongest of all meisters.
-そんな男が、シド先生をゾンビにして生徒を|襲わせていた…　由々しき事態じゃないか=The man made Sid into a zombie who then attacked students. Shouldn't we be concerned?
+そんな男が、シド先生をゾンビにして生徒を|襲わせていた…　由々しき事態じゃないか=The man made Sid into a zombie who then attacked DWMA students. Shouldn't we be concerned?
 まぁね…|マカちゃん達が帰り次第、行ってもらおうと|思ってるんだけどね=Yep. I'm planning on sending Maka and the others out as soon as they get back.
 死武専の一つ星生徒に？　無茶でしょう。|間違いなく…死ぬよ=But they're one-star students. That's unrealistic. There's no way they'll make it out with their lives.
-でもお姉ちゃんなら楽勝だね♪=It would be piece of cake for you, sis♪
+でもお姉ちゃんなら楽勝だね♪=It would be a piece of cake for you, Sis♪
 私はしがない武器だよ？|パティはお姉ちゃんを買いかぶりすぎだぞ…|無難に即死だよ=I'm just some weapon, you know. You think too highly of me, Patty. I'd be dead in a heartbeat.
 俺も行くよ、いいよね=I'll go as well. Is that okay?
 これは彼らの大事な補習だからねぇ～|キッドは死神だ。生徒じゃない=But this is a valuable remedial lesson. You're a reaper, Kid, not a student.
@@ -415,8 +415,8 @@
 リズ、パティ！=Liz, Patty!
 おう=Right!
 ほいほーい=Okey-dokey!
-ちとちと、君たち…=Hold on, you guys...
-………はぁ。…ま、いっか。|「彼」ならうまくやってくれるかな=... *Sigh* Oh well. "He" won't overdo it, right?
+ちとちと、君たち…=Hold on, you guys.
+………はぁ。…ま、いっか。|「彼」ならうまくやってくれるかな=*Sigh* Oh well. "He" won't overdo it, right?
 『ツギハギ研究所』の噂を聞いた！=You've heard the rumor of the "Patchwork Lab"!
 !FILE:ev007.smd
 今日はシド先生とシュタイン先生の授業ね=We have class with Mr. Sid and Professor Stein today, huh?
@@ -472,7 +472,7 @@
 今日から正式に死武専生としての登校だな=Today will be our first day officially attending the DWMA as students.
 ずっとストリートで育ってきた私たちが|学校に通えるなんて…|良かったね♪パティ=Living on the streets all those years, we've never been able to go to a real school. Isn't this great, Patty?
 うん♪|うれしいぞコノヤロー！=Yep♪ I can't stop smiling!
-そうかそうか。|父上とシュタイン博士達には一杯食わされたが|結果的には良かったかもしれんな=Right, yeah. It wasn't easy convincing father and Dr. Stein, but I think it was worth it.
+そうかそうか。|父上とシュタイン博士達には一杯食わされたが|結果的には良かったかもしれんな=Right, yeah. It wasn't easy convincing Father and Dr. Stein, but I think it was worth it.
 結局、シドもシュタインも死武専の教師に|なってんだろ？　今は=So in the end, Stein and Sid are going to be our teachers at the DWMA?
 そのようだな。|楽しい授業が受けられそうじゃないか=It seems so. Should make for some interesting classes, don't you think?
 ゾンビのシド先生、いい人っぽかったもんね=Mr. Sid seemed like a nice zombie.
@@ -497,7 +497,7 @@
 じゃあこれにすっか。|イタリアの民に、いちど真のスターの姿を|拝ませてやる必要があるからな！=Let's do it then. I need to give the people of Italy a chance to see what a real star looks like!
 あ、キッド君、おっす！=Oh hi, Kid!
 ん、マカとソウル。|おまえ達も課題を選びに来たのか？=Hm? Maka, Soul, are you two here to choose an assignment?
-おうよ、クールな奴を選びにな。|キッドはもう決めたのか？=Yeah, we're looking for a cool one. Have you decided on one yet, Kid?
+おうよ、クールな奴を選びにな。|キッドはもう決めたのか？=Yeah, we're looking for a cool one. Have you decided on one yet?
 これにしようと思っている=I was thinking about taking this one.
 イタリアはエメラルド湖の殺人鬼、ソンソンＪ|を倒せ、か=Defeat Sonson-J, the Bloodthirsty Killer of Emerald Lake. In Italy, huh?
 おお、イタリアか！　クールだな。|それ、俺たちにゆずれよ=Yo, Italy!? Italy's cool. What say you let us take that one?
@@ -517,7 +517,7 @@
 スピリット先輩ですか？　んー、そうですね…|まあそういうこともあったかもしれません。|先輩は面倒見のいい人でしたからね=Spirit? Good question... Well, I suppose that might have happened. He is a very giving person.
 お互い傷ついて、お互い向き合って、お互い|強くなる。職人と武器ってのはそうやって信頼|を強めていくものですよ=We got hurt, we faced each other head on, and we came out stonger. That's how meisters and weapons do it.
 お互い向き合って…|ん……少し分かった気がします=Facing each other head on... Yeah, I think I kind of get it.
-ま、私は先輩に逃げられちゃいましたけどね。|君たちはいいコンビだから、大切にしなさい=Well, I let Spirit slip out of my grasp, though. You two make a good pair. You should cherish it.
+ま、私は先輩に逃げられちゃいましたけどね。|君たちはいいコンビだから、大切にしなさい=Well, I let Spirit slip out of my grasp though. You two make a good pair. You should cherish it.
 はい！　あ…ところで、ブラック☆スターが|ここで補習受けてるって聞いたんですけど…|知りませんか？=We will! Oh, by the way, I heard that Black☆Star was supposed to be here for a remedial lesson. Do you know anything?
 あー、彼ならキッド君と「悠久の洞窟」に|向かいましたよ、ついさっき=Ah yes, he and Kid headed off to the Eternal Cave not long ago.
 キッドと？　なんだそりゃ=With Kid? What's up with that...
@@ -846,7 +846,7 @@
 地下へつながる入り口に案内しましょう。|みなさんついて来て下さい！=All of you follow me. I'll take us to the entrance that leads underground.
 父上に聞いた話…|本当なのだろうか…　死武専の地下に…|嘘とも思えんし、色々つじつまも合う…=Can what Father told me be true? Something like that exists here? It would make a lot of sense...
 おいおいキッド、いつもよりさらに深刻な顔|しちゃって、今日は死武専創立記念日前夜祭|だぜ？=Hey, Kid, you look more stressed out than usual. Is it because of the Eve Party for the anniversary of the founding of the DWMA?
-う、うむ…=Y- Yeah...
+う、うむ…=Y-Yeah...
 ほら、来たぜ=Look, they're here.
 いらっしゃ～～い！=Over here, guys!
 みんなおめかししちゃって=Hey, take a look at these guys. They're dressed up all fancy-pants.
@@ -1147,7 +1147,7 @@
 そんな夜でも例外なく……|結局朝は来るのです=And yet, not all is hopeless. Even after a night like this, morning will eventually come.
 不甲斐ない…|結局はメデューサに好き勝手やられたな。|……鬼神か…=It was all worthless. In the end, Medusa did as she pleased... And the Kishin...
 あ～、前夜祭パーティのメシ…|あんまり食えなかったなぁ=Aw, I didn't get a chance to eat at the Eve Party.
-お姉ちゃん、余ったヤツ食いにいこか=You wanna see if we can't scrounge up some spare grub, sis?
+お姉ちゃん、余ったヤツ食いにいこか=You wanna see if we can't scrounge up some spare grub, Sis?
 お、お前らは……|いや、いいか。|ありがとう、頑張ってくれたな=Hey, you two... No, never mind. Thanks. You two did great.
 でへへ♪=Tee-hee-hee♪
 おーい、キッドーー！=Yo, Kid!!
@@ -1184,15 +1184,15 @@
 死武専・学生課=DWMA - Student Division
 いつ見ても死武専のデザインは素晴らしい…|理想的なシンメトリーだ！=Whenever I look at it, the DWMA's design is just fascinating...|It has the ideal symmetry!
 デス・ザ・キッド。死神の息子。|神経質な完璧主義者。|左右対称（シンメトリー）をこよなく愛する=Death The Kid. Death's son.|A nervous perfectionist.|Excessively obsessed with symmetry.
-それはいいケドさ、何で学校に？|私達生徒じゃないよ？=That's nice 'n all, but why are here?|We aren't even students.
+それはいいケドさ、何で学校に？|私達生徒じゃないよ？=That's nice 'n all, but why are we here?|We aren't even students.
 リズ・トンプソン。デス・ザ・キッドの|パートナー。二丁魔拳銃姉妹の姉。|比較的しっかり者だが、お化けが大の苦手=Liz Thompson. Death The Kid's partner. The older of the Demon Twin Gun sisters. Tough as nails, but she's bad with ghosts.
-…なかなか面白い生徒がいると、|父上に聞いたのでな=...I heard from my dad there are some rather interesting students here.
-ねぇねぇねぇねぇお姉ちゃん、コレ何かな？=Hey hey hey hey, sis. What's this?
+…なかなか面白い生徒がいると、|父上に聞いたのでな=I heard from my dad there are some rather interesting students here.
+ねぇねぇねぇねぇお姉ちゃん、コレ何かな？=Hey hey hey hey, Sis. What's this?
 パティ・トンプソン。デス・ザ・キッドの|パートナー。二丁魔拳銃姉妹の妹。|頭のネジが飛んだような性格=Patty Thompson. Death The Kid's partner. The younger of the Demon Twin Gun sisters. She's a bit special.
-…お、おいパティ、だめだろう、勝手に課題の|札をむしりとって来ては！=...H-Hey, Patty! Taking down the assignment tag just like that is a no-no!
-んん～？　なんだ、簡単そうじゃん。|私達でやっちまおうぜ=Hmm～? Why, it look's easy.|Let's do it.
-仕方がないな…まあ一つくらいいいだろう。|じゃ、この課題をやるぞ=No helping it...Well, if it's just this one it's fine.|Well, let's get to it.
-あははははは、やろーやろー=Ahahahaha, do it do it!
+…お、おいパティ、だめだろう、勝手に課題の|札をむしりとって来ては！=H-Hey, Patty! Taking down the assignment tag just like that is a no-no!
+んん～？　なんだ、簡単そうじゃん。|私達でやっちまおうぜ=Hmm～? Hey, this looks pretty easy.|Let's do it.
+仕方がないな…まあ一つくらいいいだろう。|じゃ、この課題をやるぞ=Whatever. Well, if it's just this one, fine. Let's get to it then.
+あははははは、やろーやろー=Ahahahaha! Do it to it!
 !FILE:ms002.smd
 !FILE:ms003.smd
 !FILE:ms004.smd
@@ -1225,16 +1225,16 @@
 へっ、あいつらとは器が違うんだよ！|いくぜ椿、俺様オンステージだ！=Huh? We're not like those chumps! Tsubaki, let's go! On stage!
 せっかくカボチャの家を見つけたのに、|魔女が不在とはな=We found the pumpkin house finally, but the witch isn't even home.
 夜のお散歩でもしてるんじゃないか？=Maybe she's on a night stroll?
-そんなはずはない。|デス・シティーを魔女がうろうろしていたら|すぐに感知の網にひっかかるからな=I don't think so. If she just wandered around Death City, they could sense her soul in an instant.
+そんなはずはない。|デス・シティーを魔女がうろうろしていたら|すぐに感知の網にひっかかるからな=I don't think so. If she just wandered around Death City, they would sense her soul in an instant.
 ねぇキッド君、あれ！=Hey, Kid, look!
-ん？　まさか…　いやまさかな…|おい貴様！=Hmm? Could it be...it is! Hey, you!
+ん？　まさか…　いやまさかな…|おい貴様！=Hmm? Could it be? It is!|Hey, you!
 なーに？　ボクぅ、ブレアになんか用ぉ？=What is it, little boy? Want something from Blair?
 散歩してんじゃん！=I told you she was strolling!
-こんなはずは…　ま、まあいい。|魔女ブレア、貴様ここで何をしている？|何が目的か聞かせてもらうぞ=She shouldn't...W-Well, doesn't matter. Witch Blair, what are you doing here? Tell me your goals.
-え～～？　これから帰ってお風呂入るからぁ|明日にしてくれるぅ？=Huuh～? I'll go home and take a bath so why don't you come back tomorrow?
+こんなはずは…　ま、まあいい。|魔女ブレア、貴様ここで何をしている？|何が目的か聞かせてもらうぞ=She shouldn't... W-Well, no matter.|Witch Blair, what are you doing here? Out with it. What are you scheming?
+え～～？　これから帰ってお風呂入るからぁ|明日にしてくれるぅ？=Huh? I'm going home to take a bath, so why don't you come back tomorrow, 'kay?
 くっ、ふざけるなぁ！=D-Don't fool around with me!
-や～ん、怖ーい。|じゃ、ちょっとだけ相手してあげるね♪|パンパンプキン…=Wow, I'm scaared. Okay, I'll play with you for a bit♪ Pum-pumpkin...
-こんな街中でやる気か？！|魔女め…　リズ、パティ、行くぞっ！=You want to fight in the middle of the city? Witches... Liz, Patty, let's go!
+や～ん、怖ーい。|じゃ、ちょっとだけ相手してあげるね♪|パンパンプキン…=Wow, I'm scared. Okay, I'll play with you for a bit♪ Pum-pumpkin...
+こんな街中でやる気か？！|魔女め…　リズ、パティ、行くぞっ！=You want to fight in the middle of the city? Witches, I swear. Liz, Patty, let's go!
 !FILE:ms006.smd
 !FILE:ms007.smd
 !FILE:ms008.smd
@@ -1286,16 +1286,16 @@
 ふん、来るか？|出て来い！=Hmph! I know you're there. Come on out!
 貴様は少しやるようだな。マフィアどもの仲間|ではないようだが…武器職人か？=You seem to be able to handle yourself. You don't look like a member of the mafia though... A weapon meister?
 俺はデス・ザ・キッド。死神だ。|貴様も名を名乗れ、用心棒！=I am Death the Kid, a reaper. Now give me your name, bodyguard!
-俺は用心棒・ミフネ=I'm the bodyguard, Mifune.#This line comes across as a little awkward to me. Kid just called him bodyguard, and then he repeats that he's a bodyguard. I feel like it would sound nicer if he were to say, "I'm the samurai, Mifune." I left it as bodyguard since that is what it says in Japanese, and I don't know how people feel about making changes like that.
+俺は用心棒・ミフネ=My name is Mifune.
 魔女アンジェラとやらが見当たらないが、|どうした？=I see no signs of the witch Angela. Where is she?
 アンジェラを死神に渡すつもりは無い。|俺の命にかえてもな…=I have no intention of handing Angela over to a reaper... Even if it costs me my life.
 んー、どうするキッド？|出直すか？=Well, what do we do, Kid? Should we come back later?
 魔女に面会に来たと言っても信じまい。|と言って、このまま何もせずに帰るわけにも|いくまい=He won't believe me if I say we just came to speak with her. That said, I can't well go home empty handed.
-私は、そこら中の魂もらって帰っても|かまやしないけどな=I don't know. I'd be okay with just picking up all the souls all over the places and heading home.
+私は、そこら中の魂もらって帰っても|かまやしないけどな=I don't know. I'd be okay with just picking up the souls all over the place and heading home.
 やるの？　キッド君=What's it gonna be, Kid?
 子供とは言え死神…　魔女は根絶やしに|しないと気がすまんか=You're just a child, reaper... Nevertheless, would you feel no remorse if the witch were to be killed?
 カン違いするな、最初から魔女の魂をとる|つもりで来たのではない=Don't get me wrong, from the beginning, it was never my intention to take the witch's soul.
-だがこちらも魔女の正体を確かめもせず、|ノコノコ帰るワケにはいかないのでな！=However, I would be remiss to leave without having confirmed the identity of the witch!
+だがこちらも魔女の正体を確かめもせず、|ノコノコ帰るワケにはいかないのでな！=However, I would be remiss to leave without having confirmed her identity!
 ふん…加減はせんぞ=Hmph... I won't go easy on you.
 !FILE:ms010.smd
 !FILE:ms011.smd
@@ -1337,7 +1337,7 @@
 落ち着けリズ、そいつがシドだ。|見ろ、ちゃんとゾンビ化している=Calm down, Liz. It's Sid. Look, he really has become a zombie.
 だから怖いんだろうが！=I see that! That's why I'm afraid!
 ん…？　あれ？|おかしいな…　ちょっと早かったか？=Wait... Huh?|That's weird. They're early.
-シド・バレット！|生徒を襲う不届きなゾンビめ。|死神の名のもとに貴様を処分する！=Sid Barrett, the nefarious zombie behind the attacks on students, in the name of the grim reaper, you will be punished!
+シド・バレット！|生徒を襲う不届きなゾンビめ。|死神の名のもとに貴様を処分する！=Sid Barrett, the nefarious zombie behind the recent attacks, in the name of the grim reaper, you will be punished!
 どこで間違ったんだ？　仕方ないな、ここは|しばらく眠っておいてもらおうか。|俺は臨機応変……そんな男だった！=I must have screwed up somewhere. I guess I have been asleep for a while. No matter. I'm flexible. That's the kind of man I was!
 何をごちゃごちゃと！　行くぞっ！=This will be your last mistake!|Let's go!
 !FILE:ms014.smd
@@ -1397,7 +1397,7 @@
 少し準備に手間どってしまったが、ここが|シュタイン博士の研究所で間違いないな=It took a while, but there's no mistaking it. This is Dr. Stein's laboratory.
 全く……トイレットペーパーの端を三角に|折り忘れたとか、玄関の額縁が傾いてたとか、|３回も家に戻って、結局大丈夫じゃないかよ=Sheesh! The triangle fold on the toilet paper, the crooked picture frame, we went back three times for nothing.
 大事な問題だろうが！|ん……そういえばリビングのジュウタンが少し|ズレていたような…=It's crucial that everything be in order. Hm... Speaking of which, did the rug in the living room seem a little off?
-い、いい加減に…|グズグズしてっと、シュタインってやつに|生徒がぶっ殺されちまうぜ？=Th-That's enough! While you've dawdling, Stein's probably already butchered the other students.
+い、いい加減に…|グズグズしてっと、シュタインってやつに|生徒がぶっ殺されちまうぜ？=Th-That's enough! While you've been dawdling, Stein's probably already butchered the other students.
 だが、ジュウタンもきれいに敷けないクズの|俺が助けに行ったとして、果たして役に立つと|思えるか？　いや、無理だ。ああ…死のう…=As if a loser like me who couldn't even lay a rug in the direct center of a room would be of any use. No way. I would just die.
 パティさん、ここはお願いします=I give up. You're up, Patty.
 ガタガタぬかしてんじゃねぇぞオラァ！=Quit your whining, damn you!
@@ -1413,7 +1413,7 @@
 デス・ザ・キッド。死武専生（仮）だ！=Death the Kid, a temporary student of the DWMA!
 君は死神様の息子さんじゃなかったっけ…|死武専の生徒に？　へェー=Aren't you the son of Lord Death? You're a DWMA student now? Really?
 そうだ。だから俺と勝負してもらう=Yes, so you'll have to fight me as well.
-ふーん、まあ、いいでしょう。|少し、早いけどね。|でも君で実験したら怒られちゃうかな？=Hmm... Well, that's fine by me. It might be a little forward of me, but will be angry if I were to experiment on you?
+ふーん、まあ、いいでしょう。|少し、早いけどね。|でも君で実験したら怒られちゃうかな？=Hmm... Well, that's fine by me. It might be a little forward, but would you be angry if I were to experiment on you?
 何をゴチャゴチャと！|行くぞっ！=Cut the chatter!|Let's go!
 !FILE:ms018.smd
 !FILE:ms019.smd
@@ -1529,7 +1529,7 @@
 ほらほら来いよ！|売られた喧嘩は買うぜ！|な、椿！=Come on! Bring it! You still owe me that fight! Tsubaki!
 え……え？　私？！=Wha--? What? Me!?
 行け行けー！=Go! Go! Go!
-まがりなりにもシュタイン博士とやりあった|奴らだ…|リズ、パティ！　油断は禁物だぞ！=These two punks might not be perfect, but they did manage to hold off Dr. Stein's attacks... Liz! Patty! Keep your guard up!
+まがりなりにもシュタイン博士とやりあった|奴らだ…|リズ、パティ！　油断は禁物だぞ！=These two punks might not be perfect, but they did manage to hold off Dr. Stein's attacks. Liz! Patty! Keep your guard up!
 おう！=Yeah!
 ほーい！=Okay!
 !FILE:ms022.smd
@@ -1621,7 +1621,7 @@
 どうかしたのか？=What's wrong?
 人間の魂が５０以上と…|職人と武器の魂反応！=I'm sensing at least fifty human souls... Along with a meister and a weapon.
 マジかよ……どこだ？=For real? Where?
-あれだ、あの教会の中だ。|むぅ、人間の魂反応が一気に消えただと！|職人と武器の反応は強くなった…　急ぐぞ！=In that church. Hm? I'm not sensing the human souls anymore. The soul response from the other two got stronger. Hurry!
+あれだ、あの教会の中だ。|むぅ、人間の魂反応が一気に消えただと！|職人と武器の反応は強くなった…　急ぐぞ！=In that church. Hm? The humans, I'm not sensing them anymore. The soul response from the other two got stronger. Hurry!
 ほ～い=Okie!
 物騒だな～～どうなってんだ？=I don't like this. What's going on?
 開けるぞ、気をつけろ=We're going in. Stay on your guard!
@@ -1883,13 +1883,13 @@
 やる気じゃねーかよ！|行くぜ椿、一気にカタつけるぜぇ！=I'd like to see you try! Come on, Tsubaki! Let's not drag this out!
 うーん、ロンドンと言えばやはりここだな。|シンメトリーに配置されたゴシック様式の|２本の塔！　たまらん……美しい…！=Ooooh, now that's London. Two gothic towers laid out perfectly symmetrically! Such... irresistible beauty!
 おいおいキッド、シンメトリーは後回しで、|ターゲットを探しに行かないのか=Come on now, Kid, leave the symmetry for later. Shouldn't we be looking for the target?
-ねーお姉ちゃん、この橋って船が通るとき|バキッと折れるんでしょ？　すごいね！=Hey, sis, the bridge goes "snap" like a twig to let boats pass. That's so cool!
+ねーお姉ちゃん、この橋って船が通るとき|バキッと折れるんでしょ？　すごいね！=Hey, Sis, the bridge goes "snap" like a twig to let boats pass. That's so cool!
 パティ……それは折れてるんじゃなくて|開いてるんだよ…|そういうふうに作ってあるんだ=Patty, the bridge isn't breaking like a twig. It's opening. It's supposed to do that.
 おや、なんだ？　あの男は…|この美しい橋に似つかわしくない風貌だが=Hey, who's that? That guy, his looks are unbecoming for such a beautiful bridge.
 デカイ男が、橋の真ん中に突っ立ってる？|怪しいな=A huge guy just standing right in the middle of the bridge. Kinda suspicious, isn't it?
 うっす='Sup.
 うっす！='Sup!
-お嬢ちゃん元気いいな。|死武専の職人と武器かと思ったが、違ったか？=Well, aren't you full of energy, little missy? I thought you might be students from the DWMA, but perhaps not.
+お嬢ちゃん元気いいな。|死武専の職人と武器かと思ったが、違ったか？=Well, aren't you full of energy, little missy?|I thought you might be students from the DWMA, but perhaps not.
 パティ、下がれ。|どうやらターゲットのお出ましだぞ=Patty, get back! It looks like we've found our target.
 何だやっぱり死武専か。|お前らの作る基準は邪魔だ！|ああ、目障りさ！=Of course you're DWMA. All your rules are such a nuisance! Oh, what an eyesore you all are!
 たいした自信だ。|よかろう、死神の秩序のもと、俺が裁きを|くだしてやる！=You're confident. Very well. By order of the grim reaper, you will be judged!
@@ -1977,7 +1977,7 @@
 さてと=What now?
 しまった…|お前らのアホさに気をとられてうっかり|乗船しちゃったよォ…=Oh no! I was so busy focusing on their insanity that I came on board! I'm gonna die!
 たはは♪=Kyahaha♪
-甲板には特に何も見当たらんようだが…|船内か？=From what I'm sensing the souls are inside the ship somewhere. In we go.
+甲板には特に何も見当たらんようだが…|船内か？=From what I'm sensing, the souls are inside the ship somewhere. In we go.
 う、うそだろ…やめようよ…=I've got a better idea. How about we don't?
 ほーい=Okay!
 ん、待った。マストの上に何かいる=Hm, wait... There's something at the top of the mast.
@@ -2145,7 +2145,7 @@
 ネークスネークコブラコブブラ…=Nake Snake Cobra Cobbra...
 いいですか、スキは必ずあります…|あせらず冷静に、突破してください=Here we go. Don't worry about getting past her right away. Wait for a good opening to present itself.
 この中で一番機動力があるのは俺たちだ。|最初に駆け抜けるぞ！=We're the most mobile of the group, so we'll break through first.
-あ、ああ=Y- Yeah.
+あ、ああ=Y-Yeah.
 だっしゃああ！=Faster! Faster!
 来るぞ！=Here she comes!
 !FILE:ms046.smd
@@ -2219,7 +2219,7 @@
 なんてトラップだ…|ここまでか…無念……！=This trap may be the end of me... It's over.
 おいおい、みんな必死に戦ってるんだよ！|ここで諦めたら鬼神が復活しちゃうんだぞ？|死神のお前が行かなきゃ誰がやるんだよ=Whoa! Hold on a sec'! The Kishin's gonna wake back up if you give up! You're a reaper! If you can't do this, then who can?
 何とでも言え…俺はクズ神様だ…|ゴミの日にでも出してくれ=You can say whatever you want. I'm nothing but filthy reaper scum. Just put me by the curb on garbage day.
-ああ～～も～|何のために先行してんだよ！|追いつけないどころか追いつかれるぞ！=Come on already! Why are we still stopped! Instead of chasing after them, we've got someone chasing after us!
+ああ～～も～|何のために先行してんだよ！|追いつけないどころか追いつかれるぞ！=Come on already! Why are we still stopped? Instead of chasing after them, we've got someone chasing after us!
 追いついたぜぇ=We've finally caught up!
 げっ！　魔剣！？=Ack! The Demon Sword!?
 なんかまだ声が聞こえるからよォ、追っかけて|きてみりゃー笑えるコトになってんなァ。|クロナ、今のうちに始末しちまおうぜ=We could still hear your voices, so chasing after you was a joke.|Crona, let's finish this now.
@@ -2259,7 +2259,7 @@
 どんとこ～い！=Let's see you try!
 随分とゴチャゴチャしてきたな。|まるで遺跡で出来た臓物だ=This place is a complete mess. It hardly even looks like a building anymore.
 余所見するな、ごちゃごちゃしたものは|見なくていい、シンメトリーを思い浮かべろ=Don't get distracted. You don't need to focus on the mess. Think about symmetrical stuff instead.
-ちょうちょ！=Butterfly!
+ちょうちょ！=Butterflies!
 数字の８！=The number eight!
 う！=Oh!
 どうした、発作か！？=What? Are you having a reaction?
@@ -2324,7 +2324,7 @@
 ええっ、もう…|でも時間がないものね、じっとしてるよりは|色々やってみましょう！=What? But there's no time. We should try to get past her not stick around to fight!
 狼男め、映像転送魔法とはやってくれる。|まんまと時間を稼がれてしまったわ=That bastard werewolf was using Forwarding Vision, a type of Spatial Magic. That bought them a lot of time.
 私ら敵に直接触れる武器じゃないからね。|うまくはめられちまった。|ま、ともかく急ごうぜ=It was a nice trick since we're weapons that fight from a distance. Anyway, we need to hurry!
-ちょうちょ！=Butterfly!
+ちょうちょ！=Butterflies!
 うむ、ちょうちょはいいな…シンメトリーだ=Yes, butterflies are quite nice... So symmetrical.
 メデューサ！=Medusa!
 メデューサはシンメトリーではないだろうが？=Medusa's not symmetrical.
@@ -2335,7 +2335,7 @@
 連続で同じ手で来るほど馬鹿でもあるまい…|てぇい！=No, she's not foolish enough to play the same card twice. Hya!
 よけた？　来るよ！=She dodged? Watch out!
 うっ、ベクトルアロー！？|ただの映像じゃない、ホンモノの魔法だぜ=Ugh! Vector Arrow!? That was no vision. That was the real deal.
-時限式の身代わり魔法か何かだな。|通り抜けることが出来んなら、倒して進むしか|ない=It must be some sort of limited-time magic substitute or something. Well, if we can't go through it, we'll just have to defeat it!
+時限式の身代わり魔法か何かだな。|通り抜けることが出来んなら、倒して進むしか|ない=It must be some sort of temporal magic substitute or something. Well, if we can't go through it, we'll just have to defeat it!
 倒す？　できるのかよ！？=Defeat it!? Is that possible?
 身代わり自体は実体のはずだ。ダメージを|与えれば動かなくなる。|もう時間が無い、いくぞ！=The substitute is most likely a real body. If we damage it, it 'll be unable to move. We're out of time. Let's go!
 おー！=Yeah!
@@ -2357,7 +2357,7 @@
 ブラック☆スター、来たか！|奥のヤツを止めろ！=Great, you're here, Black☆Star! The other one, stop her!
 ひゃっはぁぁぁ！！=Yahoo!!
 クソ！　行ったぞエルカ！=Damn! He's coming, Eruka!
-カエロッグフロエル…|ゲコエルフロッグ…=Ribbit frog, fribbit rog. Croak, frog, croak!#Eruka says this in ep. 23. It's really fast and difficult to hear exactly what she's saying, though, so it's probably wrong.
+カエロッグフロエル…|ゲコエルフロッグ…=Ribbit frog, fribbit rog. Croak, frog, croak!#Eruka says this in ep. 23. It's really fast and difficult to hear exactly what she's saying though, so it's probably wrong.
 できたておたまボム！！=Try one of my Tadpole Bombs!!#should the attack name be capitalized?
 ぐぼっ！！=Grhh!
 今のうち…=Now's my chance!
