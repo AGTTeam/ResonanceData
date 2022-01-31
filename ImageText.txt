@@ -475,9 +475,9 @@ mm_opfc.png#done
 
 mm_smfc.png:#done
 =アーケード=
-COMのキャラクターと順番に戦います=Battles with COM characters in a row
+COMのキャラクターと順番に戦います=Battles against a series of COM characters
 =フリーバトル=
-バトルルールを自由に変更して戦います=Change the battle rules as you'd like
+バトルルールを自由に変更して戦います=Freely change the battle rules
 =チームバトル=
 3対3のチームを組んで戦います=Battle in teams of 3 on 3
 
@@ -506,7 +506,7 @@ Mm_fonta.png (2):#done
 COMのキャラクターたちとバトル!=Battle with COM characters!
 アドホックモードで2プレイヤー対戦!=Go head-to-head in LAN mode!
 課題をクリアしていくストーリーモード！=Clear tasks to advance the story!
-キャラクターのボイスを設定します=Change the characters voices!
+キャラクターのボイスを設定します=Change the character voices!#or characters'
 各種音量やボタンの設定ができます=Adjust volume and controls
 
 Waza_name.png:#unused?
