@@ -29,7 +29,7 @@
 ９【残りタイムが８に】= 9: 8 seconds left
 １０【キッドのお母さん】= 10: Kid's mother
 １【昨日のアレ】= 1: That thing yesterday...
-２【そこの扉は内側に】= 2: Those doors open inward
+２【そこの扉は内側に】= 2: Inward-opening doors
 ３【合点承知の助です】= 3: I understand
 ４【画鋲入れんぞコラ】= 4: I'll skewer you!
 ５【クロナの物は】= 5: Crona's things
