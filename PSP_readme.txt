@@ -82,7 +82,7 @@ We hope you enjoy!
  Haribeau
  Maa9
 
-=Proofreading & Graphics=
+=Graphics=
  Phantom
 
 =Font Identification=
